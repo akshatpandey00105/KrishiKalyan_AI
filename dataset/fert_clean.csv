@@ -1,0 +1,4289 @@
+Soil,Nitrogen,Phosphorous,Potassium,PH,Rainfall,Temperature,Crop,Fertilizer
+Alkaline,75,50,100,6.5,1000,20,sugarcane,Urea
+Alkaline,80,50,100,6.5,1000,20,sugarcane,Urea
+Alkaline,85,50,100,6.5,1000,20,sugarcane,Urea
+Alkaline,90,50,100,6.5,1000,20,sugarcane,Urea
+Alkaline,95,50,100,6.5,1000,20,sugarcane,Urea
+Alkaline,100,50,100,6.5,1000,20,sugarcane,Urea
+Alkaline,75,55,105,7.0,1100,25,sugarcane,Urea
+Alkaline,80,55,105,7.0,1100,25,sugarcane,Urea
+Alkaline,85,55,105,7.0,1100,25,sugarcane,Urea
+Alkaline,90,55,105,7.0,1100,25,sugarcane,Urea
+Alkaline,95,55,105,7.0,1100,25,sugarcane,Urea
+Alkaline,100,55,105,7.0,1100,25,sugarcane,Urea
+Alkaline,75,60,110,7.5,1200,30,sugarcane,Urea
+Alkaline,80,60,110,7.5,1200,30,sugarcane,Urea
+Alkaline,85,60,110,7.5,1200,30,sugarcane,Urea
+Alkaline,90,60,110,7.5,1200,30,sugarcane,Urea
+Alkaline,95,60,110,7.5,1200,30,sugarcane,Urea
+Alkaline,100,60,110,7.5,1200,30,sugarcane,Urea
+Alkaline,75,50,115,6.5,1300,35,sugarcane,Urea
+Alkaline,80,50,115,6.5,1300,35,sugarcane,Urea
+Alkaline,85,50,115,6.5,1300,35,sugarcane,Urea
+Alkaline,90,50,115,6.5,1300,35,sugarcane,Urea
+Alkaline,95,50,115,6.5,1300,35,sugarcane,Urea
+Alkaline,100,50,115,6.5,1300,35,sugarcane,Urea
+Alkaline,75,55,100,7.0,1400,20,sugarcane,DAP
+Alkaline,80,55,100,7.0,1400,20,sugarcane,DAP
+Alkaline,85,55,100,7.0,1400,20,sugarcane,DAP
+Alkaline,90,55,100,7.0,1400,20,sugarcane,DAP
+Alkaline,95,55,100,7.0,1400,20,sugarcane,DAP
+Alkaline,100,55,100,7.0,1400,20,sugarcane,DAP
+Alkaline,75,60,105,7.5,1500,25,sugarcane,DAP
+Alkaline,80,60,105,7.5,1500,25,sugarcane,DAP
+Alkaline,85,60,105,7.5,1500,25,sugarcane,DAP
+Alkaline,90,60,105,7.5,1500,25,sugarcane,DAP
+Alkaline,95,60,105,7.5,1500,25,sugarcane,DAP
+Alkaline,100,60,105,7.5,1500,25,sugarcane,DAP
+Alkaline,75,50,110,6.5,1000,30,sugarcane,DAP
+Alkaline,80,50,110,6.5,1000,30,sugarcane,DAP
+Alkaline,85,50,110,6.5,1000,30,sugarcane,DAP
+Alkaline,90,50,110,6.5,1000,30,sugarcane,DAP
+Alkaline,95,50,110,6.5,1000,30,sugarcane,DAP
+Alkaline,100,50,110,6.5,1000,30,sugarcane,DAP
+Alkaline,75,55,115,7.0,1100,35,sugarcane,DAP
+Alkaline,80,55,115,7.0,1100,35,sugarcane,DAP
+Alkaline,85,55,115,7.0,1100,35,sugarcane,DAP
+Alkaline,90,55,115,7.0,1100,35,sugarcane,DAP
+Alkaline,95,55,115,7.0,1100,35,sugarcane,DAP
+Alkaline,100,55,115,7.0,1100,35,sugarcane,DAP
+Alkaline,75,60,100,7.5,1200,20,sugarcane,MOP
+Alkaline,80,60,100,7.5,1200,20,sugarcane,MOP
+Alkaline,85,60,100,7.5,1200,20,sugarcane,MOP
+Alkaline,90,60,100,7.5,1200,20,sugarcane,MOP
+Alkaline,95,60,100,7.5,1200,20,sugarcane,MOP
+Alkaline,100,60,100,7.5,1200,20,sugarcane,MOP
+Alkaline,75,50,105,6.5,1300,25,sugarcane,MOP
+Alkaline,80,50,105,6.5,1300,25,sugarcane,MOP
+Alkaline,85,50,105,6.5,1300,25,sugarcane,MOP
+Alkaline,90,50,105,6.5,1300,25,sugarcane,MOP
+Alkaline,95,50,105,6.5,1300,25,sugarcane,MOP
+Alkaline,100,50,105,6.5,1300,25,sugarcane,MOP
+Alkaline,75,55,110,7.0,1400,30,sugarcane,MOP
+Alkaline,80,55,110,7.0,1400,30,sugarcane,MOP
+Alkaline,85,55,110,7.0,1400,30,sugarcane,MOP
+Alkaline,90,55,110,7.0,1400,30,sugarcane,MOP
+Alkaline,95,55,110,7.0,1400,30,sugarcane,MOP
+Alkaline,100,55,110,7.0,1400,30,sugarcane,MOP
+Alkaline,75,60,115,7.5,1500,35,sugarcane,MOP
+Alkaline,80,60,115,7.5,1500,35,sugarcane,MOP
+Alkaline,85,60,115,7.5,1500,35,sugarcane,MOP
+Alkaline,90,60,115,7.5,1500,35,sugarcane,MOP
+Alkaline,95,60,115,7.5,1500,35,sugarcane,MOP
+Alkaline,100,60,115,7.5,1500,35,sugarcane,MOP
+Alkaline,20,25,25,6.5,600,25,millet,10:26:26 NPK
+Alkaline,25,25,25,6.5,600,25,millet,10:26:26 NPK
+Alkaline,30,25,25,6.5,600,25,millet,10:26:26 NPK
+Alkaline,35,25,25,6.5,600,25,millet,10:26:26 NPK
+Alkaline,40,25,25,6.5,600,25,millet,10:26:26 NPK
+Alkaline,20,30,30,7.0,700,30,millet,10:26:26 NPK
+Alkaline,25,30,30,7.0,700,30,millet,10:26:26 NPK
+Alkaline,30,30,30,7.0,700,30,millet,10:26:26 NPK
+Alkaline,35,30,30,7.0,700,30,millet,10:26:26 NPK
+Alkaline,40,30,30,7.0,700,30,millet,10:26:26 NPK
+Alkaline,20,35,35,7.5,800,25,millet,10:26:26 NPK
+Alkaline,25,35,35,7.5,800,25,millet,10:26:26 NPK
+Alkaline,30,35,35,7.5,800,25,millet,10:26:26 NPK
+Alkaline,35,35,35,7.5,800,25,millet,10:26:26 NPK
+Alkaline,40,35,35,7.5,800,25,millet,10:26:26 NPK
+Alkaline,20,25,40,6.5,600,30,millet,10:26:26 NPK
+Alkaline,25,25,40,6.5,600,30,millet,10:26:26 NPK
+Alkaline,30,25,40,6.5,600,30,millet,10:26:26 NPK
+Alkaline,35,25,40,6.5,600,30,millet,10:26:26 NPK
+Alkaline,40,25,40,6.5,600,30,millet,10:26:26 NPK
+Alkaline,20,30,25,7.0,700,25,millet,Urea
+Alkaline,25,30,25,7.0,700,25,millet,Urea
+Alkaline,30,30,25,7.0,700,25,millet,Urea
+Alkaline,35,30,25,7.0,700,25,millet,Urea
+Alkaline,40,30,25,7.0,700,25,millet,Urea
+Alkaline,20,35,30,7.5,800,30,millet,Urea
+Alkaline,25,35,30,7.5,800,30,millet,Urea
+Alkaline,30,35,30,7.5,800,30,millet,Urea
+Alkaline,35,35,30,7.5,800,30,millet,Urea
+Alkaline,40,35,30,7.5,800,30,millet,Urea
+Alkaline,20,25,35,6.5,600,25,millet,Urea
+Alkaline,25,25,35,6.5,600,25,millet,Urea
+Alkaline,30,25,35,6.5,600,25,millet,Urea
+Alkaline,35,25,35,6.5,600,25,millet,Urea
+Alkaline,40,25,35,6.5,600,25,millet,Urea
+Alkaline,20,30,40,7.0,700,30,millet,Urea
+Alkaline,25,30,40,7.0,700,30,millet,Urea
+Alkaline,30,30,40,7.0,700,30,millet,Urea
+Alkaline,35,30,40,7.0,700,30,millet,Urea
+Alkaline,40,30,40,7.0,700,30,millet,Urea
+Alkaline,20,35,25,7.5,800,25,millet,SSP
+Alkaline,25,35,25,7.5,800,25,millet,SSP
+Alkaline,30,35,25,7.5,800,25,millet,SSP
+Alkaline,35,35,25,7.5,800,25,millet,SSP
+Alkaline,40,35,25,7.5,800,25,millet,SSP
+Alkaline,20,25,30,6.5,600,30,millet,SSP
+Alkaline,25,25,30,6.5,600,30,millet,SSP
+Alkaline,30,25,30,6.5,600,30,millet,SSP
+Alkaline,35,25,30,6.5,600,30,millet,SSP
+Alkaline,40,25,30,6.5,600,30,millet,SSP
+Alkaline,20,30,35,7.0,700,25,millet,SSP
+Alkaline,25,30,35,7.0,700,25,millet,SSP
+Alkaline,30,30,35,7.0,700,25,millet,SSP
+Alkaline,35,30,35,7.0,700,25,millet,SSP
+Alkaline,40,30,35,7.0,700,25,millet,SSP
+Alkaline,20,35,40,7.5,800,30,millet,SSP
+Alkaline,25,35,40,7.5,800,30,millet,SSP
+Alkaline,30,35,40,7.5,800,30,millet,SSP
+Alkaline,35,35,40,7.5,800,30,millet,SSP
+Alkaline,40,35,40,7.5,800,30,millet,SSP
+Alkaline,40,20,20,6.0,600,25,millet,10:26:26 NPK
+Alkaline,45,20,20,6.0,600,25,millet,10:26:26 NPK
+Alkaline,50,20,20,6.0,600,25,millet,10:26:26 NPK
+Alkaline,40,25,25,6.5,700,30,millet,10:26:26 NPK
+Alkaline,45,25,25,6.5,700,30,millet,10:26:26 NPK
+Alkaline,50,25,25,6.5,700,30,millet,10:26:26 NPK
+Alkaline,40,20,25,7.0,800,25,millet,10:26:26 NPK
+Alkaline,45,20,25,7.0,800,25,millet,10:26:26 NPK
+Alkaline,50,20,25,7.0,800,25,millet,10:26:26 NPK
+Alkaline,40,25,20,7.5,600,30,millet,10:26:26 NPK
+Alkaline,45,25,20,7.5,600,30,millet,10:26:26 NPK
+Alkaline,50,25,20,7.5,600,30,millet,10:26:26 NPK
+Acidic,100,40,50,6.0,800,25,cotton,DAP
+Acidic,105,40,50,6.0,800,25,cotton,DAP
+Acidic,110,40,50,6.0,800,25,cotton,DAP
+Acidic,115,40,50,6.0,800,25,cotton,DAP
+Acidic,120,40,50,6.0,800,25,cotton,DAP
+Acidic,125,40,50,6.0,800,25,cotton,DAP
+Acidic,130,40,50,6.0,800,25,cotton,DAP
+Acidic,135,40,50,6.0,800,25,cotton,DAP
+Acidic,140,40,50,6.0,800,25,cotton,DAP
+Acidic,145,40,50,6.0,800,25,cotton,DAP
+Acidic,150,40,50,6.0,800,25,cotton,DAP
+Acidic,100,45,55,6.5,900,30,cotton,DAP
+Acidic,105,45,55,6.5,900,30,cotton,DAP
+Acidic,110,45,55,6.5,900,30,cotton,DAP
+Acidic,115,45,55,6.5,900,30,cotton,DAP
+Acidic,120,45,55,6.5,900,30,cotton,DAP
+Acidic,125,45,55,6.5,900,30,cotton,DAP
+Acidic,130,45,55,6.5,900,30,cotton,DAP
+Acidic,135,45,55,6.5,900,30,cotton,DAP
+Acidic,140,45,55,6.5,900,30,cotton,DAP
+Acidic,145,45,55,6.5,900,30,cotton,DAP
+Acidic,150,45,55,6.5,900,30,cotton,DAP
+Acidic,100,50,60,7.0,1000,35,cotton,DAP
+Acidic,105,50,60,7.0,1000,35,cotton,DAP
+Acidic,110,50,60,7.0,1000,35,cotton,DAP
+Acidic,115,50,60,7.0,1000,35,cotton,DAP
+Acidic,120,50,60,7.0,1000,35,cotton,DAP
+Acidic,125,50,60,7.0,1000,35,cotton,DAP
+Acidic,130,50,60,7.0,1000,35,cotton,DAP
+Acidic,135,50,60,7.0,1000,35,cotton,DAP
+Acidic,140,50,60,7.0,1000,35,cotton,DAP
+Acidic,145,50,60,7.0,1000,35,cotton,DAP
+Acidic,150,50,60,7.0,1000,35,cotton,DAP
+Acidic,100,55,65,7.5,800,25,cotton,DAP
+Acidic,105,55,65,7.5,800,25,cotton,DAP
+Acidic,110,55,65,7.5,800,25,cotton,DAP
+Acidic,115,55,65,7.5,800,25,cotton,DAP
+Acidic,120,55,65,7.5,800,25,cotton,DAP
+Acidic,125,55,65,7.5,800,25,cotton,DAP
+Acidic,130,55,65,7.5,800,25,cotton,DAP
+Acidic,135,55,65,7.5,800,25,cotton,DAP
+Acidic,140,55,65,7.5,800,25,cotton,DAP
+Acidic,145,55,65,7.5,800,25,cotton,DAP
+Acidic,150,55,65,7.5,800,25,cotton,DAP
+Acidic,100,60,70,6.0,900,30,cotton,DAP
+Acidic,105,60,70,6.0,900,30,cotton,DAP
+Acidic,110,60,70,6.0,900,30,cotton,DAP
+Acidic,115,60,70,6.0,900,30,cotton,DAP
+Acidic,120,60,70,6.0,900,30,cotton,DAP
+Acidic,125,60,70,6.0,900,30,cotton,DAP
+Acidic,130,60,70,6.0,900,30,cotton,DAP
+Acidic,135,60,70,6.0,900,30,cotton,DAP
+Acidic,140,60,70,6.0,900,30,cotton,DAP
+Acidic,145,60,70,6.0,900,30,cotton,DAP
+Acidic,150,60,70,6.0,900,30,cotton,DAP
+Acidic,100,40,75,6.5,1000,35,cotton,DAP
+Acidic,105,40,75,6.5,1000,35,cotton,DAP
+Acidic,110,40,75,6.5,1000,35,cotton,DAP
+Acidic,115,40,75,6.5,1000,35,cotton,DAP
+Acidic,120,40,75,6.5,1000,35,cotton,DAP
+Acidic,125,40,75,6.5,1000,35,cotton,DAP
+Acidic,130,40,75,6.5,1000,35,cotton,DAP
+Acidic,135,40,75,6.5,1000,35,cotton,DAP
+Acidic,140,40,75,6.5,1000,35,cotton,DAP
+Acidic,145,40,75,6.5,1000,35,cotton,DAP
+Acidic,150,40,75,6.5,1000,35,cotton,DAP
+Acidic,100,45,50,6.0,800,25,cotton,Magnesium Sulphate
+Acidic,105,45,50,6.0,800,25,cotton,Magnesium Sulphate
+Acidic,110,45,50,6.0,800,25,cotton,Magnesium Sulphate
+Acidic,115,45,50,6.0,800,25,cotton,Magnesium Sulphate
+Acidic,120,45,50,6.0,800,25,cotton,Magnesium Sulphate
+Acidic,125,45,50,6.0,800,25,cotton,Magnesium Sulphate
+Acidic,130,45,50,6.0,800,25,cotton,Magnesium Sulphate
+Acidic,135,45,50,6.0,800,25,cotton,Magnesium Sulphate
+Acidic,140,45,50,6.0,800,25,cotton,Magnesium Sulphate
+Acidic,145,45,50,6.0,800,25,cotton,Magnesium Sulphate
+Acidic,150,45,50,6.0,800,25,cotton,Magnesium Sulphate
+Acidic,100,50,55,6.5,900,30,cotton,Magnesium Sulphate
+Acidic,105,50,55,6.5,900,30,cotton,Magnesium Sulphate
+Acidic,110,50,55,6.5,900,30,cotton,Magnesium Sulphate
+Acidic,115,50,55,6.5,900,30,cotton,Magnesium Sulphate
+Acidic,120,50,55,6.5,900,30,cotton,Magnesium Sulphate
+Acidic,125,50,55,6.5,900,30,cotton,Magnesium Sulphate
+Acidic,130,50,55,6.5,900,30,cotton,Magnesium Sulphate
+Acidic,135,50,55,6.5,900,30,cotton,Magnesium Sulphate
+Acidic,140,50,55,6.5,900,30,cotton,Magnesium Sulphate
+Acidic,145,50,55,6.5,900,30,cotton,Magnesium Sulphate
+Acidic,150,50,55,6.5,900,30,cotton,Magnesium Sulphate
+Acidic,100,55,60,7.0,1000,35,cotton,Magnesium Sulphate
+Acidic,105,55,60,7.0,1000,35,cotton,Magnesium Sulphate
+Acidic,110,55,60,7.0,1000,35,cotton,Magnesium Sulphate
+Acidic,115,55,60,7.0,1000,35,cotton,Magnesium Sulphate
+Acidic,120,55,60,7.0,1000,35,cotton,Magnesium Sulphate
+Acidic,125,55,60,7.0,1000,35,cotton,Magnesium Sulphate
+Acidic,130,55,60,7.0,1000,35,cotton,Magnesium Sulphate
+Acidic,135,55,60,7.0,1000,35,cotton,Magnesium Sulphate
+Acidic,140,55,60,7.0,1000,35,cotton,Magnesium Sulphate
+Acidic,145,55,60,7.0,1000,35,cotton,Magnesium Sulphate
+Acidic,150,55,60,7.0,1000,35,cotton,Magnesium Sulphate
+Acidic,100,60,65,7.5,800,25,cotton,Magnesium Sulphate
+Acidic,105,60,65,7.5,800,25,cotton,Magnesium Sulphate
+Acidic,110,60,65,7.5,800,25,cotton,Magnesium Sulphate
+Acidic,115,60,65,7.5,800,25,cotton,Magnesium Sulphate
+Acidic,120,60,65,7.5,800,25,cotton,Magnesium Sulphate
+Acidic,125,60,65,7.5,800,25,cotton,Magnesium Sulphate
+Acidic,130,60,65,7.5,800,25,cotton,Magnesium Sulphate
+Acidic,135,60,65,7.5,800,25,cotton,Magnesium Sulphate
+Acidic,140,60,65,7.5,800,25,cotton,Magnesium Sulphate
+Acidic,145,60,65,7.5,800,25,cotton,Magnesium Sulphate
+Acidic,150,60,65,7.5,800,25,cotton,Magnesium Sulphate
+Acidic,100,40,70,6.0,900,30,cotton,Magnesium Sulphate
+Acidic,105,40,70,6.0,900,30,cotton,Magnesium Sulphate
+Acidic,110,40,70,6.0,900,30,cotton,Magnesium Sulphate
+Acidic,115,40,70,6.0,900,30,cotton,Magnesium Sulphate
+Acidic,120,40,70,6.0,900,30,cotton,Magnesium Sulphate
+Acidic,125,40,70,6.0,900,30,cotton,Magnesium Sulphate
+Acidic,130,40,70,6.0,900,30,cotton,Magnesium Sulphate
+Acidic,135,40,70,6.0,900,30,cotton,Magnesium Sulphate
+Acidic,140,40,70,6.0,900,30,cotton,Magnesium Sulphate
+Acidic,145,40,70,6.0,900,30,cotton,Magnesium Sulphate
+Acidic,150,40,70,6.0,900,30,cotton,Magnesium Sulphate
+Acidic,100,45,75,6.5,1000,35,cotton,Magnesium Sulphate
+Acidic,105,45,75,6.5,1000,35,cotton,Magnesium Sulphate
+Acidic,110,45,75,6.5,1000,35,cotton,Magnesium Sulphate
+Acidic,115,45,75,6.5,1000,35,cotton,Magnesium Sulphate
+Acidic,120,45,75,6.5,1000,35,cotton,Magnesium Sulphate
+Acidic,125,45,75,6.5,1000,35,cotton,Magnesium Sulphate
+Acidic,130,45,75,6.5,1000,35,cotton,Magnesium Sulphate
+Acidic,135,45,75,6.5,1000,35,cotton,Magnesium Sulphate
+Acidic,140,45,75,6.5,1000,35,cotton,Magnesium Sulphate
+Acidic,145,45,75,6.5,1000,35,cotton,Magnesium Sulphate
+Acidic,150,45,75,6.5,1000,35,cotton,Magnesium Sulphate
+Acidic,100,50,50,7.0,800,25,cotton,13:32:26 NPK
+Acidic,105,50,50,7.0,800,25,cotton,13:32:26 NPK
+Acidic,110,50,50,7.0,800,25,cotton,13:32:26 NPK
+Acidic,115,50,50,7.0,800,25,cotton,13:32:26 NPK
+Acidic,120,50,50,7.0,800,25,cotton,13:32:26 NPK
+Acidic,125,50,50,7.0,800,25,cotton,13:32:26 NPK
+Acidic,130,50,50,7.0,800,25,cotton,13:32:26 NPK
+Acidic,135,50,50,7.0,800,25,cotton,13:32:26 NPK
+Acidic,140,50,50,7.0,800,25,cotton,13:32:26 NPK
+Acidic,145,50,50,7.0,800,25,cotton,13:32:26 NPK
+Acidic,150,50,50,7.0,800,25,cotton,13:32:26 NPK
+Acidic,100,55,55,7.5,900,30,cotton,13:32:26 NPK
+Acidic,105,55,55,7.5,900,30,cotton,13:32:26 NPK
+Acidic,110,55,55,7.5,900,30,cotton,13:32:26 NPK
+Acidic,115,55,55,7.5,900,30,cotton,13:32:26 NPK
+Acidic,120,55,55,7.5,900,30,cotton,13:32:26 NPK
+Acidic,125,55,55,7.5,900,30,cotton,13:32:26 NPK
+Acidic,130,55,55,7.5,900,30,cotton,13:32:26 NPK
+Acidic,135,55,55,7.5,900,30,cotton,13:32:26 NPK
+Acidic,140,55,55,7.5,900,30,cotton,13:32:26 NPK
+Acidic,145,55,55,7.5,900,30,cotton,13:32:26 NPK
+Acidic,150,55,55,7.5,900,30,cotton,13:32:26 NPK
+Acidic,100,60,60,6.0,1000,35,cotton,13:32:26 NPK
+Acidic,105,60,60,6.0,1000,35,cotton,13:32:26 NPK
+Acidic,110,60,60,6.0,1000,35,cotton,13:32:26 NPK
+Acidic,115,60,60,6.0,1000,35,cotton,13:32:26 NPK
+Acidic,120,60,60,6.0,1000,35,cotton,13:32:26 NPK
+Acidic,125,60,60,6.0,1000,35,cotton,13:32:26 NPK
+Acidic,130,60,60,6.0,1000,35,cotton,13:32:26 NPK
+Acidic,135,60,60,6.0,1000,35,cotton,13:32:26 NPK
+Acidic,140,60,60,6.0,1000,35,cotton,13:32:26 NPK
+Acidic,145,60,60,6.0,1000,35,cotton,13:32:26 NPK
+Acidic,150,60,60,6.0,1000,35,cotton,13:32:26 NPK
+Acidic,100,40,65,6.5,800,25,cotton,13:32:26 NPK
+Acidic,105,40,65,6.5,800,25,cotton,13:32:26 NPK
+Acidic,110,40,65,6.5,800,25,cotton,13:32:26 NPK
+Acidic,115,40,65,6.5,800,25,cotton,13:32:26 NPK
+Acidic,120,40,65,6.5,800,25,cotton,13:32:26 NPK
+Acidic,125,40,65,6.5,800,25,cotton,13:32:26 NPK
+Acidic,130,40,65,6.5,800,25,cotton,13:32:26 NPK
+Acidic,135,40,65,6.5,800,25,cotton,13:32:26 NPK
+Acidic,140,40,65,6.5,800,25,cotton,13:32:26 NPK
+Acidic,145,40,65,6.5,800,25,cotton,13:32:26 NPK
+Acidic,150,40,65,6.5,800,25,cotton,13:32:26 NPK
+Acidic,100,45,70,7.0,900,30,cotton,13:32:26 NPK
+Acidic,105,45,70,7.0,900,30,cotton,13:32:26 NPK
+Acidic,110,45,70,7.0,900,30,cotton,13:32:26 NPK
+Acidic,115,45,70,7.0,900,30,cotton,13:32:26 NPK
+Acidic,120,45,70,7.0,900,30,cotton,13:32:26 NPK
+Acidic,125,45,70,7.0,900,30,cotton,13:32:26 NPK
+Acidic,130,45,70,7.0,900,30,cotton,13:32:26 NPK
+Acidic,135,45,70,7.0,900,30,cotton,13:32:26 NPK
+Acidic,140,45,70,7.0,900,30,cotton,13:32:26 NPK
+Acidic,145,45,70,7.0,900,30,cotton,13:32:26 NPK
+Acidic,150,45,70,7.0,900,30,cotton,13:32:26 NPK
+Acidic,100,50,75,7.5,1000,35,cotton,13:32:26 NPK
+Acidic,105,50,75,7.5,1000,35,cotton,13:32:26 NPK
+Acidic,110,50,75,7.5,1000,35,cotton,13:32:26 NPK
+Acidic,115,50,75,7.5,1000,35,cotton,13:32:26 NPK
+Acidic,120,50,75,7.5,1000,35,cotton,13:32:26 NPK
+Acidic,125,50,75,7.5,1000,35,cotton,13:32:26 NPK
+Acidic,130,50,75,7.5,1000,35,cotton,13:32:26 NPK
+Acidic,135,50,75,7.5,1000,35,cotton,13:32:26 NPK
+Acidic,140,50,75,7.5,1000,35,cotton,13:32:26 NPK
+Acidic,145,50,75,7.5,1000,35,cotton,13:32:26 NPK
+Acidic,150,50,75,7.5,1000,35,cotton,13:32:26 NPK
+Acidic,100,55,50,6.0,800,25,cotton,DAP
+Acidic,105,55,50,6.0,800,25,cotton,DAP
+Acidic,110,55,50,6.0,800,25,cotton,DAP
+Acidic,115,55,50,6.0,800,25,cotton,DAP
+Acidic,120,55,50,6.0,800,25,cotton,DAP
+Acidic,125,55,50,6.0,800,25,cotton,DAP
+Acidic,130,55,50,6.0,800,25,cotton,DAP
+Acidic,135,55,50,6.0,800,25,cotton,DAP
+Acidic,140,55,50,6.0,800,25,cotton,DAP
+Acidic,145,55,50,6.0,800,25,cotton,DAP
+Acidic,150,55,50,6.0,800,25,cotton,DAP
+Acidic,100,60,55,6.5,900,30,cotton,DAP
+Acidic,105,60,55,6.5,900,30,cotton,DAP
+Acidic,110,60,55,6.5,900,30,cotton,DAP
+Acidic,115,60,55,6.5,900,30,cotton,DAP
+Acidic,120,60,55,6.5,900,30,cotton,DAP
+Acidic,125,60,55,6.5,900,30,cotton,DAP
+Acidic,130,60,55,6.5,900,30,cotton,DAP
+Acidic,135,60,55,6.5,900,30,cotton,DAP
+Acidic,140,60,55,6.5,900,30,cotton,DAP
+Acidic,145,60,55,6.5,900,30,cotton,DAP
+Acidic,150,60,55,6.5,900,30,cotton,DAP
+Acidic,100,40,60,7.0,1000,35,cotton,DAP
+Acidic,105,40,60,7.0,1000,35,cotton,DAP
+Acidic,110,40,60,7.0,1000,35,cotton,DAP
+Acidic,115,40,60,7.0,1000,35,cotton,DAP
+Acidic,120,40,60,7.0,1000,35,cotton,DAP
+Acidic,125,40,60,7.0,1000,35,cotton,DAP
+Acidic,130,40,60,7.0,1000,35,cotton,DAP
+Acidic,135,40,60,7.0,1000,35,cotton,DAP
+Acidic,140,40,60,7.0,1000,35,cotton,DAP
+Acidic,145,40,60,7.0,1000,35,cotton,DAP
+Acidic,150,40,60,7.0,1000,35,cotton,DAP
+Acidic,100,45,65,7.5,800,25,cotton,DAP
+Acidic,105,45,65,7.5,800,25,cotton,DAP
+Acidic,110,45,65,7.5,800,25,cotton,DAP
+Acidic,115,45,65,7.5,800,25,cotton,DAP
+Acidic,120,45,65,7.5,800,25,cotton,DAP
+Acidic,125,45,65,7.5,800,25,cotton,DAP
+Acidic,130,45,65,7.5,800,25,cotton,DAP
+Acidic,135,45,65,7.5,800,25,cotton,DAP
+Acidic,140,45,65,7.5,800,25,cotton,DAP
+Acidic,145,45,65,7.5,800,25,cotton,DAP
+Acidic,150,45,65,7.5,800,25,cotton,DAP
+Acidic,100,50,70,6.0,900,30,cotton,DAP
+Acidic,105,50,70,6.0,900,30,cotton,DAP
+Acidic,110,50,70,6.0,900,30,cotton,DAP
+Acidic,115,50,70,6.0,900,30,cotton,DAP
+Acidic,120,50,70,6.0,900,30,cotton,DAP
+Acidic,125,50,70,6.0,900,30,cotton,DAP
+Acidic,130,50,70,6.0,900,30,cotton,DAP
+Acidic,135,50,70,6.0,900,30,cotton,DAP
+Acidic,140,50,70,6.0,900,30,cotton,DAP
+Acidic,145,50,70,6.0,900,30,cotton,DAP
+Acidic,150,50,70,6.0,900,30,cotton,DAP
+Acidic,100,55,75,6.5,1000,35,cotton,DAP
+Acidic,105,55,75,6.5,1000,35,cotton,DAP
+Acidic,110,55,75,6.5,1000,35,cotton,DAP
+Acidic,115,55,75,6.5,1000,35,cotton,DAP
+Acidic,120,55,75,6.5,1000,35,cotton,DAP
+Acidic,125,55,75,6.5,1000,35,cotton,DAP
+Acidic,130,55,75,6.5,1000,35,cotton,DAP
+Acidic,135,55,75,6.5,1000,35,cotton,DAP
+Acidic,140,55,75,6.5,1000,35,cotton,DAP
+Acidic,145,55,75,6.5,1000,35,cotton,DAP
+Acidic,150,55,75,6.5,1000,35,cotton,DAP
+Acidic,100,60,50,7.0,800,25,cotton,Magnesium Sulphate
+Acidic,105,60,50,7.0,800,25,cotton,Magnesium Sulphate
+Acidic,110,60,50,7.0,800,25,cotton,Magnesium Sulphate
+Acidic,115,60,50,7.0,800,25,cotton,Magnesium Sulphate
+Acidic,120,60,50,7.0,800,25,cotton,Magnesium Sulphate
+Acidic,125,60,50,7.0,800,25,cotton,Magnesium Sulphate
+Acidic,130,60,50,7.0,800,25,cotton,Magnesium Sulphate
+Acidic,135,60,50,7.0,800,25,cotton,Magnesium Sulphate
+Acidic,140,60,50,7.0,800,25,cotton,Magnesium Sulphate
+Acidic,145,60,50,7.0,800,25,cotton,Magnesium Sulphate
+Acidic,150,60,50,7.0,800,25,cotton,Magnesium Sulphate
+Acidic,100,40,55,7.5,900,30,cotton,Magnesium Sulphate
+Acidic,105,40,55,7.5,900,30,cotton,Magnesium Sulphate
+Acidic,110,40,55,7.5,900,30,cotton,Magnesium Sulphate
+Acidic,115,40,55,7.5,900,30,cotton,Magnesium Sulphate
+Acidic,120,40,55,7.5,900,30,cotton,Magnesium Sulphate
+Acidic,125,40,55,7.5,900,30,cotton,Magnesium Sulphate
+Acidic,130,40,55,7.5,900,30,cotton,Magnesium Sulphate
+Acidic,135,40,55,7.5,900,30,cotton,Magnesium Sulphate
+Acidic,140,40,55,7.5,900,30,cotton,Magnesium Sulphate
+Acidic,145,40,55,7.5,900,30,cotton,Magnesium Sulphate
+Acidic,150,40,55,7.5,900,30,cotton,Magnesium Sulphate
+Acidic,100,45,60,6.0,1000,35,cotton,Magnesium Sulphate
+Acidic,105,45,60,6.0,1000,35,cotton,Magnesium Sulphate
+Acidic,110,45,60,6.0,1000,35,cotton,Magnesium Sulphate
+Acidic,115,45,60,6.0,1000,35,cotton,Magnesium Sulphate
+Acidic,120,45,60,6.0,1000,35,cotton,Magnesium Sulphate
+Acidic,125,45,60,6.0,1000,35,cotton,Magnesium Sulphate
+Acidic,130,45,60,6.0,1000,35,cotton,Magnesium Sulphate
+Acidic,135,45,60,6.0,1000,35,cotton,Magnesium Sulphate
+Acidic,140,45,60,6.0,1000,35,cotton,Magnesium Sulphate
+Acidic,145,45,60,6.0,1000,35,cotton,Magnesium Sulphate
+Acidic,150,45,60,6.0,1000,35,cotton,Magnesium Sulphate
+Acidic,100,50,65,6.5,800,25,cotton,Magnesium Sulphate
+Acidic,105,50,65,6.5,800,25,cotton,Magnesium Sulphate
+Acidic,110,50,65,6.5,800,25,cotton,Magnesium Sulphate
+Acidic,115,50,65,6.5,800,25,cotton,Magnesium Sulphate
+Acidic,120,50,65,6.5,800,25,cotton,Magnesium Sulphate
+Acidic,125,50,65,6.5,800,25,cotton,Magnesium Sulphate
+Acidic,130,50,65,6.5,800,25,cotton,Magnesium Sulphate
+Acidic,135,50,65,6.5,800,25,cotton,Magnesium Sulphate
+Acidic,140,50,65,6.5,800,25,cotton,Magnesium Sulphate
+Acidic,145,50,65,6.5,800,25,cotton,Magnesium Sulphate
+Acidic,150,50,65,6.5,800,25,cotton,Magnesium Sulphate
+Acidic,100,55,70,7.0,900,30,cotton,Magnesium Sulphate
+Acidic,105,55,70,7.0,900,30,cotton,Magnesium Sulphate
+Acidic,110,55,70,7.0,900,30,cotton,Magnesium Sulphate
+Acidic,115,55,70,7.0,900,30,cotton,Magnesium Sulphate
+Acidic,120,55,70,7.0,900,30,cotton,Magnesium Sulphate
+Acidic,125,55,70,7.0,900,30,cotton,Magnesium Sulphate
+Acidic,130,55,70,7.0,900,30,cotton,Magnesium Sulphate
+Acidic,135,55,70,7.0,900,30,cotton,Magnesium Sulphate
+Acidic,140,55,70,7.0,900,30,cotton,Magnesium Sulphate
+Acidic,145,55,70,7.0,900,30,cotton,Magnesium Sulphate
+Acidic,150,55,70,7.0,900,30,cotton,Magnesium Sulphate
+Acidic,100,60,75,7.5,1000,35,cotton,Magnesium Sulphate
+Acidic,105,60,75,7.5,1000,35,cotton,Magnesium Sulphate
+Acidic,110,60,75,7.5,1000,35,cotton,Magnesium Sulphate
+Acidic,115,60,75,7.5,1000,35,cotton,Magnesium Sulphate
+Acidic,120,60,75,7.5,1000,35,cotton,Magnesium Sulphate
+Acidic,125,60,75,7.5,1000,35,cotton,Magnesium Sulphate
+Acidic,130,60,75,7.5,1000,35,cotton,Magnesium Sulphate
+Acidic,135,60,75,7.5,1000,35,cotton,Magnesium Sulphate
+Acidic,140,60,75,7.5,1000,35,cotton,Magnesium Sulphate
+Acidic,145,60,75,7.5,1000,35,cotton,Magnesium Sulphate
+Acidic,150,60,75,7.5,1000,35,cotton,Magnesium Sulphate
+Acidic,100,60,40,6.0,800,25,cotton,12:32:16 NPK
+Acidic,105,60,40,6.0,800,25,cotton,12:32:16 NPK
+Acidic,110,60,40,6.0,800,25,cotton,12:32:16 NPK
+Acidic,115,60,40,6.0,800,25,cotton,12:32:16 NPK
+Acidic,120,60,40,6.0,800,25,cotton,12:32:16 NPK
+Acidic,100,65,45,6.5,900,30,cotton,12:32:16 NPK
+Acidic,105,65,45,6.5,900,30,cotton,12:32:16 NPK
+Acidic,110,65,45,6.5,900,30,cotton,12:32:16 NPK
+Acidic,115,65,45,6.5,900,30,cotton,12:32:16 NPK
+Acidic,120,65,45,6.5,900,30,cotton,12:32:16 NPK
+Acidic,100,70,50,7.0,1000,35,cotton,12:32:16 NPK
+Acidic,105,70,50,7.0,1000,35,cotton,12:32:16 NPK
+Acidic,110,70,50,7.0,1000,35,cotton,12:32:16 NPK
+Acidic,115,70,50,7.0,1000,35,cotton,12:32:16 NPK
+Acidic,120,70,50,7.0,1000,35,cotton,12:32:16 NPK
+Acidic,100,75,55,7.5,800,25,cotton,12:32:16 NPK
+Acidic,105,75,55,7.5,800,25,cotton,12:32:16 NPK
+Acidic,110,75,55,7.5,800,25,cotton,12:32:16 NPK
+Acidic,115,75,55,7.5,800,25,cotton,12:32:16 NPK
+Acidic,120,75,55,7.5,800,25,cotton,12:32:16 NPK
+Acidic,100,80,60,6.0,900,30,cotton,12:32:16 NPK
+Acidic,105,80,60,6.0,900,30,cotton,12:32:16 NPK
+Acidic,110,80,60,6.0,900,30,cotton,12:32:16 NPK
+Acidic,115,80,60,6.0,900,30,cotton,12:32:16 NPK
+Acidic,120,80,60,6.0,900,30,cotton,12:32:16 NPK
+Acidic,100,60,65,6.5,1000,35,cotton,12:32:16 NPK
+Acidic,105,60,65,6.5,1000,35,cotton,12:32:16 NPK
+Acidic,110,60,65,6.5,1000,35,cotton,12:32:16 NPK
+Acidic,115,60,65,6.5,1000,35,cotton,12:32:16 NPK
+Acidic,120,60,65,6.5,1000,35,cotton,12:32:16 NPK
+Acidic,100,65,40,7.0,800,25,cotton,12:32:16 NPK
+Acidic,105,65,40,7.0,800,25,cotton,12:32:16 NPK
+Acidic,110,65,40,7.0,800,25,cotton,12:32:16 NPK
+Acidic,115,65,40,7.0,800,25,cotton,12:32:16 NPK
+Acidic,120,65,40,7.0,800,25,cotton,12:32:16 NPK
+Acidic,100,70,45,7.5,900,30,cotton,12:32:16 NPK
+Acidic,105,70,45,7.5,900,30,cotton,12:32:16 NPK
+Acidic,110,70,45,7.5,900,30,cotton,12:32:16 NPK
+Acidic,115,70,45,7.5,900,30,cotton,12:32:16 NPK
+Acidic,120,70,45,7.5,900,30,cotton,12:32:16 NPK
+Acidic,100,75,50,6.0,1000,35,cotton,12:32:16 NPK
+Acidic,105,75,50,6.0,1000,35,cotton,12:32:16 NPK
+Acidic,110,75,50,6.0,1000,35,cotton,12:32:16 NPK
+Acidic,115,75,50,6.0,1000,35,cotton,12:32:16 NPK
+Acidic,120,75,50,6.0,1000,35,cotton,12:32:16 NPK
+Acidic,100,80,55,6.5,800,25,cotton,12:32:16 NPK
+Acidic,105,80,55,6.5,800,25,cotton,12:32:16 NPK
+Acidic,110,80,55,6.5,800,25,cotton,12:32:16 NPK
+Acidic,115,80,55,6.5,800,25,cotton,12:32:16 NPK
+Acidic,120,80,55,6.5,800,25,cotton,12:32:16 NPK
+Acidic,100,60,60,7.0,900,30,cotton,12:32:16 NPK
+Acidic,105,60,60,7.0,900,30,cotton,12:32:16 NPK
+Acidic,110,60,60,7.0,900,30,cotton,12:32:16 NPK
+Acidic,115,60,60,7.0,900,30,cotton,12:32:16 NPK
+Acidic,120,60,60,7.0,900,30,cotton,12:32:16 NPK
+Acidic,100,65,65,7.5,1000,35,cotton,12:32:16 NPK
+Acidic,105,65,65,7.5,1000,35,cotton,12:32:16 NPK
+Acidic,110,65,65,7.5,1000,35,cotton,12:32:16 NPK
+Acidic,115,65,65,7.5,1000,35,cotton,12:32:16 NPK
+Acidic,120,65,65,7.5,1000,35,cotton,12:32:16 NPK
+Acidic,100,70,40,6.0,800,25,cotton,12:32:16 NPK
+Acidic,105,70,40,6.0,800,25,cotton,12:32:16 NPK
+Acidic,110,70,40,6.0,800,25,cotton,12:32:16 NPK
+Acidic,115,70,40,6.0,800,25,cotton,12:32:16 NPK
+Acidic,120,70,40,6.0,800,25,cotton,12:32:16 NPK
+Acidic,100,75,45,6.5,900,30,cotton,12:32:16 NPK
+Acidic,105,75,45,6.5,900,30,cotton,DAP
+Acidic,110,75,45,6.5,900,30,cotton,DAP
+Acidic,115,75,45,6.5,900,30,cotton,DAP
+Acidic,120,75,45,6.5,900,30,cotton,DAP
+Acidic,100,80,50,7.0,1000,35,cotton,DAP
+Acidic,105,80,50,7.0,1000,35,cotton,DAP
+Acidic,110,80,50,7.0,1000,35,cotton,DAP
+Acidic,115,80,50,7.0,1000,35,cotton,DAP
+Acidic,120,80,50,7.0,1000,35,cotton,DAP
+Acidic,100,60,55,7.5,800,25,cotton,DAP
+Acidic,105,60,55,7.5,800,25,cotton,DAP
+Acidic,110,60,55,7.5,800,25,cotton,DAP
+Acidic,115,60,55,7.5,800,25,cotton,DAP
+Acidic,120,60,55,7.5,800,25,cotton,DAP
+Acidic,100,65,60,6.0,900,30,cotton,DAP
+Acidic,105,65,60,6.0,900,30,cotton,DAP
+Acidic,110,65,60,6.0,900,30,cotton,DAP
+Acidic,115,65,60,6.0,900,30,cotton,DAP
+Acidic,120,65,60,6.0,900,30,cotton,DAP
+Acidic,100,70,65,6.5,1000,35,cotton,DAP
+Acidic,105,70,65,6.5,1000,35,cotton,DAP
+Acidic,110,70,65,6.5,1000,35,cotton,DAP
+Acidic,115,70,65,6.5,1000,35,cotton,DAP
+Acidic,120,70,65,6.5,1000,35,cotton,DAP
+Acidic,100,75,40,7.0,800,25,cotton,DAP
+Acidic,105,75,40,7.0,800,25,cotton,DAP
+Acidic,110,75,40,7.0,800,25,cotton,DAP
+Acidic,115,75,40,7.0,800,25,cotton,DAP
+Acidic,120,75,40,7.0,800,25,cotton,DAP
+Acidic,100,80,45,7.5,900,30,cotton,DAP
+Acidic,105,80,45,7.5,900,30,cotton,DAP
+Acidic,110,80,45,7.5,900,30,cotton,DAP
+Acidic,115,80,45,7.5,900,30,cotton,DAP
+Acidic,120,80,45,7.5,900,30,cotton,DAP
+Acidic,100,60,50,6.0,1000,35,cotton,DAP
+Acidic,105,60,50,6.0,1000,35,cotton,DAP
+Acidic,110,60,50,6.0,1000,35,cotton,DAP
+Acidic,115,60,50,6.0,1000,35,cotton,DAP
+Acidic,120,60,50,6.0,1000,35,cotton,DAP
+Acidic,100,65,55,6.5,800,25,cotton,DAP
+Acidic,105,65,55,6.5,800,25,cotton,DAP
+Acidic,110,65,55,6.5,800,25,cotton,DAP
+Acidic,115,65,55,6.5,800,25,cotton,DAP
+Acidic,120,65,55,6.5,800,25,cotton,DAP
+Acidic,100,70,60,7.0,900,30,cotton,DAP
+Acidic,105,70,60,7.0,900,30,cotton,DAP
+Acidic,110,70,60,7.0,900,30,cotton,DAP
+Acidic,115,70,60,7.0,900,30,cotton,DAP
+Acidic,120,70,60,7.0,900,30,cotton,DAP
+Acidic,100,75,65,7.5,1000,35,cotton,DAP
+Acidic,105,75,65,7.5,1000,35,cotton,DAP
+Acidic,110,75,65,7.5,1000,35,cotton,DAP
+Acidic,115,75,65,7.5,1000,35,cotton,DAP
+Acidic,120,75,65,7.5,1000,35,cotton,DAP
+Acidic,100,80,40,6.0,800,25,cotton,DAP
+Acidic,105,80,40,6.0,800,25,cotton,DAP
+Acidic,110,80,40,6.0,800,25,cotton,DAP
+Acidic,115,80,40,6.0,800,25,cotton,DAP
+Acidic,120,80,40,6.0,800,25,cotton,DAP
+Acidic,100,60,45,6.5,900,30,cotton,DAP
+Acidic,105,60,45,6.5,900,30,cotton,DAP
+Acidic,110,60,45,6.5,900,30,cotton,DAP
+Acidic,115,60,45,6.5,900,30,cotton,DAP
+Acidic,120,60,45,6.5,900,30,cotton,DAP
+Acidic,100,65,50,7.0,1000,35,cotton,DAP
+Acidic,105,65,50,7.0,1000,35,cotton,DAP
+Acidic,110,65,50,7.0,1000,35,cotton,Magnesium Sulphate
+Acidic,115,65,50,7.0,1000,35,cotton,Magnesium Sulphate
+Acidic,120,65,50,7.0,1000,35,cotton,Magnesium Sulphate
+Acidic,100,70,55,7.5,800,25,cotton,Magnesium Sulphate
+Acidic,105,70,55,7.5,800,25,cotton,Magnesium Sulphate
+Acidic,110,70,55,7.5,800,25,cotton,Magnesium Sulphate
+Acidic,115,70,55,7.5,800,25,cotton,Magnesium Sulphate
+Acidic,120,70,55,7.5,800,25,cotton,Magnesium Sulphate
+Acidic,100,75,60,6.0,900,30,cotton,Magnesium Sulphate
+Acidic,105,75,60,6.0,900,30,cotton,Magnesium Sulphate
+Acidic,110,75,60,6.0,900,30,cotton,Magnesium Sulphate
+Acidic,115,75,60,6.0,900,30,cotton,Magnesium Sulphate
+Acidic,120,75,60,6.0,900,30,cotton,Magnesium Sulphate
+Acidic,100,80,65,6.5,1000,35,cotton,Magnesium Sulphate
+Acidic,105,80,65,6.5,1000,35,cotton,Magnesium Sulphate
+Acidic,110,80,65,6.5,1000,35,cotton,Magnesium Sulphate
+Acidic,115,80,65,6.5,1000,35,cotton,Magnesium Sulphate
+Acidic,120,80,65,6.5,1000,35,cotton,Magnesium Sulphate
+Loamy,20,15,20,5.5,700,25,paddy,Urea
+Loamy,25,15,20,5.5,700,25,paddy,Urea
+Loamy,30,15,20,5.5,700,25,paddy,Urea
+Loamy,20,20,25,6.0,800,30,paddy,Urea
+Loamy,25,20,25,6.0,800,30,paddy,Urea
+Loamy,30,20,25,6.0,800,30,paddy,Urea
+Loamy,20,15,25,6.5,900,25,paddy,Urea
+Loamy,25,15,25,6.5,900,25,paddy,Urea
+Loamy,30,15,25,6.5,900,25,paddy,Urea
+Loamy,20,20,20,5.5,1000,30,paddy,Urea
+Loamy,25,20,20,5.5,1000,30,paddy,Urea
+Loamy,30,20,20,5.5,1000,30,paddy,Urea
+Loamy,25,20,30,6.0,700,25,paddy,Urea
+Loamy,30,20,30,6.0,700,25,paddy,Urea
+Loamy,35,20,30,6.0,700,25,paddy,Urea
+Loamy,25,25,35,6.5,800,30,paddy,Urea
+Loamy,30,25,35,6.5,800,30,paddy,Urea
+Loamy,35,25,35,6.5,800,30,paddy,Urea
+Loamy,25,30,40,5.5,900,25,paddy,Urea
+Loamy,30,30,40,5.5,900,25,paddy,Urea
+Loamy,35,30,40,5.5,900,25,paddy,50:26:26 NPK
+Loamy,25,20,35,6.0,1000,30,paddy,50:26:26 NPK
+Loamy,30,20,35,6.0,1000,30,paddy,50:26:26 NPK
+Loamy,35,20,35,6.0,1000,30,paddy,50:26:26 NPK
+Loamy,25,25,40,6.5,700,25,paddy,50:26:26 NPK
+Loamy,30,25,40,6.5,700,25,paddy,50:26:26 NPK
+Loamy,35,25,40,6.5,700,25,paddy,50:26:26 NPK
+Loamy,25,30,30,5.5,800,30,paddy,50:26:26 NPK
+Loamy,30,30,30,5.5,800,30,paddy,50:26:26 NPK
+Loamy,35,30,30,5.5,800,30,paddy,50:26:26 NPK
+Loamy,25,20,40,6.0,900,25,paddy,50:26:26 NPK
+Loamy,30,20,40,6.0,900,25,paddy,50:26:26 NPK
+Loamy,35,20,40,6.0,900,25,paddy,50:26:26 NPK
+Loamy,25,25,30,6.5,1000,30,paddy,50:26:26 NPK
+Loamy,30,25,30,6.5,1000,30,paddy,50:26:26 NPK
+Loamy,35,25,30,6.5,1000,30,paddy,50:26:26 NPK
+Loamy,25,30,35,5.5,700,25,paddy,50:26:26 NPK
+Loamy,30,30,35,5.5,700,25,paddy,50:26:26 NPK
+Loamy,35,30,35,5.5,700,25,paddy,50:26:26 NPK
+Peaty,100,60,40,6.0,500,15,wheat,19:19:19 NPK
+Peaty,105,60,40,6.0,500,15,wheat,19:19:19 NPK
+Peaty,110,60,40,6.0,500,15,wheat,19:19:19 NPK
+Peaty,115,60,40,6.0,500,15,wheat,19:19:19 NPK
+Peaty,120,60,40,6.0,500,15,wheat,19:19:19 NPK
+Peaty,100,65,45,6.5,600,20,wheat,19:19:19 NPK
+Peaty,105,65,45,6.5,600,20,wheat,19:19:19 NPK
+Peaty,110,65,45,6.5,600,20,wheat,19:19:19 NPK
+Peaty,115,65,45,6.5,600,20,wheat,19:19:19 NPK
+Peaty,120,65,45,6.5,600,20,wheat,19:19:19 NPK
+Peaty,100,70,50,7.0,700,25,wheat,19:19:19 NPK
+Peaty,105,70,50,7.0,700,25,wheat,19:19:19 NPK
+Peaty,110,70,50,7.0,700,25,wheat,19:19:19 NPK
+Peaty,115,70,50,7.0,700,25,wheat,19:19:19 NPK
+Peaty,120,70,50,7.0,700,25,wheat,19:19:19 NPK
+Peaty,100,75,55,7.5,800,15,wheat,19:19:19 NPK
+Peaty,105,75,55,7.5,800,15,wheat,19:19:19 NPK
+Peaty,110,75,55,7.5,800,15,wheat,19:19:19 NPK
+Peaty,115,75,55,7.5,800,15,wheat,19:19:19 NPK
+Peaty,120,75,55,7.5,800,15,wheat,19:19:19 NPK
+Peaty,100,80,60,6.0,900,20,wheat,19:19:19 NPK
+Peaty,105,80,60,6.0,900,20,wheat,19:19:19 NPK
+Peaty,110,80,60,6.0,900,20,wheat,19:19:19 NPK
+Peaty,115,80,60,6.0,900,20,wheat,19:19:19 NPK
+Peaty,120,80,60,6.0,900,20,wheat,19:19:19 NPK
+Peaty,100,60,45,6.5,1000,25,wheat,Urea
+Peaty,105,60,45,6.5,1000,25,wheat,Urea
+Peaty,110,60,45,6.5,1000,25,wheat,Urea
+Peaty,115,60,45,6.5,1000,25,wheat,Urea
+Peaty,120,60,45,6.5,1000,25,wheat,Urea
+Peaty,100,65,50,7.0,500,15,wheat,Urea
+Peaty,105,65,50,7.0,500,15,wheat,Urea
+Peaty,110,65,50,7.0,500,15,wheat,Urea
+Peaty,115,65,50,7.0,500,15,wheat,Urea
+Peaty,120,65,50,7.0,500,15,wheat,Urea
+Peaty,100,70,55,7.5,600,20,wheat,Urea
+Peaty,105,70,55,7.5,600,20,wheat,Urea
+Peaty,110,70,55,7.5,600,20,wheat,Urea
+Peaty,115,70,55,7.5,600,20,wheat,Urea
+Peaty,120,70,55,7.5,600,20,wheat,Urea
+Peaty,100,75,60,6.0,700,25,wheat,Urea
+Peaty,105,75,60,6.0,700,25,wheat,Urea
+Peaty,110,75,60,6.0,700,25,wheat,Urea
+Peaty,115,75,60,6.0,700,25,wheat,Urea
+Peaty,120,75,60,6.0,700,25,wheat,Urea
+Peaty,100,80,40,6.5,800,15,wheat,Urea
+Peaty,105,80,40,6.5,800,15,wheat,Urea
+Peaty,110,80,40,6.5,800,15,wheat,Urea
+Peaty,115,80,40,6.5,800,15,wheat,Urea
+Peaty,120,80,40,6.5,800,15,wheat,Urea
+Peaty,100,60,50,7.0,900,20,wheat,19:19:19 NPK
+Peaty,105,60,50,7.0,900,20,wheat,19:19:19 NPK
+Peaty,110,60,50,7.0,900,20,wheat,19:19:19 NPK
+Peaty,115,60,50,7.0,900,20,wheat,19:19:19 NPK
+Peaty,120,60,50,7.0,900,20,wheat,19:19:19 NPK
+Peaty,100,65,55,7.5,1000,25,wheat,19:19:19 NPK
+Peaty,105,65,55,7.5,1000,25,wheat,19:19:19 NPK
+Peaty,110,65,55,7.5,1000,25,wheat,19:19:19 NPK
+Peaty,115,65,55,7.5,1000,25,wheat,19:19:19 NPK
+Peaty,120,65,55,7.5,1000,25,wheat,19:19:19 NPK
+Peaty,100,70,60,6.0,500,15,wheat,19:19:19 NPK
+Peaty,105,70,60,6.0,500,15,wheat,19:19:19 NPK
+Peaty,110,70,60,6.0,500,15,wheat,19:19:19 NPK
+Peaty,115,70,60,6.0,500,15,wheat,19:19:19 NPK
+Peaty,120,70,60,6.0,500,15,wheat,19:19:19 NPK
+Peaty,100,75,40,6.5,600,20,wheat,19:19:19 NPK
+Peaty,105,75,40,6.5,600,20,wheat,19:19:19 NPK
+Peaty,110,75,40,6.5,600,20,wheat,19:19:19 NPK
+Peaty,115,75,40,6.5,600,20,wheat,19:19:19 NPK
+Peaty,120,75,40,6.5,600,20,wheat,19:19:19 NPK
+Peaty,100,80,45,7.0,700,25,wheat,19:19:19 NPK
+Peaty,105,80,45,7.0,700,25,wheat,19:19:19 NPK
+Peaty,110,80,45,7.0,700,25,wheat,19:19:19 NPK
+Peaty,115,80,45,7.0,700,25,wheat,19:19:19 NPK
+Peaty,120,80,45,7.0,700,25,wheat,19:19:19 NPK
+Peaty,100,60,55,7.5,800,15,wheat,Urea
+Peaty,105,60,55,7.5,800,15,wheat,Urea
+Peaty,110,60,55,7.5,800,15,wheat,Urea
+Peaty,115,60,55,7.5,800,15,wheat,Urea
+Peaty,120,60,55,7.5,800,15,wheat,Urea
+Peaty,100,65,60,6.0,900,20,wheat,Urea
+Peaty,105,65,60,6.0,900,20,wheat,Urea
+Peaty,110,65,60,6.0,900,20,wheat,Urea
+Peaty,115,65,60,6.0,900,20,wheat,Urea
+Peaty,120,65,60,6.0,900,20,wheat,Urea
+Peaty,100,70,40,6.5,1000,25,wheat,Urea
+Peaty,105,70,40,6.5,1000,25,wheat,Urea
+Peaty,110,70,40,6.5,1000,25,wheat,Urea
+Peaty,115,70,40,6.5,1000,25,wheat,Urea
+Peaty,120,70,40,6.5,1000,25,wheat,Urea
+Peaty,100,75,45,7.0,500,15,wheat,Urea
+Peaty,105,75,45,7.0,500,15,wheat,Urea
+Peaty,110,75,45,7.0,500,15,wheat,Urea
+Peaty,115,75,45,7.0,500,15,wheat,Urea
+Peaty,120,75,45,7.0,500,15,wheat,Urea
+Peaty,100,80,50,7.5,600,20,wheat,Urea
+Peaty,105,80,50,7.5,600,20,wheat,Urea
+Peaty,110,80,50,7.5,600,20,wheat,Urea
+Peaty,115,80,50,7.5,600,20,wheat,Urea
+Peaty,120,80,50,7.5,600,20,wheat,Urea
+Peaty,100,60,60,6.0,700,25,wheat,19:19:19 NPK
+Peaty,105,60,60,6.0,700,25,wheat,19:19:19 NPK
+Peaty,110,60,60,6.0,700,25,wheat,19:19:19 NPK
+Peaty,115,60,60,6.0,700,25,wheat,19:19:19 NPK
+Peaty,120,60,60,6.0,700,25,wheat,19:19:19 NPK
+Peaty,100,65,40,6.5,800,15,wheat,19:19:19 NPK
+Peaty,105,65,40,6.5,800,15,wheat,19:19:19 NPK
+Peaty,110,65,40,6.5,800,15,wheat,19:19:19 NPK
+Peaty,115,65,40,6.5,800,15,wheat,19:19:19 NPK
+Peaty,120,65,40,6.5,800,15,wheat,19:19:19 NPK
+Peaty,100,70,45,7.0,900,20,wheat,19:19:19 NPK
+Peaty,105,70,45,7.0,900,20,wheat,19:19:19 NPK
+Peaty,110,70,45,7.0,900,20,wheat,19:19:19 NPK
+Peaty,115,70,45,7.0,900,20,wheat,19:19:19 NPK
+Peaty,120,70,45,7.0,900,20,wheat,19:19:19 NPK
+Peaty,100,75,50,7.5,1000,25,wheat,19:19:19 NPK
+Peaty,105,75,50,7.5,1000,25,wheat,19:19:19 NPK
+Peaty,110,75,50,7.5,1000,25,wheat,19:19:19 NPK
+Peaty,115,75,50,7.5,1000,25,wheat,19:19:19 NPK
+Peaty,120,75,50,7.5,1000,25,wheat,19:19:19 NPK
+Peaty,100,80,55,6.0,500,15,wheat,19:19:19 NPK
+Peaty,105,80,55,6.0,500,15,wheat,19:19:19 NPK
+Peaty,110,80,55,6.0,500,15,wheat,19:19:19 NPK
+Peaty,115,80,55,6.0,500,15,wheat,19:19:19 NPK
+Peaty,120,80,55,6.0,500,15,wheat,19:19:19 NPK
+Peaty,100,40,40,6.0,500,15,wheat,Urea
+Peaty,105,40,40,6.0,500,15,wheat,Urea
+Peaty,110,40,40,6.0,500,15,wheat,Urea
+Peaty,115,40,40,6.0,500,15,wheat,Urea
+Peaty,120,40,40,6.0,500,15,wheat,Urea
+Peaty,100,45,45,6.5,600,20,wheat,Urea
+Peaty,105,45,45,6.5,600,20,wheat,Urea
+Peaty,110,45,45,6.5,600,20,wheat,Urea
+Peaty,115,45,45,6.5,600,20,wheat,Urea
+Peaty,120,45,45,6.5,600,20,wheat,Urea
+Peaty,100,50,50,7.0,700,25,wheat,Urea
+Peaty,105,50,50,7.0,700,25,wheat,Urea
+Peaty,110,50,50,7.0,700,25,wheat,Urea
+Peaty,115,50,50,7.0,700,25,wheat,Urea
+Peaty,120,50,50,7.0,700,25,wheat,Urea
+Peaty,100,55,55,7.5,800,15,wheat,Urea
+Peaty,105,55,55,7.5,800,15,wheat,Urea
+Peaty,110,55,55,7.5,800,15,wheat,Urea
+Peaty,115,55,55,7.5,800,15,wheat,Urea
+Peaty,120,55,55,7.5,800,15,wheat,Urea
+Peaty,100,60,60,6.0,900,20,wheat,Urea
+Peaty,105,60,60,6.0,900,20,wheat,Urea
+Peaty,110,60,60,6.0,900,20,wheat,Urea
+Peaty,115,60,60,6.0,900,20,wheat,Urea
+Peaty,120,60,60,6.0,900,20,wheat,Urea
+Peaty,100,40,45,6.5,1000,25,wheat,19:19:19 NPK
+Peaty,105,40,45,6.5,1000,25,wheat,19:19:19 NPK
+Peaty,110,40,45,6.5,1000,25,wheat,19:19:19 NPK
+Peaty,115,40,45,6.5,1000,25,wheat,19:19:19 NPK
+Peaty,120,40,45,6.5,1000,25,wheat,19:19:19 NPK
+Peaty,100,45,50,7.0,500,15,wheat,19:19:19 NPK
+Peaty,105,45,50,7.0,500,15,wheat,19:19:19 NPK
+Peaty,110,45,50,7.0,500,15,wheat,19:19:19 NPK
+Peaty,115,45,50,7.0,500,15,wheat,19:19:19 NPK
+Peaty,120,45,50,7.0,500,15,wheat,19:19:19 NPK
+Peaty,100,50,55,7.5,600,20,wheat,19:19:19 NPK
+Peaty,105,50,55,7.5,600,20,wheat,19:19:19 NPK
+Peaty,110,50,55,7.5,600,20,wheat,19:19:19 NPK
+Peaty,115,50,55,7.5,600,20,wheat,19:19:19 NPK
+Peaty,120,50,55,7.5,600,20,wheat,19:19:19 NPK
+Peaty,100,55,60,6.0,700,25,wheat,19:19:19 NPK
+Peaty,105,55,60,6.0,700,25,wheat,19:19:19 NPK
+Peaty,110,55,60,6.0,700,25,wheat,19:19:19 NPK
+Peaty,115,55,60,6.0,700,25,wheat,19:19:19 NPK
+Peaty,120,55,60,6.0,700,25,wheat,19:19:19 NPK
+Peaty,100,60,40,6.5,800,15,wheat,19:19:19 NPK
+Peaty,105,60,40,6.5,800,15,wheat,19:19:19 NPK
+Peaty,110,60,40,6.5,800,15,wheat,19:19:19 NPK
+Peaty,115,60,40,6.5,800,15,wheat,19:19:19 NPK
+Peaty,120,60,40,6.5,800,15,wheat,19:19:19 NPK
+Peaty,100,40,50,7.0,900,20,wheat,Urea
+Peaty,105,40,50,7.0,900,20,wheat,Urea
+Peaty,110,40,50,7.0,900,20,wheat,Urea
+Peaty,115,40,50,7.0,900,20,wheat,Urea
+Peaty,120,40,50,7.0,900,20,wheat,Urea
+Peaty,100,45,55,7.5,1000,25,wheat,Urea
+Peaty,105,45,55,7.5,1000,25,wheat,Urea
+Peaty,110,45,55,7.5,1000,25,wheat,Urea
+Peaty,115,45,55,7.5,1000,25,wheat,Urea
+Peaty,120,45,55,7.5,1000,25,wheat,Urea
+Peaty,100,50,60,6.0,500,15,wheat,Urea
+Peaty,105,50,60,6.0,500,15,wheat,Urea
+Peaty,110,50,60,6.0,500,15,wheat,Urea
+Peaty,115,50,60,6.0,500,15,wheat,Urea
+Peaty,120,50,60,6.0,500,15,wheat,Urea
+Peaty,100,55,40,6.5,600,20,wheat,Urea
+Peaty,105,55,40,6.5,600,20,wheat,Urea
+Peaty,110,55,40,6.5,600,20,wheat,Urea
+Peaty,115,55,40,6.5,600,20,wheat,Urea
+Peaty,120,55,40,6.5,600,20,wheat,Urea
+Peaty,100,60,45,7.0,700,25,wheat,Urea
+Peaty,105,60,45,7.0,700,25,wheat,Urea
+Peaty,110,60,45,7.0,700,25,wheat,Urea
+Peaty,115,60,45,7.0,700,25,wheat,Urea
+Peaty,120,60,45,7.0,700,25,wheat,Urea
+Peaty,100,40,55,7.5,800,15,wheat,19:19:19 NPK
+Peaty,105,40,55,7.5,800,15,wheat,19:19:19 NPK
+Peaty,110,40,55,7.5,800,15,wheat,19:19:19 NPK
+Peaty,115,40,55,7.5,800,15,wheat,19:19:19 NPK
+Peaty,120,40,55,7.5,800,15,wheat,19:19:19 NPK
+Peaty,100,45,60,6.0,900,20,wheat,19:19:19 NPK
+Peaty,105,45,60,6.0,900,20,wheat,19:19:19 NPK
+Peaty,110,45,60,6.0,900,20,wheat,19:19:19 NPK
+Peaty,115,45,60,6.0,900,20,wheat,19:19:19 NPK
+Peaty,120,45,60,6.0,900,20,wheat,19:19:19 NPK
+Peaty,100,50,40,6.5,1000,25,wheat,19:19:19 NPK
+Peaty,105,50,40,6.5,1000,25,wheat,19:19:19 NPK
+Peaty,110,50,40,6.5,1000,25,wheat,19:19:19 NPK
+Peaty,115,50,40,6.5,1000,25,wheat,19:19:19 NPK
+Peaty,120,50,40,6.5,1000,25,wheat,19:19:19 NPK
+Peaty,100,55,45,7.0,500,15,wheat,19:19:19 NPK
+Peaty,105,55,45,7.0,500,15,wheat,19:19:19 NPK
+Peaty,110,55,45,7.0,500,15,wheat,19:19:19 NPK
+Peaty,115,55,45,7.0,500,15,wheat,19:19:19 NPK
+Peaty,120,55,45,7.0,500,15,wheat,19:19:19 NPK
+Peaty,100,60,50,7.5,600,20,wheat,19:19:19 NPK
+Peaty,105,60,50,7.5,600,20,wheat,19:19:19 NPK
+Peaty,110,60,50,7.5,600,20,wheat,19:19:19 NPK
+Peaty,115,60,50,7.5,600,20,wheat,19:19:19 NPK
+Peaty,120,60,50,7.5,600,20,wheat,19:19:19 NPK
+Peaty,100,40,60,6.0,700,25,wheat,Urea
+Peaty,105,40,60,6.0,700,25,wheat,Urea
+Peaty,110,40,60,6.0,700,25,wheat,Urea
+Peaty,115,40,60,6.0,700,25,wheat,Urea
+Peaty,120,40,60,6.0,700,25,wheat,Urea
+Peaty,100,45,40,6.5,800,15,wheat,Urea
+Peaty,105,45,40,6.5,800,15,wheat,Urea
+Peaty,110,45,40,6.5,800,15,wheat,Urea
+Peaty,115,45,40,6.5,800,15,wheat,Urea
+Peaty,120,45,40,6.5,800,15,wheat,Urea
+Peaty,100,50,45,7.0,900,20,wheat,Urea
+Peaty,105,50,45,7.0,900,20,wheat,Urea
+Peaty,110,50,45,7.0,900,20,wheat,Urea
+Peaty,115,50,45,7.0,900,20,wheat,Urea
+Peaty,120,50,45,7.0,900,20,wheat,Urea
+Peaty,100,55,50,7.5,1000,25,wheat,Urea
+Peaty,105,55,50,7.5,1000,25,wheat,Urea
+Peaty,110,55,50,7.5,1000,25,wheat,Urea
+Peaty,115,55,50,7.5,1000,25,wheat,Urea
+Peaty,120,55,50,7.5,1000,25,wheat,Urea
+Peaty,100,60,55,6.0,500,15,wheat,Urea
+Peaty,105,60,55,6.0,500,15,wheat,Urea
+Peaty,110,60,55,6.0,500,15,wheat,Urea
+Peaty,115,60,55,6.0,500,15,wheat,Urea
+Peaty,120,60,55,6.0,500,15,wheat,Urea
+Peaty,60,40,40,6.0,500,15,wheat,19:19:19 NPK
+Peaty,65,40,40,6.0,500,15,wheat,19:19:19 NPK
+Peaty,70,40,40,6.0,500,15,wheat,19:19:19 NPK
+Peaty,75,40,40,6.0,500,15,wheat,19:19:19 NPK
+Peaty,80,40,40,6.0,500,15,wheat,19:19:19 NPK
+Peaty,85,40,40,6.0,500,15,wheat,19:19:19 NPK
+Peaty,90,40,40,6.0,500,15,wheat,19:19:19 NPK
+Peaty,95,40,40,6.0,500,15,wheat,19:19:19 NPK
+Peaty,100,40,40,6.0,500,15,wheat,19:19:19 NPK
+Peaty,60,45,45,6.5,600,20,wheat,19:19:19 NPK
+Peaty,65,45,45,6.5,600,20,wheat,19:19:19 NPK
+Peaty,70,45,45,6.5,600,20,wheat,19:19:19 NPK
+Peaty,75,45,45,6.5,600,20,wheat,19:19:19 NPK
+Peaty,80,45,45,6.5,600,20,wheat,19:19:19 NPK
+Peaty,85,45,45,6.5,600,20,wheat,19:19:19 NPK
+Peaty,90,45,45,6.5,600,20,wheat,19:19:19 NPK
+Peaty,95,45,45,6.5,600,20,wheat,19:19:19 NPK
+Peaty,100,45,45,6.5,600,20,wheat,19:19:19 NPK
+Peaty,60,55,55,7.0,700,25,wheat,19:19:19 NPK
+Peaty,65,55,55,7.0,700,25,wheat,19:19:19 NPK
+Peaty,70,55,55,7.0,700,25,wheat,19:19:19 NPK
+Peaty,75,55,55,7.0,700,25,wheat,19:19:19 NPK
+Peaty,80,55,55,7.0,700,25,wheat,19:19:19 NPK
+Peaty,85,55,55,7.0,700,25,wheat,19:19:19 NPK
+Peaty,90,55,55,7.0,700,25,wheat,19:19:19 NPK
+Peaty,95,55,55,7.0,700,25,wheat,Urea
+Peaty,100,55,55,7.0,700,25,wheat,Urea
+Peaty,60,60,60,7.5,800,15,wheat,Urea
+Peaty,65,60,60,7.5,800,15,wheat,Urea
+Peaty,70,60,60,7.5,800,15,wheat,Urea
+Peaty,75,60,60,7.5,800,15,wheat,Urea
+Peaty,80,60,60,7.5,800,15,wheat,Urea
+Peaty,85,60,60,7.5,800,15,wheat,Urea
+Peaty,90,60,60,7.5,800,15,wheat,Urea
+Peaty,95,60,60,7.5,800,15,wheat,Urea
+Peaty,100,60,60,7.5,800,15,wheat,Urea
+Peaty,60,40,45,6.0,900,20,wheat,Urea
+Peaty,65,40,45,6.0,900,20,wheat,Urea
+Peaty,70,40,45,6.0,900,20,wheat,Urea
+Peaty,75,40,45,6.0,900,20,wheat,Urea
+Peaty,80,40,45,6.0,900,20,wheat,Urea
+Peaty,85,40,45,6.0,900,20,wheat,Urea
+Peaty,90,40,45,6.0,900,20,wheat,Urea
+Peaty,95,40,45,6.0,900,20,wheat,Urea
+Peaty,100,40,45,6.0,900,20,wheat,Urea
+Peaty,60,45,50,6.5,1000,25,wheat,Urea
+Peaty,65,45,50,6.5,1000,25,wheat,Urea
+Peaty,70,45,50,6.5,1000,25,wheat,Urea
+Peaty,75,45,50,6.5,1000,25,wheat,Urea
+Peaty,80,45,50,6.5,1000,25,wheat,Urea
+Peaty,85,45,50,6.5,1000,25,wheat,19:19:19 NPK
+Peaty,90,45,50,6.5,1000,25,wheat,19:19:19 NPK
+Peaty,95,45,50,6.5,1000,25,wheat,19:19:19 NPK
+Peaty,100,45,50,6.5,1000,25,wheat,19:19:19 NPK
+Peaty,60,55,60,7.0,500,15,wheat,19:19:19 NPK
+Peaty,65,55,60,7.0,500,15,wheat,19:19:19 NPK
+Peaty,70,55,60,7.0,500,15,wheat,19:19:19 NPK
+Peaty,75,55,60,7.0,500,15,wheat,19:19:19 NPK
+Peaty,80,55,60,7.0,500,15,wheat,19:19:19 NPK
+Peaty,85,55,60,7.0,500,15,wheat,19:19:19 NPK
+Peaty,90,55,60,7.0,500,15,wheat,19:19:19 NPK
+Peaty,95,55,60,7.0,500,15,wheat,19:19:19 NPK
+Peaty,100,55,60,7.0,500,15,wheat,19:19:19 NPK
+Peaty,60,40,50,7.5,600,20,wheat,19:19:19 NPK
+Peaty,65,40,50,7.5,600,20,wheat,19:19:19 NPK
+Peaty,70,40,50,7.5,600,20,wheat,19:19:19 NPK
+Peaty,75,40,50,7.5,600,20,wheat,19:19:19 NPK
+Peaty,80,40,50,7.5,600,20,wheat,19:19:19 NPK
+Peaty,85,40,50,7.5,600,20,wheat,19:19:19 NPK
+Peaty,90,40,50,7.5,600,20,wheat,19:19:19 NPK
+Peaty,95,40,50,7.5,600,20,wheat,19:19:19 NPK
+Peaty,100,40,50,7.5,600,20,wheat,19:19:19 NPK
+Peaty,60,50,60,6.0,700,25,wheat,19:19:19 NPK
+Peaty,65,50,60,6.0,700,25,wheat,19:19:19 NPK
+Peaty,70,50,60,6.0,700,25,wheat,19:19:19 NPK
+Peaty,75,50,60,6.0,700,25,wheat,Urea
+Peaty,80,50,60,6.0,700,25,wheat,Urea
+Peaty,85,50,60,6.0,700,25,wheat,Urea
+Peaty,90,50,60,6.0,700,25,wheat,Urea
+Peaty,95,50,60,6.0,700,25,wheat,Urea
+Peaty,100,50,60,6.0,700,25,wheat,Urea
+Peaty,60,55,40,6.5,800,15,wheat,Urea
+Peaty,65,55,40,6.5,800,15,wheat,Urea
+Peaty,70,55,40,6.5,800,15,wheat,Urea
+Peaty,75,55,40,6.5,800,15,wheat,Urea
+Peaty,80,55,40,6.5,800,15,wheat,Urea
+Peaty,85,55,40,6.5,800,15,wheat,Urea
+Peaty,90,55,40,6.5,800,15,wheat,Urea
+Peaty,95,55,40,6.5,800,15,wheat,Urea
+Peaty,100,55,40,6.5,800,15,wheat,Urea
+Peaty,60,60,45,7.0,900,20,wheat,Urea
+Peaty,65,60,45,7.0,900,20,wheat,Urea
+Peaty,70,60,45,7.0,900,20,wheat,Urea
+Peaty,75,60,45,7.0,900,20,wheat,Urea
+Peaty,80,60,45,7.0,900,20,wheat,Urea
+Peaty,85,60,45,7.0,900,20,wheat,Urea
+Peaty,90,60,45,7.0,900,20,wheat,Urea
+Peaty,95,60,45,7.0,900,20,wheat,Urea
+Peaty,100,60,45,7.0,900,20,wheat,Urea
+Peaty,60,40,55,7.5,1000,25,wheat,Urea
+Peaty,65,40,55,7.5,1000,25,wheat,19:19:19 NPK
+Peaty,70,40,55,7.5,1000,25,wheat,19:19:19 NPK
+Peaty,75,40,55,7.5,1000,25,wheat,19:19:19 NPK
+Peaty,80,40,55,7.5,1000,25,wheat,19:19:19 NPK
+Peaty,85,40,55,7.5,1000,25,wheat,19:19:19 NPK
+Peaty,90,40,55,7.5,1000,25,wheat,19:19:19 NPK
+Peaty,95,40,55,7.5,1000,25,wheat,19:19:19 NPK
+Peaty,100,40,55,7.5,1000,25,wheat,19:19:19 NPK
+Peaty,60,45,60,6.0,500,15,wheat,19:19:19 NPK
+Peaty,65,45,60,6.0,500,15,wheat,19:19:19 NPK
+Peaty,70,45,60,6.0,500,15,wheat,19:19:19 NPK
+Peaty,75,45,60,6.0,500,15,wheat,19:19:19 NPK
+Peaty,80,45,60,6.0,500,15,wheat,19:19:19 NPK
+Peaty,85,45,60,6.0,500,15,wheat,19:19:19 NPK
+Peaty,90,45,60,6.0,500,15,wheat,19:19:19 NPK
+Peaty,95,45,60,6.0,500,15,wheat,19:19:19 NPK
+Peaty,100,45,60,6.0,500,15,wheat,19:19:19 NPK
+Peaty,60,50,40,6.5,600,20,wheat,19:19:19 NPK
+Peaty,65,50,40,6.5,600,20,wheat,19:19:19 NPK
+Peaty,70,50,40,6.5,600,20,wheat,19:19:19 NPK
+Peaty,75,50,40,6.5,600,20,wheat,19:19:19 NPK
+Peaty,80,50,40,6.5,600,20,wheat,19:19:19 NPK
+Peaty,85,50,40,6.5,600,20,wheat,19:19:19 NPK
+Peaty,90,50,40,6.5,600,20,wheat,19:19:19 NPK
+Peaty,95,50,40,6.5,600,20,wheat,19:19:19 NPK
+Peaty,100,50,40,6.5,600,20,wheat,Urea
+Peaty,60,55,45,7.0,700,25,wheat,Urea
+Peaty,65,55,45,7.0,700,25,wheat,Urea
+Peaty,70,55,45,7.0,700,25,wheat,Urea
+Peaty,75,55,45,7.0,700,25,wheat,Urea
+Peaty,80,55,45,7.0,700,25,wheat,Urea
+Peaty,85,55,45,7.0,700,25,wheat,Urea
+Peaty,90,55,45,7.0,700,25,wheat,Urea
+Peaty,95,55,45,7.0,700,25,wheat,Urea
+Peaty,100,55,45,7.0,700,25,wheat,Urea
+Peaty,60,60,50,7.5,800,15,wheat,Urea
+Peaty,65,60,50,7.5,800,15,wheat,Urea
+Peaty,70,60,50,7.5,800,15,wheat,Urea
+Peaty,75,60,50,7.5,800,15,wheat,Urea
+Peaty,80,60,50,7.5,800,15,wheat,Urea
+Peaty,85,60,50,7.5,800,15,wheat,Urea
+Peaty,90,60,50,7.5,800,15,wheat,Urea
+Peaty,95,60,50,7.5,800,15,wheat,Urea
+Peaty,100,60,50,7.5,800,15,wheat,Urea
+Peaty,60,40,60,6.0,900,20,wheat,Urea
+Peaty,65,40,60,6.0,900,20,wheat,Urea
+Peaty,70,40,60,6.0,900,20,wheat,Urea
+Peaty,75,40,60,6.0,900,20,wheat,Urea
+Peaty,80,40,60,6.0,900,20,wheat,Urea
+Peaty,85,40,60,6.0,900,20,wheat,Urea
+Peaty,90,40,60,6.0,900,20,wheat,19:19:19 NPK
+Peaty,95,40,60,6.0,900,20,wheat,19:19:19 NPK
+Peaty,100,40,60,6.0,900,20,wheat,19:19:19 NPK
+Peaty,60,45,40,6.5,1000,25,wheat,19:19:19 NPK
+Peaty,65,45,40,6.5,1000,25,wheat,19:19:19 NPK
+Peaty,70,45,40,6.5,1000,25,wheat,19:19:19 NPK
+Peaty,75,45,40,6.5,1000,25,wheat,19:19:19 NPK
+Peaty,80,45,40,6.5,1000,25,wheat,19:19:19 NPK
+Peaty,85,45,40,6.5,1000,25,wheat,19:19:19 NPK
+Peaty,90,45,40,6.5,1000,25,wheat,19:19:19 NPK
+Peaty,95,45,40,6.5,1000,25,wheat,19:19:19 NPK
+Peaty,100,45,40,6.5,1000,25,wheat,19:19:19 NPK
+Peaty,60,50,45,7.0,500,15,wheat,19:19:19 NPK
+Peaty,65,50,45,7.0,500,15,wheat,19:19:19 NPK
+Peaty,70,50,45,7.0,500,15,wheat,19:19:19 NPK
+Peaty,75,50,45,7.0,500,15,wheat,19:19:19 NPK
+Peaty,80,50,45,7.0,500,15,wheat,19:19:19 NPK
+Peaty,85,50,45,7.0,500,15,wheat,19:19:19 NPK
+Peaty,90,50,45,7.0,500,15,wheat,19:19:19 NPK
+Peaty,95,50,45,7.0,500,15,wheat,19:19:19 NPK
+Peaty,100,50,45,7.0,500,15,wheat,19:19:19 NPK
+Peaty,60,55,50,7.5,600,20,wheat,19:19:19 NPK
+Peaty,65,55,50,7.5,600,20,wheat,19:19:19 NPK
+Peaty,70,55,50,7.5,600,20,wheat,19:19:19 NPK
+Peaty,75,55,50,7.5,600,20,wheat,19:19:19 NPK
+Peaty,80,55,50,7.5,600,20,wheat,Urea
+Peaty,85,55,50,7.5,600,20,wheat,Urea
+Peaty,90,55,50,7.5,600,20,wheat,Urea
+Peaty,95,55,50,7.5,600,20,wheat,Urea
+Peaty,100,55,50,7.5,600,20,wheat,Urea
+Peaty,60,60,55,6.0,700,25,wheat,Urea
+Peaty,65,60,55,6.0,700,25,wheat,Urea
+Peaty,70,60,55,6.0,700,25,wheat,Urea
+Peaty,75,60,55,6.0,700,25,wheat,Urea
+Peaty,80,60,55,6.0,700,25,wheat,Urea
+Peaty,85,60,55,6.0,700,25,wheat,Urea
+Peaty,90,60,55,6.0,700,25,wheat,Urea
+Peaty,95,60,55,6.0,700,25,wheat,Urea
+Peaty,100,60,55,6.0,700,25,wheat,Urea
+Alkaline,20,30,20,6.0,500,25,groundnut,Chilated Micronutrient
+Alkaline,25,30,20,6.0,500,25,groundnut,Chilated Micronutrient
+Alkaline,30,30,20,6.0,500,25,groundnut,Chilated Micronutrient
+Alkaline,20,35,25,6.5,600,30,groundnut,Chilated Micronutrient
+Alkaline,25,35,25,6.5,600,30,groundnut,Chilated Micronutrient
+Alkaline,30,35,25,6.5,600,30,groundnut,Chilated Micronutrient
+Alkaline,20,40,20,7.0,500,25,groundnut,Chilated Micronutrient
+Alkaline,25,40,20,7.0,500,25,groundnut,Chilated Micronutrient
+Alkaline,30,40,20,7.0,500,25,groundnut,Chilated Micronutrient
+Alkaline,20,30,25,7.5,600,30,groundnut,SSP
+Alkaline,25,30,25,7.5,600,30,groundnut,SSP
+Alkaline,30,30,25,7.5,600,30,groundnut,SSP
+Alkaline,20,35,20,6.0,500,25,groundnut,SSP
+Alkaline,25,35,20,6.0,500,25,groundnut,SSP
+Alkaline,30,35,20,6.0,500,25,groundnut,SSP
+Alkaline,20,40,25,6.5,600,30,groundnut,SSP
+Alkaline,25,40,25,6.5,600,30,groundnut,SSP
+Alkaline,30,40,25,6.5,600,30,groundnut,SSP
+Alkaline,50,25,30,6.0,500,25,groundnut,Chilated Micronutrient
+Alkaline,55,25,30,6.0,500,25,groundnut,Chilated Micronutrient
+Alkaline,60,25,30,6.0,500,25,groundnut,Chilated Micronutrient
+Alkaline,50,30,35,6.5,600,30,groundnut,Chilated Micronutrient
+Alkaline,55,30,35,6.5,600,30,groundnut,Chilated Micronutrient
+Alkaline,60,30,35,6.5,600,30,groundnut,Chilated Micronutrient
+Alkaline,50,25,40,7.0,500,25,groundnut,Chilated Micronutrient
+Alkaline,55,25,40,7.0,500,25,groundnut,Chilated Micronutrient
+Alkaline,60,25,40,7.0,500,25,groundnut,Chilated Micronutrient
+Alkaline,50,30,30,7.5,600,30,groundnut,SSP
+Alkaline,55,30,30,7.5,600,30,groundnut,SSP
+Alkaline,60,30,30,7.5,600,30,groundnut,SSP
+Alkaline,50,25,35,6.0,500,25,groundnut,SSP
+Alkaline,55,25,35,6.0,500,25,groundnut,SSP
+Alkaline,60,25,35,6.0,500,25,groundnut,SSP
+Alkaline,50,30,40,6.5,600,30,groundnut,SSP
+Alkaline,55,30,40,6.5,600,30,groundnut,SSP
+Alkaline,60,30,40,6.5,600,30,groundnut,SSP
+Alkaline,40,20,20,5.5,500,25,groundnut,Chilated Micronutrient
+Alkaline,45,20,20,5.5,500,25,groundnut,Chilated Micronutrient
+Alkaline,50,20,20,5.5,500,25,groundnut,Chilated Micronutrient
+Alkaline,40,30,30,6.0,600,30,groundnut,Chilated Micronutrient
+Alkaline,45,30,30,6.0,600,30,groundnut,Chilated Micronutrient
+Alkaline,50,30,30,6.0,600,30,groundnut,Chilated Micronutrient
+Alkaline,40,20,30,6.5,500,25,groundnut,Chilated Micronutrient
+Alkaline,45,20,30,6.5,500,25,groundnut,Chilated Micronutrient
+Alkaline,50,20,30,6.5,500,25,groundnut,Chilated Micronutrient
+Alkaline,40,30,20,7.0,600,30,groundnut,SSP
+Alkaline,45,30,20,7.0,600,30,groundnut,SSP
+Alkaline,50,30,20,7.0,600,30,groundnut,SSP
+Peaty,120,60,40,6.0,500,20,maize,Urea
+Peaty,125,60,40,6.0,500,20,maize,Urea
+Peaty,130,60,40,6.0,500,20,maize,Urea
+Peaty,135,60,40,6.0,500,20,maize,Urea
+Peaty,140,60,40,6.0,500,20,maize,Urea
+Peaty,145,60,40,6.0,500,20,maize,Urea
+Peaty,150,60,40,6.0,500,20,maize,Urea
+Peaty,120,65,45,6.5,600,25,maize,Urea
+Peaty,125,65,45,6.5,600,25,maize,Urea
+Peaty,130,65,45,6.5,600,25,maize,Urea
+Peaty,135,65,45,6.5,600,25,maize,Urea
+Peaty,140,65,45,6.5,600,25,maize,Urea
+Peaty,145,65,45,6.5,600,25,maize,Urea
+Peaty,150,65,45,6.5,600,25,maize,Urea
+Peaty,120,70,50,7.0,700,30,maize,Urea
+Peaty,125,70,50,7.0,700,30,maize,Urea
+Peaty,130,70,50,7.0,700,30,maize,Urea
+Peaty,135,70,50,7.0,700,30,maize,Urea
+Peaty,140,70,50,7.0,700,30,maize,Urea
+Peaty,145,70,50,7.0,700,30,maize,Urea
+Peaty,150,70,50,7.0,700,30,maize,Urea
+Peaty,120,75,55,7.5,500,20,maize,Urea
+Peaty,125,75,55,7.5,500,20,maize,Urea
+Peaty,130,75,55,7.5,500,20,maize,Urea
+Peaty,135,75,55,7.5,500,20,maize,Urea
+Peaty,140,75,55,7.5,500,20,maize,Urea
+Peaty,145,75,55,7.5,500,20,maize,Urea
+Peaty,150,75,55,7.5,500,20,maize,Urea
+Peaty,120,80,60,6.0,600,25,maize,Urea
+Peaty,125,80,60,6.0,600,25,maize,Urea
+Peaty,130,80,60,6.0,600,25,maize,Urea
+Peaty,135,80,60,6.0,600,25,maize,Urea
+Peaty,140,80,60,6.0,600,25,maize,Urea
+Peaty,145,80,60,6.0,600,25,maize,Urea
+Peaty,150,80,60,6.0,600,25,maize,Urea
+Peaty,120,60,45,6.5,700,30,maize,SSP
+Peaty,125,60,45,6.5,700,30,maize,SSP
+Peaty,130,60,45,6.5,700,30,maize,SSP
+Peaty,135,60,45,6.5,700,30,maize,SSP
+Peaty,140,60,45,6.5,700,30,maize,SSP
+Peaty,145,60,45,6.5,700,30,maize,SSP
+Peaty,150,60,45,6.5,700,30,maize,SSP
+Peaty,120,65,50,7.0,500,20,maize,SSP
+Peaty,125,65,50,7.0,500,20,maize,SSP
+Peaty,130,65,50,7.0,500,20,maize,SSP
+Peaty,135,65,50,7.0,500,20,maize,SSP
+Peaty,140,65,50,7.0,500,20,maize,SSP
+Peaty,145,65,50,7.0,500,20,maize,SSP
+Peaty,150,65,50,7.0,500,20,maize,SSP
+Peaty,120,70,55,7.5,600,25,maize,SSP
+Peaty,125,70,55,7.5,600,25,maize,SSP
+Peaty,130,70,55,7.5,600,25,maize,SSP
+Peaty,135,70,55,7.5,600,25,maize,SSP
+Peaty,140,70,55,7.5,600,25,maize,SSP
+Peaty,145,70,55,7.5,600,25,maize,SSP
+Peaty,150,70,55,7.5,600,25,maize,SSP
+Peaty,120,75,60,6.0,700,30,maize,SSP
+Peaty,125,75,60,6.0,700,30,maize,SSP
+Peaty,130,75,60,6.0,700,30,maize,SSP
+Peaty,135,75,60,6.0,700,30,maize,SSP
+Peaty,140,75,60,6.0,700,30,maize,SSP
+Peaty,145,75,60,6.0,700,30,maize,SSP
+Peaty,150,75,60,6.0,700,30,maize,SSP
+Peaty,120,80,40,6.5,500,20,maize,SSP
+Peaty,125,80,40,6.5,500,20,maize,SSP
+Peaty,130,80,40,6.5,500,20,maize,SSP
+Peaty,135,80,40,6.5,500,20,maize,SSP
+Peaty,140,80,40,6.5,500,20,maize,SSP
+Peaty,145,80,40,6.5,500,20,maize,SSP
+Peaty,150,80,40,6.5,500,20,maize,SSP
+Peaty,120,60,50,7.0,600,25,maize,MOP
+Peaty,125,60,50,7.0,600,25,maize,MOP
+Peaty,130,60,50,7.0,600,25,maize,MOP
+Peaty,135,60,50,7.0,600,25,maize,MOP
+Peaty,140,60,50,7.0,600,25,maize,MOP
+Peaty,145,60,50,7.0,600,25,maize,MOP
+Peaty,150,60,50,7.0,600,25,maize,MOP
+Peaty,120,65,55,7.5,700,30,maize,MOP
+Peaty,125,65,55,7.5,700,30,maize,MOP
+Peaty,130,65,55,7.5,700,30,maize,MOP
+Peaty,135,65,55,7.5,700,30,maize,MOP
+Peaty,140,65,55,7.5,700,30,maize,MOP
+Peaty,145,65,55,7.5,700,30,maize,MOP
+Peaty,150,65,55,7.5,700,30,maize,MOP
+Peaty,120,70,60,6.0,500,20,maize,MOP
+Peaty,125,70,60,6.0,500,20,maize,MOP
+Peaty,130,70,60,6.0,500,20,maize,MOP
+Peaty,135,70,60,6.0,500,20,maize,MOP
+Peaty,140,70,60,6.0,500,20,maize,MOP
+Peaty,145,70,60,6.0,500,20,maize,MOP
+Peaty,150,70,60,6.0,500,20,maize,MOP
+Peaty,120,75,40,6.5,600,25,maize,MOP
+Peaty,125,75,40,6.5,600,25,maize,MOP
+Peaty,130,75,40,6.5,600,25,maize,MOP
+Peaty,135,75,40,6.5,600,25,maize,MOP
+Peaty,140,75,40,6.5,600,25,maize,MOP
+Peaty,145,75,40,6.5,600,25,maize,MOP
+Peaty,150,75,40,6.5,600,25,maize,MOP
+Peaty,120,80,45,7.0,700,30,maize,MOP
+Peaty,125,80,45,7.0,700,30,maize,MOP
+Peaty,130,80,45,7.0,700,30,maize,MOP
+Peaty,135,80,45,7.0,700,30,maize,MOP
+Peaty,140,80,45,7.0,700,30,maize,MOP
+Peaty,145,80,45,7.0,700,30,maize,MOP
+Peaty,150,80,45,7.0,700,30,maize,MOP
+Peaty,120,60,55,7.5,500,20,maize,Urea
+Peaty,125,60,55,7.5,500,20,maize,Urea
+Peaty,130,60,55,7.5,500,20,maize,Urea
+Peaty,135,60,55,7.5,500,20,maize,Urea
+Peaty,140,60,55,7.5,500,20,maize,Urea
+Peaty,145,60,55,7.5,500,20,maize,Urea
+Peaty,150,60,55,7.5,500,20,maize,Urea
+Peaty,120,65,60,6.0,600,25,maize,Urea
+Peaty,125,65,60,6.0,600,25,maize,Urea
+Peaty,130,65,60,6.0,600,25,maize,Urea
+Peaty,135,65,60,6.0,600,25,maize,Urea
+Peaty,140,65,60,6.0,600,25,maize,Urea
+Peaty,145,65,60,6.0,600,25,maize,Urea
+Peaty,150,65,60,6.0,600,25,maize,Urea
+Peaty,120,70,40,6.5,700,30,maize,Urea
+Peaty,125,70,40,6.5,700,30,maize,Urea
+Peaty,130,70,40,6.5,700,30,maize,Urea
+Peaty,135,70,40,6.5,700,30,maize,Urea
+Peaty,140,70,40,6.5,700,30,maize,Urea
+Peaty,145,70,40,6.5,700,30,maize,Urea
+Peaty,150,70,40,6.5,700,30,maize,Urea
+Peaty,120,75,45,7.0,500,20,maize,Urea
+Peaty,125,75,45,7.0,500,20,maize,Urea
+Peaty,130,75,45,7.0,500,20,maize,Urea
+Peaty,135,75,45,7.0,500,20,maize,Urea
+Peaty,140,75,45,7.0,500,20,maize,Urea
+Peaty,145,75,45,7.0,500,20,maize,Urea
+Peaty,150,75,45,7.0,500,20,maize,Urea
+Peaty,120,80,50,7.5,600,25,maize,Urea
+Peaty,125,80,50,7.5,600,25,maize,Urea
+Peaty,130,80,50,7.5,600,25,maize,Urea
+Peaty,135,80,50,7.5,600,25,maize,Urea
+Peaty,140,80,50,7.5,600,25,maize,Urea
+Peaty,145,80,50,7.5,600,25,maize,Urea
+Peaty,150,80,50,7.5,600,25,maize,Urea
+Peaty,120,60,60,6.0,700,30,maize,SSP
+Peaty,125,60,60,6.0,700,30,maize,SSP
+Peaty,130,60,60,6.0,700,30,maize,SSP
+Peaty,135,60,60,6.0,700,30,maize,SSP
+Peaty,140,60,60,6.0,700,30,maize,SSP
+Peaty,145,60,60,6.0,700,30,maize,SSP
+Peaty,150,60,60,6.0,700,30,maize,SSP
+Peaty,120,65,40,6.5,500,20,maize,SSP
+Peaty,125,65,40,6.5,500,20,maize,SSP
+Peaty,130,65,40,6.5,500,20,maize,SSP
+Peaty,135,65,40,6.5,500,20,maize,SSP
+Peaty,140,65,40,6.5,500,20,maize,SSP
+Peaty,145,65,40,6.5,500,20,maize,SSP
+Peaty,150,65,40,6.5,500,20,maize,SSP
+Peaty,120,70,45,7.0,600,25,maize,SSP
+Peaty,125,70,45,7.0,600,25,maize,SSP
+Peaty,130,70,45,7.0,600,25,maize,SSP
+Peaty,135,70,45,7.0,600,25,maize,SSP
+Peaty,140,70,45,7.0,600,25,maize,SSP
+Peaty,145,70,45,7.0,600,25,maize,SSP
+Peaty,150,70,45,7.0,600,25,maize,SSP
+Peaty,120,75,50,7.5,700,30,maize,SSP
+Peaty,125,75,50,7.5,700,30,maize,SSP
+Peaty,130,75,50,7.5,700,30,maize,SSP
+Peaty,135,75,50,7.5,700,30,maize,SSP
+Peaty,140,75,50,7.5,700,30,maize,SSP
+Peaty,145,75,50,7.5,700,30,maize,SSP
+Peaty,150,75,50,7.5,700,30,maize,SSP
+Peaty,120,80,55,6.0,500,20,maize,SSP
+Peaty,125,80,55,6.0,500,20,maize,SSP
+Peaty,130,80,55,6.0,500,20,maize,SSP
+Peaty,135,80,55,6.0,500,20,maize,SSP
+Peaty,140,80,55,6.0,500,20,maize,SSP
+Peaty,145,80,55,6.0,500,20,maize,SSP
+Peaty,150,80,55,6.0,500,20,maize,SSP
+Acidic,40,20,20,5.5,300,20,pigeonpeas,Urea
+Acidic,45,20,20,5.5,300,20,pigeonpeas,Urea
+Acidic,50,20,20,5.5,300,20,pigeonpeas,Urea
+Acidic,40,25,25,6.0,400,25,pigeonpeas,Urea
+Acidic,45,25,25,6.0,400,25,pigeonpeas,Urea
+Acidic,50,25,25,6.0,400,25,pigeonpeas,Urea
+Acidic,40,30,30,6.5,300,30,pigeonpeas,Urea
+Acidic,45,30,30,6.5,300,30,pigeonpeas,Urea
+Acidic,50,30,30,6.5,300,30,pigeonpeas,Urea
+Acidic,40,20,25,5.5,400,20,pigeonpeas,MOP
+Acidic,45,20,25,5.5,400,20,pigeonpeas,MOP
+Acidic,50,20,25,5.5,400,20,pigeonpeas,MOP
+Acidic,40,25,30,6.0,300,25,pigeonpeas,MOP
+Acidic,45,25,30,6.0,300,25,pigeonpeas,MOP
+Acidic,50,25,30,6.0,300,25,pigeonpeas,MOP
+Acidic,40,30,20,6.5,400,30,pigeonpeas,MOP
+Acidic,45,30,20,6.5,400,30,pigeonpeas,MOP
+Acidic,50,30,20,6.5,400,30,pigeonpeas,MOP
+Acidic,40,20,30,5.5,300,20,pigeonpeas,SSP
+Acidic,45,20,30,5.5,300,20,pigeonpeas,SSP
+Acidic,50,20,30,5.5,300,20,pigeonpeas,SSP
+Acidic,40,25,20,6.0,400,25,pigeonpeas,SSP
+Acidic,45,25,20,6.0,400,25,pigeonpeas,SSP
+Acidic,50,25,20,6.0,400,25,pigeonpeas,SSP
+Acidic,40,30,25,6.5,300,30,pigeonpeas,SSP
+Acidic,45,30,25,6.5,300,30,pigeonpeas,SSP
+Acidic,50,30,25,6.5,300,30,pigeonpeas,SSP
+Peaty,20,30,20,6.0,800,20,blackgram,Urea
+Peaty,25,30,20,6.0,800,20,blackgram,Urea
+Peaty,30,30,20,6.0,800,20,blackgram,Urea
+Peaty,20,35,25,6.5,900,25,blackgram,Urea
+Peaty,25,35,25,6.5,900,25,blackgram,Urea
+Peaty,30,35,25,6.5,900,25,blackgram,Urea
+Peaty,20,40,30,7.0,1000,20,blackgram,Urea
+Peaty,25,40,30,7.0,1000,20,blackgram,Urea
+Peaty,30,40,30,7.0,1000,20,blackgram,Urea
+Peaty,20,30,25,6.0,800,25,blackgram,SSP
+Peaty,25,30,25,6.0,800,25,blackgram,SSP
+Peaty,30,30,25,6.0,800,25,blackgram,SSP
+Peaty,20,35,30,6.5,900,20,blackgram,SSP
+Peaty,25,35,30,6.5,900,20,blackgram,SSP
+Peaty,30,35,30,6.5,900,20,blackgram,SSP
+Peaty,20,40,20,7.0,1000,25,blackgram,SSP
+Peaty,25,40,20,7.0,1000,25,blackgram,SSP
+Peaty,30,40,20,7.0,1000,25,blackgram,SSP
+Peaty,20,30,30,6.0,800,20,blackgram,DAP
+Peaty,25,30,30,6.0,800,20,blackgram,DAP
+Peaty,30,30,30,6.0,800,20,blackgram,DAP
+Peaty,20,35,20,6.5,900,25,blackgram,DAP
+Peaty,25,35,20,6.5,900,25,blackgram,DAP
+Peaty,30,35,20,6.5,900,25,blackgram,DAP
+Peaty,20,40,25,7.0,1000,20,blackgram,DAP
+Peaty,25,40,25,7.0,1000,20,blackgram,DAP
+Peaty,30,40,25,7.0,1000,20,blackgram,DAP
+Neutral,20,10,5,6.0,600,25,mungbean,MOP
+Neutral,25,10,5,6.0,600,25,mungbean,MOP
+Neutral,30,10,5,6.0,600,25,mungbean,MOP
+Neutral,20,15,10,6.5,700,30,mungbean,MOP
+Neutral,25,15,10,6.5,700,30,mungbean,MOP
+Neutral,30,15,10,6.5,700,30,mungbean,MOP
+Neutral,20,20,15,7.0,800,35,mungbean,MOP
+Neutral,25,20,15,7.0,800,35,mungbean,MOP
+Neutral,30,20,15,7.0,800,35,mungbean,MOP
+Neutral,20,10,10,6.0,600,25,mungbean,Urea
+Neutral,25,10,10,6.0,600,25,mungbean,Urea
+Neutral,30,10,10,6.0,600,25,mungbean,Urea
+Neutral,20,15,15,6.5,700,30,mungbean,Urea
+Neutral,25,15,15,6.5,700,30,mungbean,Urea
+Neutral,30,15,15,6.5,700,30,mungbean,Urea
+Neutral,20,20,5,7.0,800,35,mungbean,Urea
+Neutral,25,20,5,7.0,800,35,mungbean,Urea
+Neutral,30,20,5,7.0,800,35,mungbean,Urea
+Neutral,20,10,15,6.0,600,25,mungbean,SSP
+Neutral,25,10,15,6.0,600,25,mungbean,SSP
+Neutral,30,10,15,6.0,600,25,mungbean,SSP
+Neutral,20,15,5,6.5,700,30,mungbean,SSP
+Neutral,25,15,5,6.5,700,30,mungbean,SSP
+Neutral,30,15,5,6.5,700,30,mungbean,SSP
+Neutral,20,20,10,7.0,800,35,mungbean,SSP
+Neutral,25,20,10,7.0,800,35,mungbean,SSP
+Neutral,30,20,10,7.0,800,35,mungbean,SSP
+Alkaline,40,25,10,6.0,600,20,chickpea,18:46:00 NPK
+Alkaline,45,25,10,6.0,600,20,chickpea,18:46:00 NPK
+Alkaline,50,25,10,6.0,600,20,chickpea,18:46:00 NPK
+Alkaline,40,30,15,6.5,700,25,chickpea,18:46:00 NPK
+Alkaline,45,30,15,6.5,700,25,chickpea,18:46:00 NPK
+Alkaline,50,30,15,6.5,700,25,chickpea,18:46:00 NPK
+Alkaline,40,25,15,6.0,600,20,chickpea,Sulphur
+Alkaline,45,25,15,6.0,600,20,chickpea,Sulphur
+Alkaline,50,25,15,6.0,600,20,chickpea,Sulphur
+Alkaline,40,30,10,6.5,700,25,chickpea,Sulphur
+Alkaline,45,30,10,6.5,700,25,chickpea,Sulphur
+Alkaline,50,30,10,6.5,700,25,chickpea,Sulphur
+Loamy,40,20,20,6.0,600,20,lentil,Urea
+Loamy,45,20,20,6.0,600,20,lentil,Urea
+Loamy,50,20,20,6.0,600,20,lentil,Urea
+Loamy,40,25,25,6.5,700,25,lentil,Urea
+Loamy,45,25,25,6.5,700,25,lentil,Urea
+Loamy,50,25,25,6.5,700,25,lentil,Urea
+Loamy,40,20,25,6.0,600,20,lentil,DAP
+Loamy,45,20,25,6.0,600,20,lentil,DAP
+Loamy,50,20,25,6.0,600,20,lentil,DAP
+Loamy,40,25,20,6.5,700,25,lentil,DAP
+Loamy,45,25,20,6.5,700,25,lentil,DAP
+Loamy,50,25,20,6.5,700,25,lentil,DAP
+Alkaline,100,60,60,7.5,500,10,cotton,Magnesium Sulphate
+Alkaline,105,60,60,7.5,500,10,cotton,Magnesium Sulphate
+Alkaline,110,60,60,7.5,500,10,cotton,Magnesium Sulphate
+Alkaline,115,60,60,7.5,500,10,cotton,Magnesium Sulphate
+Alkaline,120,60,60,7.5,500,10,cotton,Magnesium Sulphate
+Alkaline,100,65,65,8.0,600,15,cotton,Magnesium Sulphate
+Alkaline,105,65,65,8.0,600,15,cotton,Magnesium Sulphate
+Alkaline,110,65,65,8.0,600,15,cotton,Magnesium Sulphate
+Alkaline,115,65,65,8.0,600,15,cotton,Magnesium Sulphate
+Alkaline,120,65,65,8.0,600,15,cotton,Magnesium Sulphate
+Alkaline,100,70,70,8.5,500,20,cotton,Magnesium Sulphate
+Alkaline,105,70,70,8.5,500,20,cotton,Magnesium Sulphate
+Alkaline,110,70,70,8.5,500,20,cotton,Magnesium Sulphate
+Alkaline,115,70,70,8.5,500,20,cotton,Magnesium Sulphate
+Alkaline,120,70,70,8.5,500,20,cotton,Magnesium Sulphate
+Alkaline,100,75,75,7.5,600,25,cotton,Magnesium Sulphate
+Alkaline,105,75,75,7.5,600,25,cotton,Magnesium Sulphate
+Alkaline,110,75,75,7.5,600,25,cotton,Magnesium Sulphate
+Alkaline,115,75,75,7.5,600,25,cotton,Magnesium Sulphate
+Alkaline,120,75,75,7.5,600,25,cotton,Magnesium Sulphate
+Alkaline,100,80,80,8.0,500,30,cotton,Magnesium Sulphate
+Alkaline,105,80,80,8.0,500,30,cotton,Magnesium Sulphate
+Alkaline,110,80,80,8.0,500,30,cotton,Magnesium Sulphate
+Alkaline,115,80,80,8.0,500,30,cotton,Magnesium Sulphate
+Alkaline,120,80,80,8.0,500,30,cotton,Magnesium Sulphate
+Alkaline,100,60,65,8.5,600,10,cotton,DAP
+Alkaline,105,60,65,8.5,600,10,cotton,DAP
+Alkaline,110,60,65,8.5,600,10,cotton,DAP
+Alkaline,115,60,65,8.5,600,10,cotton,DAP
+Alkaline,120,60,65,8.5,600,10,cotton,DAP
+Alkaline,100,65,70,7.5,500,15,cotton,DAP
+Alkaline,105,65,70,7.5,500,15,cotton,DAP
+Alkaline,110,65,70,7.5,500,15,cotton,DAP
+Alkaline,115,65,70,7.5,500,15,cotton,DAP
+Alkaline,120,65,70,7.5,500,15,cotton,DAP
+Alkaline,100,70,75,8.0,600,20,cotton,DAP
+Alkaline,105,70,75,8.0,600,20,cotton,DAP
+Alkaline,110,70,75,8.0,600,20,cotton,DAP
+Alkaline,115,70,75,8.0,600,20,cotton,DAP
+Alkaline,120,70,75,8.0,600,20,cotton,DAP
+Alkaline,100,75,80,8.5,500,25,cotton,DAP
+Alkaline,105,75,80,8.5,500,25,cotton,DAP
+Alkaline,110,75,80,8.5,500,25,cotton,DAP
+Alkaline,115,75,80,8.5,500,25,cotton,DAP
+Alkaline,120,75,80,8.5,500,25,cotton,DAP
+Alkaline,100,80,60,7.5,600,30,cotton,DAP
+Alkaline,105,80,60,7.5,600,30,cotton,DAP
+Alkaline,110,80,60,7.5,600,30,cotton,DAP
+Alkaline,115,80,60,7.5,600,30,cotton,DAP
+Alkaline,120,80,60,7.5,600,30,cotton,DAP
+Alkaline,100,60,70,8.0,500,10,cotton,12:32:16 NPK
+Alkaline,105,60,70,8.0,500,10,cotton,12:32:16 NPK
+Alkaline,110,60,70,8.0,500,10,cotton,12:32:16 NPK
+Alkaline,115,60,70,8.0,500,10,cotton,12:32:16 NPK
+Alkaline,120,60,70,8.0,500,10,cotton,12:32:16 NPK
+Alkaline,100,65,75,8.5,600,15,cotton,12:32:16 NPK
+Alkaline,105,65,75,8.5,600,15,cotton,12:32:16 NPK
+Alkaline,110,65,75,8.5,600,15,cotton,12:32:16 NPK
+Alkaline,115,65,75,8.5,600,15,cotton,12:32:16 NPK
+Alkaline,120,65,75,8.5,600,15,cotton,12:32:16 NPK
+Alkaline,100,70,80,7.5,500,20,cotton,12:32:16 NPK
+Alkaline,105,70,80,7.5,500,20,cotton,12:32:16 NPK
+Alkaline,110,70,80,7.5,500,20,cotton,12:32:16 NPK
+Alkaline,115,70,80,7.5,500,20,cotton,12:32:16 NPK
+Alkaline,120,70,80,7.5,500,20,cotton,12:32:16 NPK
+Alkaline,100,75,60,8.0,600,25,cotton,12:32:16 NPK
+Alkaline,105,75,60,8.0,600,25,cotton,12:32:16 NPK
+Alkaline,110,75,60,8.0,600,25,cotton,12:32:16 NPK
+Alkaline,115,75,60,8.0,600,25,cotton,12:32:16 NPK
+Alkaline,120,75,60,8.0,600,25,cotton,12:32:16 NPK
+Alkaline,100,80,65,8.5,500,30,cotton,12:32:16 NPK
+Alkaline,105,80,65,8.5,500,30,cotton,12:32:16 NPK
+Alkaline,110,80,65,8.5,500,30,cotton,12:32:16 NPK
+Alkaline,115,80,65,8.5,500,30,cotton,12:32:16 NPK
+Alkaline,120,80,65,8.5,500,30,cotton,12:32:16 NPK
+Alkaline,100,60,75,7.5,600,10,cotton,Magnesium Sulphate
+Alkaline,105,60,75,7.5,600,10,cotton,Magnesium Sulphate
+Alkaline,110,60,75,7.5,600,10,cotton,Magnesium Sulphate
+Alkaline,115,60,75,7.5,600,10,cotton,Magnesium Sulphate
+Alkaline,120,60,75,7.5,600,10,cotton,Magnesium Sulphate
+Alkaline,100,65,80,8.0,500,15,cotton,Magnesium Sulphate
+Alkaline,105,65,80,8.0,500,15,cotton,Magnesium Sulphate
+Alkaline,110,65,80,8.0,500,15,cotton,Magnesium Sulphate
+Alkaline,115,65,80,8.0,500,15,cotton,Magnesium Sulphate
+Alkaline,120,65,80,8.0,500,15,cotton,Magnesium Sulphate
+Alkaline,100,70,60,8.5,600,20,cotton,Magnesium Sulphate
+Alkaline,105,70,60,8.5,600,20,cotton,Magnesium Sulphate
+Alkaline,110,70,60,8.5,600,20,cotton,Magnesium Sulphate
+Alkaline,115,70,60,8.5,600,20,cotton,Magnesium Sulphate
+Alkaline,120,70,60,8.5,600,20,cotton,Magnesium Sulphate
+Alkaline,100,75,65,7.5,500,25,cotton,Magnesium Sulphate
+Alkaline,105,75,65,7.5,500,25,cotton,Magnesium Sulphate
+Alkaline,110,75,65,7.5,500,25,cotton,Magnesium Sulphate
+Alkaline,115,75,65,7.5,500,25,cotton,Magnesium Sulphate
+Alkaline,120,75,65,7.5,500,25,cotton,Magnesium Sulphate
+Alkaline,100,80,70,8.0,600,30,cotton,Magnesium Sulphate
+Alkaline,105,80,70,8.0,600,30,cotton,Magnesium Sulphate
+Alkaline,110,80,70,8.0,600,30,cotton,Magnesium Sulphate
+Alkaline,115,80,70,8.0,600,30,cotton,Magnesium Sulphate
+Alkaline,120,80,70,8.0,600,30,cotton,Magnesium Sulphate
+Alkaline,100,60,80,8.5,500,10,cotton,DAP
+Alkaline,105,60,80,8.5,500,10,cotton,DAP
+Alkaline,110,60,80,8.5,500,10,cotton,DAP
+Alkaline,115,60,80,8.5,500,10,cotton,DAP
+Alkaline,120,60,80,8.5,500,10,cotton,DAP
+Alkaline,100,65,60,7.5,600,15,cotton,DAP
+Alkaline,105,65,60,7.5,600,15,cotton,DAP
+Alkaline,110,65,60,7.5,600,15,cotton,DAP
+Alkaline,115,65,60,7.5,600,15,cotton,DAP
+Alkaline,120,65,60,7.5,600,15,cotton,DAP
+Alkaline,100,70,65,8.0,500,20,cotton,DAP
+Alkaline,105,70,65,8.0,500,20,cotton,DAP
+Alkaline,110,70,65,8.0,500,20,cotton,DAP
+Alkaline,115,70,65,8.0,500,20,cotton,DAP
+Alkaline,120,70,65,8.0,500,20,cotton,DAP
+Alkaline,100,75,70,8.5,600,25,cotton,DAP
+Alkaline,105,75,70,8.5,600,25,cotton,DAP
+Alkaline,110,75,70,8.5,600,25,cotton,DAP
+Alkaline,115,75,70,8.5,600,25,cotton,DAP
+Alkaline,120,75,70,8.5,600,25,cotton,DAP
+Alkaline,100,80,75,7.5,500,30,cotton,DAP
+Alkaline,105,80,75,7.5,500,30,cotton,DAP
+Alkaline,110,80,75,7.5,500,30,cotton,DAP
+Alkaline,115,80,75,7.5,500,30,cotton,DAP
+Alkaline,120,80,75,7.5,500,30,cotton,DAP
+Acidic,50,30,20,6.5,600,20,millet,10:26:26 NPK
+Acidic,55,30,20,6.5,600,20,millet,10:26:26 NPK
+Acidic,60,30,20,6.5,600,20,millet,10:26:26 NPK
+Acidic,50,35,25,7.0,700,25,millet,10:26:26 NPK
+Acidic,55,35,25,7.0,700,25,millet,10:26:26 NPK
+Acidic,60,35,25,7.0,700,25,millet,10:26:26 NPK
+Acidic,50,40,30,7.5,600,30,millet,10:26:26 NPK
+Acidic,55,40,30,7.5,600,30,millet,10:26:26 NPK
+Acidic,60,40,30,7.5,600,30,millet,10:26:26 NPK
+Acidic,50,30,25,6.5,700,20,millet,Urea
+Acidic,55,30,25,6.5,700,20,millet,Urea
+Acidic,60,30,25,6.5,700,20,millet,Urea
+Acidic,50,35,30,7.0,600,25,millet,Urea
+Acidic,55,35,30,7.0,600,25,millet,Urea
+Acidic,60,35,30,7.0,600,25,millet,Urea
+Acidic,50,40,20,7.5,700,30,millet,Urea
+Acidic,55,40,20,7.5,700,30,millet,Urea
+Acidic,60,40,20,7.5,700,30,millet,Urea
+Acidic,50,30,30,6.5,600,20,millet,SSP
+Acidic,55,30,30,6.5,600,20,millet,SSP
+Acidic,60,30,30,6.5,600,20,millet,SSP
+Acidic,50,35,20,7.0,700,25,millet,SSP
+Acidic,55,35,20,7.0,700,25,millet,SSP
+Acidic,60,35,20,7.0,700,25,millet,SSP
+Acidic,50,40,25,7.5,600,30,millet,SSP
+Acidic,55,40,25,7.5,600,30,millet,SSP
+Acidic,60,40,25,7.5,600,30,millet,SSP
+Acidic,60,40,40,6.0,500,15,wheat,19:19:19 NPK
+Acidic,65,40,40,6.0,500,15,wheat,19:19:19 NPK
+Acidic,70,40,40,6.0,500,15,wheat,19:19:19 NPK
+Acidic,75,40,40,6.0,500,15,wheat,19:19:19 NPK
+Acidic,80,40,40,6.0,500,15,wheat,19:19:19 NPK
+Acidic,60,45,45,6.5,600,20,wheat,19:19:19 NPK
+Acidic,65,45,45,6.5,600,20,wheat,19:19:19 NPK
+Acidic,70,45,45,6.5,600,20,wheat,19:19:19 NPK
+Acidic,75,45,45,6.5,600,20,wheat,19:19:19 NPK
+Acidic,80,45,45,6.5,600,20,wheat,19:19:19 NPK
+Acidic,60,50,50,7.0,500,25,wheat,19:19:19 NPK
+Acidic,65,50,50,7.0,500,25,wheat,19:19:19 NPK
+Acidic,70,50,50,7.0,500,25,wheat,19:19:19 NPK
+Acidic,75,50,50,7.0,500,25,wheat,19:19:19 NPK
+Acidic,80,50,50,7.0,500,25,wheat,19:19:19 NPK
+Acidic,60,55,55,7.5,600,30,wheat,19:19:19 NPK
+Acidic,65,55,55,7.5,600,30,wheat,19:19:19 NPK
+Acidic,70,55,55,7.5,600,30,wheat,19:19:19 NPK
+Acidic,75,55,55,7.5,600,30,wheat,19:19:19 NPK
+Acidic,80,55,55,7.5,600,30,wheat,19:19:19 NPK
+Acidic,60,60,60,6.0,500,15,wheat,19:19:19 NPK
+Acidic,65,60,60,6.0,500,15,wheat,19:19:19 NPK
+Acidic,70,60,60,6.0,500,15,wheat,19:19:19 NPK
+Acidic,75,60,60,6.0,500,15,wheat,19:19:19 NPK
+Acidic,80,60,60,6.0,500,15,wheat,19:19:19 NPK
+Acidic,60,40,45,6.5,600,20,wheat,Urea
+Acidic,65,40,45,6.5,600,20,wheat,Urea
+Acidic,70,40,45,6.5,600,20,wheat,Urea
+Acidic,75,40,45,6.5,600,20,wheat,Urea
+Acidic,80,40,45,6.5,600,20,wheat,Urea
+Acidic,60,45,50,7.0,500,25,wheat,Urea
+Acidic,65,45,50,7.0,500,25,wheat,Urea
+Acidic,70,45,50,7.0,500,25,wheat,Urea
+Acidic,75,45,50,7.0,500,25,wheat,Urea
+Acidic,80,45,50,7.0,500,25,wheat,Urea
+Acidic,60,50,55,7.5,600,30,wheat,Urea
+Acidic,65,50,55,7.5,600,30,wheat,Urea
+Acidic,70,50,55,7.5,600,30,wheat,Urea
+Acidic,75,50,55,7.5,600,30,wheat,Urea
+Acidic,80,50,55,7.5,600,30,wheat,Urea
+Acidic,60,55,60,6.0,500,15,wheat,Urea
+Acidic,65,55,60,6.0,500,15,wheat,Urea
+Acidic,70,55,60,6.0,500,15,wheat,Urea
+Acidic,75,55,60,6.0,500,15,wheat,Urea
+Acidic,80,55,60,6.0,500,15,wheat,Urea
+Acidic,60,60,40,6.5,600,20,wheat,Urea
+Acidic,65,60,40,6.5,600,20,wheat,Urea
+Acidic,70,60,40,6.5,600,20,wheat,Urea
+Acidic,75,60,40,6.5,600,20,wheat,Urea
+Acidic,80,60,40,6.5,600,20,wheat,Urea
+Acidic,60,40,50,7.0,500,25,wheat,19:19:19 NPK
+Acidic,65,40,50,7.0,500,25,wheat,19:19:19 NPK
+Acidic,70,40,50,7.0,500,25,wheat,19:19:19 NPK
+Acidic,75,40,50,7.0,500,25,wheat,19:19:19 NPK
+Acidic,80,40,50,7.0,500,25,wheat,19:19:19 NPK
+Acidic,60,45,55,7.5,600,30,wheat,19:19:19 NPK
+Acidic,65,45,55,7.5,600,30,wheat,19:19:19 NPK
+Acidic,70,45,55,7.5,600,30,wheat,19:19:19 NPK
+Acidic,75,45,55,7.5,600,30,wheat,19:19:19 NPK
+Acidic,80,45,55,7.5,600,30,wheat,19:19:19 NPK
+Acidic,60,50,60,6.0,500,15,wheat,19:19:19 NPK
+Acidic,65,50,60,6.0,500,15,wheat,19:19:19 NPK
+Acidic,70,50,60,6.0,500,15,wheat,19:19:19 NPK
+Acidic,75,50,60,6.0,500,15,wheat,19:19:19 NPK
+Acidic,80,50,60,6.0,500,15,wheat,19:19:19 NPK
+Acidic,60,55,40,6.5,600,20,wheat,19:19:19 NPK
+Acidic,65,55,40,6.5,600,20,wheat,19:19:19 NPK
+Acidic,70,55,40,6.5,600,20,wheat,19:19:19 NPK
+Acidic,75,55,40,6.5,600,20,wheat,19:19:19 NPK
+Acidic,80,55,40,6.5,600,20,wheat,19:19:19 NPK
+Acidic,60,60,45,7.0,500,25,wheat,19:19:19 NPK
+Acidic,65,60,45,7.0,500,25,wheat,19:19:19 NPK
+Acidic,70,60,45,7.0,500,25,wheat,19:19:19 NPK
+Acidic,75,60,45,7.0,500,25,wheat,19:19:19 NPK
+Acidic,80,60,45,7.0,500,25,wheat,19:19:19 NPK
+Acidic,60,40,55,7.5,600,30,wheat,Urea
+Acidic,65,40,55,7.5,600,30,wheat,Urea
+Acidic,70,40,55,7.5,600,30,wheat,Urea
+Acidic,75,40,55,7.5,600,30,wheat,Urea
+Acidic,80,40,55,7.5,600,30,wheat,Urea
+Acidic,60,45,60,6.0,500,15,wheat,Urea
+Acidic,65,45,60,6.0,500,15,wheat,Urea
+Acidic,70,45,60,6.0,500,15,wheat,Urea
+Acidic,75,45,60,6.0,500,15,wheat,Urea
+Acidic,80,45,60,6.0,500,15,wheat,Urea
+Acidic,60,50,40,6.5,600,20,wheat,Urea
+Acidic,65,50,40,6.5,600,20,wheat,Urea
+Acidic,70,50,40,6.5,600,20,wheat,Urea
+Acidic,75,50,40,6.5,600,20,wheat,Urea
+Acidic,80,50,40,6.5,600,20,wheat,Urea
+Acidic,60,55,45,7.0,500,25,wheat,Urea
+Acidic,65,55,45,7.0,500,25,wheat,Urea
+Acidic,70,55,45,7.0,500,25,wheat,Urea
+Acidic,75,55,45,7.0,500,25,wheat,Urea
+Acidic,80,55,45,7.0,500,25,wheat,Urea
+Acidic,60,60,50,7.5,600,30,wheat,Urea
+Acidic,65,60,50,7.5,600,30,wheat,Urea
+Acidic,70,60,50,7.5,600,30,wheat,Urea
+Acidic,75,60,50,7.5,600,30,wheat,Urea
+Acidic,80,60,50,7.5,600,30,wheat,Urea
+Acidic,60,40,60,6.0,500,15,wheat,19:19:19 NPK
+Acidic,65,40,60,6.0,500,15,wheat,19:19:19 NPK
+Acidic,70,40,60,6.0,500,15,wheat,19:19:19 NPK
+Acidic,75,40,60,6.0,500,15,wheat,19:19:19 NPK
+Acidic,80,40,60,6.0,500,15,wheat,19:19:19 NPK
+Acidic,60,45,40,6.5,600,20,wheat,19:19:19 NPK
+Acidic,65,45,40,6.5,600,20,wheat,19:19:19 NPK
+Acidic,70,45,40,6.5,600,20,wheat,19:19:19 NPK
+Acidic,75,45,40,6.5,600,20,wheat,19:19:19 NPK
+Acidic,80,45,40,6.5,600,20,wheat,19:19:19 NPK
+Acidic,60,50,45,7.0,500,25,wheat,19:19:19 NPK
+Acidic,65,50,45,7.0,500,25,wheat,19:19:19 NPK
+Acidic,70,50,45,7.0,500,25,wheat,19:19:19 NPK
+Acidic,75,50,45,7.0,500,25,wheat,19:19:19 NPK
+Acidic,80,50,45,7.0,500,25,wheat,19:19:19 NPK
+Acidic,60,55,50,7.5,600,30,wheat,19:19:19 NPK
+Acidic,65,55,50,7.5,600,30,wheat,19:19:19 NPK
+Acidic,70,55,50,7.5,600,30,wheat,19:19:19 NPK
+Acidic,75,55,50,7.5,600,30,wheat,19:19:19 NPK
+Acidic,80,55,50,7.5,600,30,wheat,19:19:19 NPK
+Acidic,60,60,55,6.0,500,15,wheat,19:19:19 NPK
+Acidic,65,60,55,6.0,500,15,wheat,19:19:19 NPK
+Acidic,70,60,55,6.0,500,15,wheat,19:19:19 NPK
+Acidic,75,60,55,6.0,500,15,wheat,19:19:19 NPK
+Acidic,80,60,55,6.0,500,15,wheat,19:19:19 NPK
+Alkaline,120,60,60,6.5,1000,20,sugarcane,Urea
+Alkaline,125,60,60,6.5,1000,20,sugarcane,Urea
+Alkaline,130,60,60,6.5,1000,20,sugarcane,Urea
+Alkaline,135,60,60,6.5,1000,20,sugarcane,Urea
+Alkaline,140,60,60,6.5,1000,20,sugarcane,Urea
+Alkaline,145,60,60,6.5,1000,20,sugarcane,Urea
+Alkaline,150,60,60,6.5,1000,20,sugarcane,Urea
+Alkaline,120,65,65,7.0,1100,25,sugarcane,Urea
+Alkaline,125,65,65,7.0,1100,25,sugarcane,Urea
+Alkaline,130,65,65,7.0,1100,25,sugarcane,Urea
+Alkaline,135,65,65,7.0,1100,25,sugarcane,Urea
+Alkaline,140,65,65,7.0,1100,25,sugarcane,Urea
+Alkaline,145,65,65,7.0,1100,25,sugarcane,Urea
+Alkaline,150,65,65,7.0,1100,25,sugarcane,Urea
+Alkaline,120,70,70,7.5,1200,30,sugarcane,Urea
+Alkaline,125,70,70,7.5,1200,30,sugarcane,Urea
+Alkaline,130,70,70,7.5,1200,30,sugarcane,Urea
+Alkaline,135,70,70,7.5,1200,30,sugarcane,Urea
+Alkaline,140,70,70,7.5,1200,30,sugarcane,Urea
+Alkaline,145,70,70,7.5,1200,30,sugarcane,Urea
+Alkaline,150,70,70,7.5,1200,30,sugarcane,Urea
+Alkaline,120,75,75,8.0,1000,35,sugarcane,Urea
+Alkaline,125,75,75,8.0,1000,35,sugarcane,Urea
+Alkaline,130,75,75,8.0,1000,35,sugarcane,Urea
+Alkaline,135,75,75,8.0,1000,35,sugarcane,Urea
+Alkaline,140,75,75,8.0,1000,35,sugarcane,Urea
+Alkaline,145,75,75,8.0,1000,35,sugarcane,Urea
+Alkaline,150,75,75,8.0,1000,35,sugarcane,Urea
+Alkaline,120,80,80,8.5,1100,20,sugarcane,Urea
+Alkaline,125,80,80,8.5,1100,20,sugarcane,Urea
+Alkaline,130,80,80,8.5,1100,20,sugarcane,Urea
+Alkaline,135,80,80,8.5,1100,20,sugarcane,Urea
+Alkaline,140,80,80,8.5,1100,20,sugarcane,Urea
+Alkaline,145,80,80,8.5,1100,20,sugarcane,Urea
+Alkaline,150,80,80,8.5,1100,20,sugarcane,DAP
+Alkaline,120,60,65,6.5,1200,25,sugarcane,DAP
+Alkaline,125,60,65,6.5,1200,25,sugarcane,DAP
+Alkaline,130,60,65,6.5,1200,25,sugarcane,DAP
+Alkaline,135,60,65,6.5,1200,25,sugarcane,DAP
+Alkaline,140,60,65,6.5,1200,25,sugarcane,DAP
+Alkaline,145,60,65,6.5,1200,25,sugarcane,DAP
+Alkaline,150,60,65,6.5,1200,25,sugarcane,DAP
+Alkaline,120,65,70,7.0,1000,30,sugarcane,DAP
+Alkaline,125,65,70,7.0,1000,30,sugarcane,DAP
+Alkaline,130,65,70,7.0,1000,30,sugarcane,DAP
+Alkaline,135,65,70,7.0,1000,30,sugarcane,DAP
+Alkaline,140,65,70,7.0,1000,30,sugarcane,DAP
+Alkaline,145,65,70,7.0,1000,30,sugarcane,DAP
+Alkaline,150,65,70,7.0,1000,30,sugarcane,DAP
+Alkaline,120,70,75,7.5,1100,35,sugarcane,DAP
+Alkaline,125,70,75,7.5,1100,35,sugarcane,DAP
+Alkaline,130,70,75,7.5,1100,35,sugarcane,DAP
+Alkaline,135,70,75,7.5,1100,35,sugarcane,DAP
+Alkaline,140,70,75,7.5,1100,35,sugarcane,DAP
+Alkaline,145,70,75,7.5,1100,35,sugarcane,DAP
+Alkaline,150,70,75,7.5,1100,35,sugarcane,DAP
+Alkaline,120,75,80,8.0,1200,20,sugarcane,DAP
+Alkaline,125,75,80,8.0,1200,20,sugarcane,DAP
+Alkaline,130,75,80,8.0,1200,20,sugarcane,DAP
+Alkaline,135,75,80,8.0,1200,20,sugarcane,DAP
+Alkaline,140,75,80,8.0,1200,20,sugarcane,DAP
+Alkaline,145,75,80,8.0,1200,20,sugarcane,DAP
+Alkaline,150,75,80,8.0,1200,20,sugarcane,DAP
+Alkaline,120,80,60,8.5,1000,25,sugarcane,DAP
+Alkaline,125,80,60,8.5,1000,25,sugarcane,DAP
+Alkaline,130,80,60,8.5,1000,25,sugarcane,DAP
+Alkaline,135,80,60,8.5,1000,25,sugarcane,DAP
+Alkaline,140,80,60,8.5,1000,25,sugarcane,DAP
+Alkaline,145,80,60,8.5,1000,25,sugarcane,DAP
+Alkaline,150,80,60,8.5,1000,25,sugarcane,DAP
+Alkaline,120,60,70,6.5,1100,30,sugarcane,MOP
+Alkaline,125,60,70,6.5,1100,30,sugarcane,MOP
+Alkaline,130,60,70,6.5,1100,30,sugarcane,MOP
+Alkaline,135,60,70,6.5,1100,30,sugarcane,MOP
+Alkaline,140,60,70,6.5,1100,30,sugarcane,MOP
+Alkaline,145,60,70,6.5,1100,30,sugarcane,MOP
+Alkaline,150,60,70,6.5,1100,30,sugarcane,MOP
+Alkaline,120,65,75,7.0,1200,35,sugarcane,MOP
+Alkaline,125,65,75,7.0,1200,35,sugarcane,MOP
+Alkaline,130,65,75,7.0,1200,35,sugarcane,MOP
+Alkaline,135,65,75,7.0,1200,35,sugarcane,MOP
+Alkaline,140,65,75,7.0,1200,35,sugarcane,MOP
+Alkaline,145,65,75,7.0,1200,35,sugarcane,MOP
+Alkaline,150,65,75,7.0,1200,35,sugarcane,MOP
+Alkaline,120,70,80,7.5,1000,20,sugarcane,MOP
+Alkaline,125,70,80,7.5,1000,20,sugarcane,MOP
+Alkaline,130,70,80,7.5,1000,20,sugarcane,MOP
+Alkaline,135,70,80,7.5,1000,20,sugarcane,MOP
+Alkaline,140,70,80,7.5,1000,20,sugarcane,MOP
+Alkaline,145,70,80,7.5,1000,20,sugarcane,MOP
+Alkaline,150,70,80,7.5,1000,20,sugarcane,MOP
+Alkaline,120,75,60,8.0,1100,25,sugarcane,MOP
+Alkaline,125,75,60,8.0,1100,25,sugarcane,MOP
+Alkaline,130,75,60,8.0,1100,25,sugarcane,MOP
+Alkaline,135,75,60,8.0,1100,25,sugarcane,MOP
+Alkaline,140,75,60,8.0,1100,25,sugarcane,MOP
+Alkaline,145,75,60,8.0,1100,25,sugarcane,MOP
+Alkaline,150,75,60,8.0,1100,25,sugarcane,MOP
+Alkaline,120,80,65,8.5,1200,30,sugarcane,MOP
+Alkaline,125,80,65,8.5,1200,30,sugarcane,MOP
+Alkaline,130,80,65,8.5,1200,30,sugarcane,MOP
+Alkaline,135,80,65,8.5,1200,30,sugarcane,MOP
+Alkaline,140,80,65,8.5,1200,30,sugarcane,MOP
+Alkaline,145,80,65,8.5,1200,30,sugarcane,MOP
+Alkaline,150,80,65,8.5,1200,30,sugarcane,MOP
+Alkaline,120,60,75,6.5,1000,35,sugarcane,MOP
+Alkaline,125,60,75,6.5,1000,35,sugarcane,MOP
+Alkaline,130,60,75,6.5,1000,35,sugarcane,MOP
+Alkaline,135,60,75,6.5,1000,35,sugarcane,MOP
+Alkaline,140,60,75,6.5,1000,35,sugarcane,MOP
+Alkaline,145,60,75,6.5,1000,35,sugarcane,MOP
+Alkaline,150,60,75,6.5,1000,35,sugarcane,MOP
+Alkaline,120,65,80,7.0,1100,20,sugarcane,MOP
+Alkaline,125,65,80,7.0,1100,20,sugarcane,MOP
+Alkaline,130,65,80,7.0,1100,20,sugarcane,MOP
+Alkaline,135,65,80,7.0,1100,20,sugarcane,MOP
+Alkaline,140,65,80,7.0,1100,20,sugarcane,MOP
+Alkaline,145,65,80,7.0,1100,20,sugarcane,MOP
+Alkaline,150,65,80,7.0,1100,20,sugarcane,MOP
+Alkaline,120,70,60,7.5,1200,25,sugarcane,MOP
+Alkaline,125,70,60,7.5,1200,25,sugarcane,MOP
+Alkaline,130,70,60,7.5,1200,25,sugarcane,MOP
+Alkaline,135,70,60,7.5,1200,25,sugarcane,MOP
+Alkaline,140,70,60,7.5,1200,25,sugarcane,MOP
+Alkaline,145,70,60,7.5,1200,25,sugarcane,MOP
+Alkaline,150,70,60,7.5,1200,25,sugarcane,MOP
+Alkaline,120,75,65,8.0,1000,30,sugarcane,MOP
+Alkaline,125,75,65,8.0,1000,30,sugarcane,MOP
+Alkaline,130,75,65,8.0,1000,30,sugarcane,MOP
+Alkaline,135,75,65,8.0,1000,30,sugarcane,MOP
+Alkaline,140,75,65,8.0,1000,30,sugarcane,MOP
+Alkaline,145,75,65,8.0,1000,30,sugarcane,MOP
+Alkaline,150,75,65,8.0,1000,30,sugarcane,MOP
+Alkaline,120,80,70,8.5,1100,35,sugarcane,MOP
+Alkaline,125,80,70,8.5,1100,35,sugarcane,MOP
+Alkaline,130,80,70,8.5,1100,35,sugarcane,MOP
+Alkaline,135,80,70,8.5,1100,35,sugarcane,MOP
+Alkaline,140,80,70,8.5,1100,35,sugarcane,MOP
+Alkaline,145,80,70,8.5,1100,35,sugarcane,MOP
+Alkaline,150,80,70,8.5,1100,35,sugarcane,MOP
+Alkaline,120,60,80,6.5,1200,20,sugarcane,MOP
+Alkaline,125,60,80,6.5,1200,20,sugarcane,MOP
+Alkaline,130,60,80,6.5,1200,20,sugarcane,MOP
+Alkaline,135,60,80,6.5,1200,20,sugarcane,MOP
+Alkaline,140,60,80,6.5,1200,20,sugarcane,MOP
+Alkaline,145,60,80,6.5,1200,20,sugarcane,MOP
+Alkaline,150,60,80,6.5,1200,20,sugarcane,MOP
+Alkaline,120,65,60,7.0,1000,25,sugarcane,MOP
+Alkaline,125,65,60,7.0,1000,25,sugarcane,MOP
+Alkaline,130,65,60,7.0,1000,25,sugarcane,MOP
+Alkaline,135,65,60,7.0,1000,25,sugarcane,MOP
+Alkaline,140,65,60,7.0,1000,25,sugarcane,MOP
+Alkaline,145,65,60,7.0,1000,25,sugarcane,MOP
+Alkaline,150,65,60,7.0,1000,25,sugarcane,MOP
+Alkaline,120,70,65,7.5,1100,30,sugarcane,MOP
+Alkaline,125,70,65,7.5,1100,30,sugarcane,MOP
+Alkaline,130,70,65,7.5,1100,30,sugarcane,MOP
+Alkaline,135,70,65,7.5,1100,30,sugarcane,MOP
+Alkaline,140,70,65,7.5,1100,30,sugarcane,MOP
+Alkaline,145,70,65,7.5,1100,30,sugarcane,MOP
+Alkaline,150,70,65,7.5,1100,30,sugarcane,MOP
+Alkaline,120,75,70,8.0,1200,35,sugarcane,MOP
+Alkaline,125,75,70,8.0,1200,35,sugarcane,MOP
+Alkaline,130,75,70,8.0,1200,35,sugarcane,MOP
+Alkaline,135,75,70,8.0,1200,35,sugarcane,MOP
+Alkaline,140,75,70,8.0,1200,35,sugarcane,MOP
+Alkaline,145,75,70,8.0,1200,35,sugarcane,MOP
+Alkaline,150,75,70,8.0,1200,35,sugarcane,MOP
+Alkaline,120,80,75,8.5,1000,20,sugarcane,MOP
+Alkaline,125,80,75,8.5,1000,20,sugarcane,MOP
+Alkaline,130,80,75,8.5,1000,20,sugarcane,MOP
+Alkaline,135,80,75,8.5,1000,20,sugarcane,MOP
+Alkaline,140,80,75,8.5,1000,20,sugarcane,MOP
+Alkaline,145,80,75,8.5,1000,20,sugarcane,MOP
+Alkaline,150,80,75,8.5,1000,20,sugarcane,MOP
+Alkaline,20,40,20,6.0,600,25,groundnut,Chilated Micronutrient
+Alkaline,25,40,20,6.0,600,25,groundnut,Chilated Micronutrient
+Alkaline,30,40,20,6.0,600,25,groundnut,Chilated Micronutrient
+Alkaline,20,45,25,6.5,700,30,groundnut,Chilated Micronutrient
+Alkaline,25,45,25,6.5,700,30,groundnut,Chilated Micronutrient
+Alkaline,30,45,25,6.5,700,30,groundnut,Chilated Micronutrient
+Alkaline,20,50,30,7.0,800,25,groundnut,Chilated Micronutrient
+Alkaline,25,50,30,7.0,800,25,groundnut,Chilated Micronutrient
+Alkaline,30,50,30,7.0,800,25,groundnut,Chilated Micronutrient
+Alkaline,20,55,35,7.5,600,30,groundnut,Chilated Micronutrient
+Alkaline,25,55,35,7.5,600,30,groundnut,Chilated Micronutrient
+Alkaline,30,55,35,7.5,600,30,groundnut,Chilated Micronutrient
+Alkaline,20,60,40,6.0,700,25,groundnut,Chilated Micronutrient
+Alkaline,25,60,40,6.0,700,25,groundnut,Chilated Micronutrient
+Alkaline,30,60,40,6.0,700,25,groundnut,Chilated Micronutrient
+Alkaline,20,40,25,6.5,800,30,groundnut,SSP
+Alkaline,25,40,25,6.5,800,30,groundnut,SSP
+Alkaline,30,40,25,6.5,800,30,groundnut,SSP
+Alkaline,20,45,30,7.0,600,25,groundnut,SSP
+Alkaline,25,45,30,7.0,600,25,groundnut,SSP
+Alkaline,30,45,30,7.0,600,25,groundnut,SSP
+Alkaline,20,50,35,7.5,700,30,groundnut,SSP
+Alkaline,25,50,35,7.5,700,30,groundnut,SSP
+Alkaline,30,50,35,7.5,700,30,groundnut,SSP
+Alkaline,20,55,40,6.5,800,25,groundnut,SSP
+Alkaline,25,55,40,6.5,800,25,groundnut,SSP
+Alkaline,30,55,40,6.5,800,25,groundnut,SSP
+Alkaline,20,60,20,7.0,600,30,groundnut,SSP
+Alkaline,25,60,20,7.0,600,30,groundnut,SSP
+Alkaline,30,60,20,7.0,600,30,groundnut,SSP
+Alkaline,20,40,30,7.5,700,25,groundnut,Chilated Micronutrient
+Alkaline,25,40,30,7.5,700,25,groundnut,Chilated Micronutrient
+Alkaline,30,40,30,7.5,700,25,groundnut,Chilated Micronutrient
+Alkaline,20,45,35,6.0,800,30,groundnut,Chilated Micronutrient
+Alkaline,25,45,35,6.0,800,30,groundnut,Chilated Micronutrient
+Alkaline,30,45,35,6.0,800,30,groundnut,Chilated Micronutrient
+Alkaline,20,50,40,7.0,600,25,groundnut,Chilated Micronutrient
+Alkaline,25,50,40,7.0,600,25,groundnut,Chilated Micronutrient
+Alkaline,30,50,40,7.0,600,25,groundnut,Chilated Micronutrient
+Alkaline,20,55,20,7.5,700,30,groundnut,Chilated Micronutrient
+Alkaline,25,55,20,7.5,700,30,groundnut,Chilated Micronutrient
+Alkaline,30,55,20,7.5,700,30,groundnut,Chilated Micronutrient
+Alkaline,20,60,25,6.0,800,25,groundnut,Chilated Micronutrient
+Alkaline,25,60,25,6.0,800,25,groundnut,Chilated Micronutrient
+Alkaline,30,60,25,6.0,800,25,groundnut,Chilated Micronutrient
+Alkaline,20,40,35,6.5,600,30,groundnut,SSP
+Alkaline,25,40,35,6.5,600,30,groundnut,SSP
+Alkaline,30,40,35,6.5,600,30,groundnut,SSP
+Alkaline,20,45,40,7.5,700,25,groundnut,SSP
+Alkaline,25,45,40,7.5,700,25,groundnut,SSP
+Alkaline,30,45,40,7.5,700,25,groundnut,SSP
+Alkaline,20,50,20,6.0,800,30,groundnut,SSP
+Alkaline,25,50,20,6.0,800,30,groundnut,SSP
+Alkaline,30,50,20,6.0,800,30,groundnut,SSP
+Alkaline,20,55,25,6.5,600,25,groundnut,SSP
+Alkaline,25,55,25,6.5,600,25,groundnut,SSP
+Alkaline,30,55,25,6.5,600,25,groundnut,SSP
+Alkaline,20,60,30,7.0,700,30,groundnut,SSP
+Alkaline,25,60,30,7.0,700,30,groundnut,SSP
+Alkaline,30,60,30,7.0,700,30,groundnut,SSP
+Alkaline,20,40,40,6.0,800,25,groundnut,Chilated Micronutrient
+Alkaline,25,40,40,6.0,800,25,groundnut,Chilated Micronutrient
+Alkaline,30,40,40,6.0,800,25,groundnut,Chilated Micronutrient
+Alkaline,20,45,20,6.5,600,30,groundnut,Chilated Micronutrient
+Alkaline,25,45,20,6.5,600,30,groundnut,Chilated Micronutrient
+Alkaline,30,45,20,6.5,600,30,groundnut,Chilated Micronutrient
+Alkaline,20,50,25,7.5,700,25,groundnut,Chilated Micronutrient
+Alkaline,25,50,25,7.5,700,25,groundnut,Chilated Micronutrient
+Alkaline,30,50,25,7.5,700,25,groundnut,Chilated Micronutrient
+Alkaline,20,55,30,6.0,800,30,groundnut,Chilated Micronutrient
+Alkaline,25,55,30,6.0,800,30,groundnut,Chilated Micronutrient
+Alkaline,30,55,30,6.0,800,30,groundnut,Chilated Micronutrient
+Alkaline,20,60,35,6.5,600,20,groundnut,Chilated Micronutrient
+Alkaline,25,60,35,6.5,600,20,groundnut,Chilated Micronutrient
+Alkaline,30,60,35,6.5,600,20,groundnut,Chilated Micronutrient
+Alkaline,20,40,20,6.0,700,25,chickpea,DAP
+Alkaline,25,40,20,6.0,700,25,chickpea,DAP
+Alkaline,30,40,20,6.0,700,25,chickpea,DAP
+Alkaline,20,45,25,6.5,800,30,chickpea,DAP
+Alkaline,25,45,25,6.5,800,30,chickpea,DAP
+Alkaline,30,45,25,6.5,800,30,chickpea,DAP
+Alkaline,20,50,30,7.0,700,35,chickpea,DAP
+Alkaline,25,50,30,7.0,700,35,chickpea,DAP
+Alkaline,30,50,30,7.0,700,35,chickpea,DAP
+Alkaline,20,40,25,6.0,800,25,chickpea,MOP
+Alkaline,25,40,25,6.0,800,25,chickpea,MOP
+Alkaline,30,40,25,6.0,800,25,chickpea,MOP
+Alkaline,20,45,30,6.5,700,30,chickpea,MOP
+Alkaline,25,45,30,6.5,700,30,chickpea,MOP
+Alkaline,30,45,30,6.5,700,30,chickpea,MOP
+Alkaline,20,50,20,7.0,800,35,chickpea,MOP
+Alkaline,25,50,20,7.0,800,35,chickpea,MOP
+Alkaline,30,50,20,7.0,800,35,chickpea,MOP
+Alkaline,20,40,30,6.0,700,25,chickpea,DAP
+Alkaline,25,40,30,6.0,700,25,chickpea,DAP
+Alkaline,30,40,30,6.0,700,25,chickpea,DAP
+Alkaline,20,45,20,6.5,800,30,chickpea,DAP
+Alkaline,25,45,20,6.5,800,30,chickpea,DAP
+Alkaline,30,45,20,6.5,800,30,chickpea,DAP
+Alkaline,20,50,25,7.0,700,35,chickpea,DAP
+Alkaline,25,50,25,7.0,700,35,chickpea,DAP
+Alkaline,30,50,25,7.0,700,35,chickpea,DAP
+Acidic,30,20,20,6.0,500,25,pigeonpeas,Urea
+Acidic,35,20,20,6.0,500,25,pigeonpeas,Urea
+Acidic,40,20,20,6.0,500,25,pigeonpeas,Urea
+Acidic,30,25,25,6.5,600,30,pigeonpeas,Urea
+Acidic,35,25,25,6.5,600,30,pigeonpeas,Urea
+Acidic,40,25,25,6.5,600,30,pigeonpeas,Urea
+Acidic,30,30,20,7.0,500,35,pigeonpeas,Urea
+Acidic,35,30,20,7.0,500,35,pigeonpeas,Urea
+Acidic,40,30,20,7.0,500,35,pigeonpeas,Urea
+Acidic,30,20,25,6.0,600,25,pigeonpeas,MOP
+Acidic,35,20,25,6.0,600,25,pigeonpeas,MOP
+Acidic,40,20,25,6.0,600,25,pigeonpeas,MOP
+Acidic,30,25,20,6.5,500,30,pigeonpeas,MOP
+Acidic,35,25,20,6.5,500,30,pigeonpeas,MOP
+Acidic,40,25,20,6.5,500,30,pigeonpeas,MOP
+Acidic,30,30,25,7.0,600,35,pigeonpeas,MOP
+Acidic,35,30,25,7.0,600,35,pigeonpeas,MOP
+Acidic,40,30,25,7.0,600,35,pigeonpeas,MOP
+Alkaline,60,30,20,6.5,400,25,blackgram,Urea
+Alkaline,65,30,20,6.5,400,25,blackgram,Urea
+Alkaline,70,30,20,6.5,400,25,blackgram,Urea
+Alkaline,75,30,20,6.5,400,25,blackgram,Urea
+Alkaline,80,30,20,6.5,400,25,blackgram,Urea
+Alkaline,60,35,25,7.0,500,30,blackgram,Urea
+Alkaline,65,35,25,7.0,500,30,blackgram,Urea
+Alkaline,70,35,25,7.0,500,30,blackgram,Urea
+Alkaline,75,35,25,7.0,500,30,blackgram,Urea
+Alkaline,80,35,25,7.0,500,30,blackgram,Urea
+Alkaline,60,40,30,7.5,600,25,blackgram,Urea
+Alkaline,65,40,30,7.5,600,25,blackgram,Urea
+Alkaline,70,40,30,7.5,600,25,blackgram,Urea
+Alkaline,75,40,30,7.5,600,25,blackgram,Urea
+Alkaline,80,40,30,7.5,600,25,blackgram,Urea
+Alkaline,60,30,25,6.5,400,30,blackgram,SSP
+Alkaline,65,30,25,6.5,400,30,blackgram,SSP
+Alkaline,70,30,25,6.5,400,30,blackgram,SSP
+Alkaline,75,30,25,6.5,400,30,blackgram,SSP
+Alkaline,80,30,25,6.5,400,30,blackgram,SSP
+Alkaline,60,35,30,7.0,500,25,blackgram,SSP
+Alkaline,65,35,30,7.0,500,25,blackgram,SSP
+Alkaline,70,35,30,7.0,500,25,blackgram,SSP
+Alkaline,75,35,30,7.0,500,25,blackgram,SSP
+Alkaline,80,35,30,7.0,500,25,blackgram,SSP
+Alkaline,60,40,20,7.5,600,30,blackgram,SSP
+Alkaline,65,40,20,7.5,600,30,blackgram,SSP
+Alkaline,70,40,20,7.5,600,30,blackgram,SSP
+Alkaline,75,40,20,7.5,600,30,blackgram,SSP
+Alkaline,80,40,20,7.5,600,30,blackgram,SSP
+Alkaline,60,30,30,6.5,400,25,blackgram,DAP
+Alkaline,65,30,30,6.5,400,25,blackgram,DAP
+Alkaline,70,30,30,6.5,400,25,blackgram,DAP
+Alkaline,75,30,30,6.5,400,25,blackgram,DAP
+Alkaline,80,30,30,6.5,400,25,blackgram,DAP
+Alkaline,60,35,20,7.0,500,30,blackgram,DAP
+Alkaline,65,35,20,7.0,500,30,blackgram,DAP
+Alkaline,70,35,20,7.0,500,30,blackgram,DAP
+Alkaline,75,35,20,7.0,500,30,blackgram,DAP
+Alkaline,80,35,20,7.0,500,30,blackgram,DAP
+Alkaline,60,40,25,7.5,600,25,blackgram,DAP
+Alkaline,65,40,25,7.5,600,25,blackgram,DAP
+Alkaline,70,40,25,7.5,600,25,blackgram,DAP
+Alkaline,75,40,25,7.5,600,25,blackgram,DAP
+Alkaline,80,40,25,7.5,600,25,blackgram,DAP
+Alkaline,60,30,20,6.0,500,25,mungbean,MOP
+Alkaline,65,30,20,6.0,500,25,mungbean,MOP
+Alkaline,70,30,20,6.0,500,25,mungbean,MOP
+Alkaline,75,30,20,6.0,500,25,mungbean,MOP
+Alkaline,80,30,20,6.0,500,25,mungbean,MOP
+Alkaline,60,35,25,6.5,600,30,mungbean,MOP
+Alkaline,65,35,25,6.5,600,30,mungbean,MOP
+Alkaline,70,35,25,6.5,600,30,mungbean,MOP
+Alkaline,75,35,25,6.5,600,30,mungbean,MOP
+Alkaline,80,35,25,6.5,600,30,mungbean,MOP
+Alkaline,60,40,30,7.0,700,35,mungbean,MOP
+Alkaline,65,40,30,7.0,700,35,mungbean,MOP
+Alkaline,70,40,30,7.0,700,35,mungbean,MOP
+Alkaline,75,40,30,7.0,700,35,mungbean,MOP
+Alkaline,80,40,30,7.0,700,35,mungbean,MOP
+Alkaline,60,30,25,6.0,500,25,mungbean,Urea
+Alkaline,65,30,25,6.0,500,25,mungbean,Urea
+Alkaline,70,30,25,6.0,500,25,mungbean,Urea
+Alkaline,75,30,25,6.0,500,25,mungbean,Urea
+Alkaline,80,30,25,6.0,500,25,mungbean,Urea
+Alkaline,60,35,30,6.5,600,30,mungbean,Urea
+Alkaline,65,35,30,6.5,600,30,mungbean,Urea
+Alkaline,70,35,30,6.5,600,30,mungbean,Urea
+Alkaline,75,35,30,6.5,600,30,mungbean,Urea
+Alkaline,80,35,30,6.5,600,30,mungbean,Urea
+Alkaline,60,40,20,7.0,700,35,mungbean,Urea
+Alkaline,65,40,20,7.0,700,35,mungbean,Urea
+Alkaline,70,40,20,7.0,700,35,mungbean,Urea
+Alkaline,75,40,20,7.0,700,35,mungbean,Urea
+Alkaline,80,40,20,7.0,700,35,mungbean,Urea
+Alkaline,60,30,30,6.0,500,25,mungbean,SSP
+Alkaline,65,30,30,6.0,500,25,mungbean,SSP
+Alkaline,70,30,30,6.0,500,25,mungbean,SSP
+Alkaline,75,30,30,6.0,500,25,mungbean,SSP
+Alkaline,80,30,30,6.0,500,25,mungbean,SSP
+Alkaline,60,35,20,6.5,600,30,mungbean,SSP
+Alkaline,65,35,20,6.5,600,30,mungbean,SSP
+Alkaline,70,35,20,6.5,600,30,mungbean,SSP
+Alkaline,75,35,20,6.5,600,30,mungbean,SSP
+Alkaline,80,35,20,6.5,600,30,mungbean,SSP
+Alkaline,60,40,25,7.0,700,35,mungbean,SSP
+Alkaline,65,40,25,7.0,700,35,mungbean,SSP
+Alkaline,70,40,25,7.0,700,35,mungbean,SSP
+Alkaline,75,40,25,7.0,700,35,mungbean,SSP
+Alkaline,80,40,25,7.0,700,35,mungbean,SSP
+Acidic,50,30,20,6.0,600,25,pigeonpeas,Urea
+Acidic,55,30,20,6.0,600,25,pigeonpeas,Urea
+Acidic,60,30,20,6.0,600,25,pigeonpeas,Urea
+Acidic,50,35,25,6.5,700,30,pigeonpeas,Urea
+Acidic,55,35,25,6.5,700,30,pigeonpeas,Urea
+Acidic,60,35,25,6.5,700,30,pigeonpeas,Urea
+Acidic,50,40,20,6.0,600,35,pigeonpeas,Urea
+Acidic,55,40,20,6.0,600,35,pigeonpeas,Urea
+Acidic,60,40,20,6.0,600,35,pigeonpeas,Urea
+Acidic,50,30,25,6.5,700,25,pigeonpeas,SSP
+Acidic,55,30,25,6.5,700,25,pigeonpeas,SSP
+Acidic,60,30,25,6.5,700,25,pigeonpeas,SSP
+Acidic,50,35,20,6.0,600,30,pigeonpeas,SSP
+Acidic,55,35,20,6.0,600,30,pigeonpeas,SSP
+Acidic,60,35,20,6.0,600,30,pigeonpeas,SSP
+Acidic,50,40,25,6.5,700,35,pigeonpeas,SSP
+Acidic,55,40,25,6.5,700,35,pigeonpeas,SSP
+Acidic,60,40,25,6.5,700,35,pigeonpeas,SSP
+Alkaline,40,25,10,6.0,500,20,chickpea,DAP
+Alkaline,45,25,10,6.0,500,20,chickpea,DAP
+Alkaline,50,25,10,6.0,500,20,chickpea,DAP
+Alkaline,40,30,15,6.5,600,25,chickpea,DAP
+Alkaline,45,30,15,6.5,600,25,chickpea,DAP
+Alkaline,50,30,15,6.5,600,25,chickpea,DAP
+Alkaline,40,25,15,6.0,500,20,chickpea,MOP
+Alkaline,45,25,15,6.0,500,20,chickpea,MOP
+Alkaline,50,25,15,6.0,500,20,chickpea,MOP
+Alkaline,40,30,10,6.5,600,25,chickpea,MOP
+Alkaline,45,30,10,6.5,600,25,chickpea,MOP
+Alkaline,50,30,10,6.5,600,25,chickpea,MOP
+Acidic,80,40,40,6.0,1000,25,paddy,Urea
+Acidic,85,40,40,6.0,1000,25,paddy,Urea
+Acidic,90,40,40,6.0,1000,25,paddy,Urea
+Acidic,95,40,40,6.0,1000,25,paddy,Urea
+Acidic,100,40,40,6.0,1000,25,paddy,Urea
+Acidic,105,40,40,6.0,1000,25,paddy,Urea
+Acidic,110,40,40,6.0,1000,25,paddy,Urea
+Acidic,115,40,40,6.0,1000,25,paddy,Urea
+Acidic,120,40,40,6.0,1000,25,paddy,Urea
+Acidic,80,45,45,6.5,1100,30,paddy,Urea
+Acidic,85,45,45,6.5,1100,30,paddy,Urea
+Acidic,90,45,45,6.5,1100,30,paddy,Urea
+Acidic,95,45,45,6.5,1100,30,paddy,Urea
+Acidic,100,45,45,6.5,1100,30,paddy,Urea
+Acidic,105,45,45,6.5,1100,30,paddy,Urea
+Acidic,110,45,45,6.5,1100,30,paddy,Urea
+Acidic,115,45,45,6.5,1100,30,paddy,Urea
+Acidic,120,45,45,6.5,1100,30,paddy,Urea
+Acidic,80,50,50,7.0,1200,35,paddy,Urea
+Acidic,85,50,50,7.0,1200,35,paddy,Urea
+Acidic,90,50,50,7.0,1200,35,paddy,Urea
+Acidic,95,50,50,7.0,1200,35,paddy,Urea
+Acidic,100,50,50,7.0,1200,35,paddy,Urea
+Acidic,105,50,50,7.0,1200,35,paddy,Urea
+Acidic,110,50,50,7.0,1200,35,paddy,Urea
+Acidic,115,50,50,7.0,1200,35,paddy,Urea
+Acidic,120,50,50,7.0,1200,35,paddy,Urea
+Acidic,80,55,55,7.5,1300,25,paddy,Urea
+Acidic,85,55,55,7.5,1300,25,paddy,Urea
+Acidic,90,55,55,7.5,1300,25,paddy,Urea
+Acidic,95,55,55,7.5,1300,25,paddy,Urea
+Acidic,100,55,55,7.5,1300,25,paddy,Urea
+Acidic,105,55,55,7.5,1300,25,paddy,Urea
+Acidic,110,55,55,7.5,1300,25,paddy,Urea
+Acidic,115,55,55,7.5,1300,25,paddy,Urea
+Acidic,120,55,55,7.5,1300,25,paddy,Urea
+Acidic,80,60,60,6.0,1400,30,paddy,Urea
+Acidic,85,60,60,6.0,1400,30,paddy,Urea
+Acidic,90,60,60,6.0,1400,30,paddy,Urea
+Acidic,95,60,60,6.0,1400,30,paddy,Urea
+Acidic,100,60,60,6.0,1400,30,paddy,Urea
+Acidic,105,60,60,6.0,1400,30,paddy,Urea
+Acidic,110,60,60,6.0,1400,30,paddy,Urea
+Acidic,115,60,60,6.0,1400,30,paddy,Urea
+Acidic,120,60,60,6.0,1400,30,paddy,Urea
+Acidic,80,40,45,6.5,1500,35,paddy,50:26:26 NPK
+Acidic,85,40,45,6.5,1500,35,paddy,50:26:26 NPK
+Acidic,90,40,45,6.5,1500,35,paddy,50:26:26 NPK
+Acidic,95,40,45,6.5,1500,35,paddy,50:26:26 NPK
+Acidic,100,40,45,6.5,1500,35,paddy,50:26:26 NPK
+Acidic,105,40,45,6.5,1500,35,paddy,50:26:26 NPK
+Acidic,110,40,45,6.5,1500,35,paddy,50:26:26 NPK
+Acidic,115,40,45,6.5,1500,35,paddy,50:26:26 NPK
+Acidic,120,40,45,6.5,1500,35,paddy,50:26:26 NPK
+Acidic,80,45,50,7.0,1000,25,paddy,50:26:26 NPK
+Acidic,85,45,50,7.0,1000,25,paddy,50:26:26 NPK
+Acidic,90,45,50,7.0,1000,25,paddy,50:26:26 NPK
+Acidic,95,45,50,7.0,1000,25,paddy,50:26:26 NPK
+Acidic,100,45,50,7.0,1000,25,paddy,50:26:26 NPK
+Acidic,105,45,50,7.0,1000,25,paddy,50:26:26 NPK
+Acidic,110,45,50,7.0,1000,25,paddy,50:26:26 NPK
+Acidic,115,45,50,7.0,1000,25,paddy,50:26:26 NPK
+Acidic,120,45,50,7.0,1000,25,paddy,50:26:26 NPK
+Acidic,80,50,55,7.5,1100,30,paddy,50:26:26 NPK
+Acidic,85,50,55,7.5,1100,30,paddy,50:26:26 NPK
+Acidic,90,50,55,7.5,1100,30,paddy,50:26:26 NPK
+Acidic,95,50,55,7.5,1100,30,paddy,50:26:26 NPK
+Acidic,100,50,55,7.5,1100,30,paddy,50:26:26 NPK
+Acidic,105,50,55,7.5,1100,30,paddy,50:26:26 NPK
+Acidic,110,50,55,7.5,1100,30,paddy,50:26:26 NPK
+Acidic,115,50,55,7.5,1100,30,paddy,50:26:26 NPK
+Acidic,120,50,55,7.5,1100,30,paddy,50:26:26 NPK
+Acidic,80,55,60,6.0,1200,35,paddy,50:26:26 NPK
+Acidic,85,55,60,6.0,1200,35,paddy,50:26:26 NPK
+Acidic,90,55,60,6.0,1200,35,paddy,50:26:26 NPK
+Acidic,95,55,60,6.0,1200,35,paddy,50:26:26 NPK
+Acidic,100,55,60,6.0,1200,35,paddy,50:26:26 NPK
+Acidic,105,55,60,6.0,1200,35,paddy,50:26:26 NPK
+Acidic,110,55,60,6.0,1200,35,paddy,50:26:26 NPK
+Acidic,115,55,60,6.0,1200,35,paddy,50:26:26 NPK
+Acidic,120,55,60,6.0,1200,35,paddy,50:26:26 NPK
+Acidic,80,60,40,6.5,1300,25,paddy,50:26:26 NPK
+Acidic,85,60,40,6.5,1300,25,paddy,50:26:26 NPK
+Acidic,90,60,40,6.5,1300,25,paddy,50:26:26 NPK
+Acidic,95,60,40,6.5,1300,25,paddy,50:26:26 NPK
+Acidic,100,60,40,6.5,1300,25,paddy,50:26:26 NPK
+Acidic,105,60,40,6.5,1300,25,paddy,50:26:26 NPK
+Acidic,110,60,40,6.5,1300,25,paddy,50:26:26 NPK
+Acidic,115,60,40,6.5,1300,25,paddy,50:26:26 NPK
+Acidic,120,60,40,6.5,1300,25,paddy,50:26:26 NPK
+Acidic,80,40,50,7.0,1400,30,paddy,Urea
+Acidic,85,40,50,7.0,1400,30,paddy,Urea
+Acidic,90,40,50,7.0,1400,30,paddy,Urea
+Acidic,95,40,50,7.0,1400,30,paddy,Urea
+Acidic,100,40,50,7.0,1400,30,paddy,Urea
+Acidic,105,40,50,7.0,1400,30,paddy,Urea
+Acidic,110,40,50,7.0,1400,30,paddy,Urea
+Acidic,115,40,50,7.0,1400,30,paddy,Urea
+Acidic,120,40,50,7.0,1400,30,paddy,Urea
+Acidic,80,45,55,7.5,1500,35,paddy,Urea
+Acidic,85,45,55,7.5,1500,35,paddy,Urea
+Acidic,90,45,55,7.5,1500,35,paddy,Urea
+Acidic,95,45,55,7.5,1500,35,paddy,Urea
+Acidic,100,45,55,7.5,1500,35,paddy,Urea
+Acidic,105,45,55,7.5,1500,35,paddy,Urea
+Acidic,110,45,55,7.5,1500,35,paddy,Urea
+Acidic,115,45,55,7.5,1500,35,paddy,Urea
+Acidic,120,45,55,7.5,1500,35,paddy,Urea
+Acidic,80,50,60,6.0,1000,25,paddy,Urea
+Acidic,85,50,60,6.0,1000,25,paddy,Urea
+Acidic,90,50,60,6.0,1000,25,paddy,Urea
+Acidic,95,50,60,6.0,1000,25,paddy,Urea
+Acidic,100,50,60,6.0,1000,25,paddy,Urea
+Acidic,105,50,60,6.0,1000,25,paddy,Urea
+Acidic,110,50,60,6.0,1000,25,paddy,Urea
+Acidic,115,50,60,6.0,1000,25,paddy,Urea
+Acidic,120,50,60,6.0,1000,25,paddy,Urea
+Acidic,80,55,40,6.5,1100,30,paddy,Urea
+Acidic,85,55,40,6.5,1100,30,paddy,Urea
+Acidic,90,55,40,6.5,1100,30,paddy,Urea
+Acidic,95,55,40,6.5,1100,30,paddy,Urea
+Acidic,100,55,40,6.5,1100,30,paddy,Urea
+Acidic,105,55,40,6.5,1100,30,paddy,Urea
+Acidic,110,55,40,6.5,1100,30,paddy,Urea
+Acidic,115,55,40,6.5,1100,30,paddy,Urea
+Acidic,120,55,40,6.5,1100,30,paddy,Urea
+Acidic,80,60,45,7.0,1200,35,paddy,Urea
+Acidic,85,60,45,7.0,1200,35,paddy,Urea
+Acidic,90,60,45,7.0,1200,35,paddy,Urea
+Acidic,95,60,45,7.0,1200,35,paddy,Urea
+Acidic,100,60,45,7.0,1200,35,paddy,Urea
+Acidic,105,60,45,7.0,1200,35,paddy,Urea
+Acidic,110,60,45,7.0,1200,35,paddy,Urea
+Acidic,115,60,45,7.0,1200,35,paddy,Urea
+Acidic,120,60,45,7.0,1200,35,paddy,Urea
+Acidic,80,40,55,7.5,1300,25,paddy,50:26:26 NPK
+Acidic,85,40,55,7.5,1300,25,paddy,50:26:26 NPK
+Acidic,90,40,55,7.5,1300,25,paddy,50:26:26 NPK
+Acidic,95,40,55,7.5,1300,25,paddy,50:26:26 NPK
+Acidic,100,40,55,7.5,1300,25,paddy,50:26:26 NPK
+Acidic,105,40,55,7.5,1300,25,paddy,50:26:26 NPK
+Acidic,110,40,55,7.5,1300,25,paddy,50:26:26 NPK
+Acidic,115,40,55,7.5,1300,25,paddy,50:26:26 NPK
+Acidic,120,40,55,7.5,1300,25,paddy,50:26:26 NPK
+Acidic,80,45,60,6.0,1400,30,paddy,50:26:26 NPK
+Acidic,85,45,60,6.0,1400,30,paddy,50:26:26 NPK
+Acidic,90,45,60,6.0,1400,30,paddy,50:26:26 NPK
+Acidic,95,45,60,6.0,1400,30,paddy,50:26:26 NPK
+Acidic,100,45,60,6.0,1400,30,paddy,50:26:26 NPK
+Acidic,105,45,60,6.0,1400,30,paddy,50:26:26 NPK
+Acidic,110,45,60,6.0,1400,30,paddy,50:26:26 NPK
+Acidic,115,45,60,6.0,1400,30,paddy,50:26:26 NPK
+Acidic,120,45,60,6.0,1400,30,paddy,50:26:26 NPK
+Acidic,80,50,40,6.5,1500,35,paddy,50:26:26 NPK
+Acidic,85,50,40,6.5,1500,35,paddy,50:26:26 NPK
+Acidic,90,50,40,6.5,1500,35,paddy,50:26:26 NPK
+Acidic,95,50,40,6.5,1500,35,paddy,50:26:26 NPK
+Acidic,100,50,40,6.5,1500,35,paddy,50:26:26 NPK
+Acidic,105,50,40,6.5,1500,35,paddy,50:26:26 NPK
+Acidic,110,50,40,6.5,1500,35,paddy,50:26:26 NPK
+Acidic,115,50,40,6.5,1500,35,paddy,50:26:26 NPK
+Acidic,120,50,40,6.5,1500,35,paddy,50:26:26 NPK
+Acidic,80,55,45,7.0,1000,25,paddy,50:26:26 NPK
+Acidic,85,55,45,7.0,1000,25,paddy,50:26:26 NPK
+Acidic,90,55,45,7.0,1000,25,paddy,50:26:26 NPK
+Acidic,95,55,45,7.0,1000,25,paddy,50:26:26 NPK
+Acidic,100,55,45,7.0,1000,25,paddy,50:26:26 NPK
+Acidic,105,55,45,7.0,1000,25,paddy,50:26:26 NPK
+Acidic,110,55,45,7.0,1000,25,paddy,50:26:26 NPK
+Acidic,115,55,45,7.0,1000,25,paddy,50:26:26 NPK
+Acidic,120,55,45,7.0,1000,25,paddy,50:26:26 NPK
+Acidic,80,60,50,7.5,1100,30,paddy,50:26:26 NPK
+Acidic,85,60,50,7.5,1100,30,paddy,50:26:26 NPK
+Acidic,90,60,50,7.5,1100,30,paddy,50:26:26 NPK
+Acidic,95,60,50,7.5,1100,30,paddy,50:26:26 NPK
+Acidic,100,60,50,7.5,1100,30,paddy,50:26:26 NPK
+Acidic,105,60,50,7.5,1100,30,paddy,50:26:26 NPK
+Acidic,110,60,50,7.5,1100,30,paddy,50:26:26 NPK
+Acidic,115,60,50,7.5,1100,30,paddy,50:26:26 NPK
+Acidic,120,60,50,7.5,1100,30,paddy,50:26:26 NPK
+Acidic,80,40,60,6.0,1200,35,paddy,Urea
+Acidic,85,40,60,6.0,1200,35,paddy,Urea
+Acidic,90,40,60,6.0,1200,35,paddy,Urea
+Acidic,95,40,60,6.0,1200,35,paddy,Urea
+Acidic,100,40,60,6.0,1200,35,paddy,Urea
+Acidic,105,40,60,6.0,1200,35,paddy,Urea
+Acidic,110,40,60,6.0,1200,35,paddy,Urea
+Acidic,115,40,60,6.0,1200,35,paddy,Urea
+Acidic,120,40,60,6.0,1200,35,paddy,Urea
+Acidic,80,45,40,6.5,1300,25,paddy,Urea
+Acidic,85,45,40,6.5,1300,25,paddy,Urea
+Acidic,90,45,40,6.5,1300,25,paddy,Urea
+Acidic,95,45,40,6.5,1300,25,paddy,Urea
+Acidic,100,45,40,6.5,1300,25,paddy,Urea
+Acidic,105,45,40,6.5,1300,25,paddy,Urea
+Acidic,110,45,40,6.5,1300,25,paddy,Urea
+Acidic,115,45,40,6.5,1300,25,paddy,Urea
+Acidic,120,45,40,6.5,1300,25,paddy,Urea
+Acidic,80,50,45,7.0,1400,30,paddy,Urea
+Acidic,85,50,45,7.0,1400,30,paddy,Urea
+Acidic,90,50,45,7.0,1400,30,paddy,Urea
+Acidic,95,50,45,7.0,1400,30,paddy,Urea
+Acidic,100,50,45,7.0,1400,30,paddy,Urea
+Acidic,105,50,45,7.0,1400,30,paddy,Urea
+Acidic,110,50,45,7.0,1400,30,paddy,Urea
+Acidic,115,50,45,7.0,1400,30,paddy,Urea
+Acidic,120,50,45,7.0,1400,30,paddy,Urea
+Acidic,80,55,50,7.5,1500,35,paddy,Urea
+Acidic,85,55,50,7.5,1500,35,paddy,Urea
+Acidic,90,55,50,7.5,1500,35,paddy,Urea
+Acidic,95,55,50,7.5,1500,35,paddy,Urea
+Acidic,100,55,50,7.5,1500,35,paddy,Urea
+Acidic,105,55,50,7.5,1500,35,paddy,Urea
+Acidic,110,55,50,7.5,1500,35,paddy,Urea
+Acidic,115,55,50,7.5,1500,35,paddy,Urea
+Acidic,120,55,50,7.5,1500,35,paddy,Urea
+Acidic,80,60,55,6.0,1000,20,paddy,Urea
+Acidic,85,60,55,6.0,1000,20,paddy,Urea
+Acidic,90,60,55,6.0,1000,20,paddy,Urea
+Acidic,95,60,55,6.0,1000,20,paddy,Urea
+Acidic,100,60,55,6.0,1000,20,paddy,Urea
+Acidic,105,60,55,6.0,1000,20,paddy,Urea
+Acidic,110,60,55,6.0,1000,20,paddy,Urea
+Acidic,115,60,55,6.0,1000,20,paddy,Urea
+Acidic,120,60,55,6.0,1000,20,paddy,Urea
+Alkaline,40,20,20,6.0,400,25,millet,10:26:26 NPK
+Alkaline,45,20,20,6.0,400,25,millet,10:26:26 NPK
+Alkaline,50,20,20,6.0,400,25,millet,10:26:26 NPK
+Alkaline,55,20,20,6.0,400,25,millet,10:26:26 NPK
+Alkaline,60,20,20,6.0,400,25,millet,10:26:26 NPK
+Alkaline,40,25,25,6.5,500,30,millet,10:26:26 NPK
+Alkaline,45,25,25,6.5,500,30,millet,10:26:26 NPK
+Alkaline,50,25,25,6.5,500,30,millet,10:26:26 NPK
+Alkaline,55,25,25,6.5,500,30,millet,10:26:26 NPK
+Alkaline,60,25,25,6.5,500,30,millet,10:26:26 NPK
+Alkaline,40,30,30,7.0,600,35,millet,10:26:26 NPK
+Alkaline,45,30,30,7.0,600,35,millet,10:26:26 NPK
+Alkaline,50,30,30,7.0,600,35,millet,10:26:26 NPK
+Alkaline,55,30,30,7.0,600,35,millet,10:26:26 NPK
+Alkaline,60,30,30,7.0,600,35,millet,10:26:26 NPK
+Alkaline,40,35,35,7.5,400,25,millet,10:26:26 NPK
+Alkaline,45,35,35,7.5,400,25,millet,10:26:26 NPK
+Alkaline,50,35,35,7.5,400,25,millet,10:26:26 NPK
+Alkaline,55,35,35,7.5,400,25,millet,10:26:26 NPK
+Alkaline,60,35,35,7.5,400,25,millet,10:26:26 NPK
+Alkaline,40,40,40,6.0,500,30,millet,10:26:26 NPK
+Alkaline,45,40,40,6.0,500,30,millet,10:26:26 NPK
+Alkaline,50,40,40,6.0,500,30,millet,10:26:26 NPK
+Alkaline,55,40,40,6.0,500,30,millet,10:26:26 NPK
+Alkaline,60,40,40,6.0,500,30,millet,10:26:26 NPK
+Alkaline,40,20,25,6.5,600,35,millet,Urea
+Alkaline,45,20,25,6.5,600,35,millet,Urea
+Alkaline,50,20,25,6.5,600,35,millet,Urea
+Alkaline,55,20,25,6.5,600,35,millet,Urea
+Alkaline,60,20,25,6.5,600,35,millet,Urea
+Alkaline,40,25,30,7.0,400,25,millet,Urea
+Alkaline,45,25,30,7.0,400,25,millet,Urea
+Alkaline,50,25,30,7.0,400,25,millet,Urea
+Alkaline,55,25,30,7.0,400,25,millet,Urea
+Alkaline,60,25,30,7.0,400,25,millet,Urea
+Alkaline,40,30,35,7.5,500,30,millet,Urea
+Alkaline,45,30,35,7.5,500,30,millet,Urea
+Alkaline,50,30,35,7.5,500,30,millet,Urea
+Alkaline,55,30,35,7.5,500,30,millet,Urea
+Alkaline,60,30,35,7.5,500,30,millet,Urea
+Alkaline,40,35,40,6.0,600,35,millet,Urea
+Alkaline,45,35,40,6.0,600,35,millet,Urea
+Alkaline,50,35,40,6.0,600,35,millet,Urea
+Alkaline,55,35,40,6.0,600,35,millet,Urea
+Alkaline,60,35,40,6.0,600,35,millet,Urea
+Alkaline,40,40,20,6.5,400,25,millet,Urea
+Alkaline,45,40,20,6.5,400,25,millet,Urea
+Alkaline,50,40,20,6.5,400,25,millet,Urea
+Alkaline,55,40,20,6.5,400,25,millet,Urea
+Alkaline,60,40,20,6.5,400,25,millet,Urea
+Alkaline,40,20,30,7.0,500,30,millet,SSP
+Alkaline,45,20,30,7.0,500,30,millet,SSP
+Alkaline,50,20,30,7.0,500,30,millet,SSP
+Alkaline,55,20,30,7.0,500,30,millet,SSP
+Alkaline,60,20,30,7.0,500,30,millet,SSP
+Alkaline,40,25,35,7.5,600,35,millet,SSP
+Alkaline,45,25,35,7.5,600,35,millet,SSP
+Alkaline,50,25,35,7.5,600,35,millet,SSP
+Alkaline,55,25,35,7.5,600,35,millet,SSP
+Alkaline,60,25,35,7.5,600,35,millet,SSP
+Alkaline,40,30,40,6.0,400,25,millet,SSP
+Alkaline,45,30,40,6.0,400,25,millet,SSP
+Alkaline,50,30,40,6.0,400,25,millet,SSP
+Alkaline,55,30,40,6.0,400,25,millet,SSP
+Alkaline,60,30,40,6.0,400,25,millet,SSP
+Alkaline,40,35,20,6.5,500,30,millet,SSP
+Alkaline,45,35,20,6.5,500,30,millet,SSP
+Alkaline,50,35,20,6.5,500,30,millet,SSP
+Alkaline,55,35,20,6.5,500,30,millet,SSP
+Alkaline,60,35,20,6.5,500,30,millet,SSP
+Alkaline,40,40,25,7.0,600,35,millet,SSP
+Alkaline,45,40,25,7.0,600,35,millet,SSP
+Alkaline,50,40,25,7.0,600,35,millet,SSP
+Alkaline,55,40,25,7.0,600,35,millet,SSP
+Alkaline,60,40,25,7.0,600,35,millet,SSP
+Alkaline,40,20,35,7.5,400,25,millet,10:26:26 NPK
+Alkaline,45,20,35,7.5,400,25,millet,10:26:26 NPK
+Alkaline,50,20,35,7.5,400,25,millet,10:26:26 NPK
+Alkaline,55,20,35,7.5,400,25,millet,10:26:26 NPK
+Alkaline,60,20,35,7.5,400,25,millet,10:26:26 NPK
+Alkaline,40,25,40,6.0,500,30,millet,10:26:26 NPK
+Alkaline,45,25,40,6.0,500,30,millet,10:26:26 NPK
+Alkaline,50,25,40,6.0,500,30,millet,10:26:26 NPK
+Alkaline,55,25,40,6.0,500,30,millet,10:26:26 NPK
+Alkaline,60,25,40,6.0,500,30,millet,10:26:26 NPK
+Alkaline,40,30,20,6.5,600,35,millet,10:26:26 NPK
+Alkaline,45,30,20,6.5,600,35,millet,10:26:26 NPK
+Alkaline,50,30,20,6.5,600,35,millet,10:26:26 NPK
+Alkaline,55,30,20,6.5,600,35,millet,10:26:26 NPK
+Alkaline,60,30,20,6.5,600,35,millet,10:26:26 NPK
+Alkaline,40,35,25,7.0,400,25,millet,10:26:26 NPK
+Alkaline,45,35,25,7.0,400,25,millet,10:26:26 NPK
+Alkaline,50,35,25,7.0,400,25,millet,10:26:26 NPK
+Alkaline,55,35,25,7.0,400,25,millet,10:26:26 NPK
+Alkaline,60,35,25,7.0,400,25,millet,10:26:26 NPK
+Alkaline,40,40,30,7.5,500,30,millet,10:26:26 NPK
+Alkaline,45,40,30,7.5,500,30,millet,10:26:26 NPK
+Alkaline,50,40,30,7.5,500,30,millet,10:26:26 NPK
+Alkaline,55,40,30,7.5,500,30,millet,10:26:26 NPK
+Alkaline,60,40,30,7.5,500,30,millet,10:26:26 NPK
+Alkaline,40,20,40,6.0,600,35,millet,Urea
+Alkaline,45,20,40,6.0,600,35,millet,Urea
+Alkaline,50,20,40,6.0,600,35,millet,Urea
+Alkaline,55,20,40,6.0,600,35,millet,Urea
+Alkaline,60,20,40,6.0,600,35,millet,Urea
+Alkaline,40,25,20,6.5,400,25,millet,Urea
+Alkaline,45,25,20,6.5,400,25,millet,Urea
+Alkaline,50,25,20,6.5,400,25,millet,Urea
+Alkaline,55,25,20,6.5,400,25,millet,Urea
+Alkaline,60,25,20,6.5,400,25,millet,Urea
+Alkaline,40,30,25,7.0,500,30,millet,Urea
+Alkaline,45,30,25,7.0,500,30,millet,Urea
+Alkaline,50,30,25,7.0,500,30,millet,Urea
+Alkaline,55,30,25,7.0,500,30,millet,Urea
+Alkaline,60,30,25,7.0,500,30,millet,Urea
+Alkaline,40,35,30,7.5,600,35,millet,Urea
+Alkaline,45,35,30,7.5,600,35,millet,Urea
+Alkaline,50,35,30,7.5,600,35,millet,Urea
+Alkaline,55,35,30,7.5,600,35,millet,Urea
+Alkaline,60,35,30,7.5,600,35,millet,Urea
+Alkaline,40,40,35,6.0,400,25,millet,Urea
+Alkaline,45,40,35,6.0,400,25,millet,Urea
+Alkaline,50,40,35,6.0,400,25,millet,Urea
+Alkaline,55,40,35,6.0,400,25,millet,Urea
+Alkaline,60,40,35,6.0,400,25,millet,Urea
+Alkaline,120,60,120,6.0,900,20,sugarcane,Urea
+Alkaline,125,60,120,6.0,900,20,sugarcane,Urea
+Alkaline,130,60,120,6.0,900,20,sugarcane,Urea
+Alkaline,135,60,120,6.0,900,20,sugarcane,Urea
+Alkaline,140,60,120,6.0,900,20,sugarcane,Urea
+Alkaline,145,60,120,6.0,900,20,sugarcane,Urea
+Alkaline,150,60,120,6.0,900,20,sugarcane,Urea
+Alkaline,120,65,125,6.5,1000,25,sugarcane,Urea
+Alkaline,125,65,125,6.5,1000,25,sugarcane,Urea
+Alkaline,130,65,125,6.5,1000,25,sugarcane,Urea
+Alkaline,135,65,125,6.5,1000,25,sugarcane,Urea
+Alkaline,140,65,125,6.5,1000,25,sugarcane,Urea
+Alkaline,145,65,125,6.5,1000,25,sugarcane,Urea
+Alkaline,150,65,125,6.5,1000,25,sugarcane,Urea
+Alkaline,120,70,130,7.0,900,30,sugarcane,Urea
+Alkaline,125,70,130,7.0,900,30,sugarcane,Urea
+Alkaline,130,70,130,7.0,900,30,sugarcane,Urea
+Alkaline,135,70,130,7.0,900,30,sugarcane,Urea
+Alkaline,140,70,130,7.0,900,30,sugarcane,Urea
+Alkaline,145,70,130,7.0,900,30,sugarcane,Urea
+Alkaline,150,70,130,7.0,900,30,sugarcane,Urea
+Alkaline,120,75,135,6.0,1000,35,sugarcane,Urea
+Alkaline,125,75,135,6.0,1000,35,sugarcane,Urea
+Alkaline,130,75,135,6.0,1000,35,sugarcane,Urea
+Alkaline,135,75,135,6.0,1000,35,sugarcane,Urea
+Alkaline,140,75,135,6.0,1000,35,sugarcane,Urea
+Alkaline,145,75,135,6.0,1000,35,sugarcane,Urea
+Alkaline,150,75,135,6.0,1000,35,sugarcane,Urea
+Alkaline,120,80,140,6.5,900,20,sugarcane,Urea
+Alkaline,125,80,140,6.5,900,20,sugarcane,Urea
+Alkaline,130,80,140,6.5,900,20,sugarcane,Urea
+Alkaline,135,80,140,6.5,900,20,sugarcane,Urea
+Alkaline,140,80,140,6.5,900,20,sugarcane,Urea
+Alkaline,145,80,140,6.5,900,20,sugarcane,Urea
+Alkaline,150,80,140,6.5,900,20,sugarcane,Urea
+Alkaline,120,85,145,7.0,1000,25,sugarcane,Urea
+Alkaline,125,85,145,7.0,1000,25,sugarcane,Urea
+Alkaline,130,85,145,7.0,1000,25,sugarcane,Urea
+Alkaline,135,85,145,7.0,1000,25,sugarcane,Urea
+Alkaline,140,85,145,7.0,1000,25,sugarcane,Urea
+Alkaline,145,85,145,7.0,1000,25,sugarcane,Urea
+Alkaline,150,85,145,7.0,1000,25,sugarcane,Urea
+Alkaline,120,90,150,6.0,900,30,sugarcane,Urea
+Alkaline,125,90,150,6.0,900,30,sugarcane,Urea
+Alkaline,130,90,150,6.0,900,30,sugarcane,Urea
+Alkaline,135,90,150,6.0,900,30,sugarcane,Urea
+Alkaline,140,90,150,6.0,900,30,sugarcane,Urea
+Alkaline,145,90,150,6.0,900,30,sugarcane,Urea
+Alkaline,150,90,150,6.0,900,30,sugarcane,Urea
+Alkaline,120,60,125,6.5,1000,35,sugarcane,DAP
+Alkaline,125,60,125,6.5,1000,35,sugarcane,DAP
+Alkaline,130,60,125,6.5,1000,35,sugarcane,DAP
+Alkaline,135,60,125,6.5,1000,35,sugarcane,DAP
+Alkaline,140,60,125,6.5,1000,35,sugarcane,DAP
+Alkaline,145,60,125,6.5,1000,35,sugarcane,DAP
+Alkaline,150,60,125,6.5,1000,35,sugarcane,DAP
+Alkaline,120,65,130,7.0,900,20,sugarcane,DAP
+Alkaline,125,65,130,7.0,900,20,sugarcane,DAP
+Alkaline,130,65,130,7.0,900,20,sugarcane,DAP
+Alkaline,135,65,130,7.0,900,20,sugarcane,DAP
+Alkaline,140,65,130,7.0,900,20,sugarcane,DAP
+Alkaline,145,65,130,7.0,900,20,sugarcane,DAP
+Alkaline,150,65,130,7.0,900,20,sugarcane,DAP
+Alkaline,120,70,135,6.0,1000,25,sugarcane,DAP
+Alkaline,125,70,135,6.0,1000,25,sugarcane,DAP
+Alkaline,130,70,135,6.0,1000,25,sugarcane,DAP
+Alkaline,135,70,135,6.0,1000,25,sugarcane,DAP
+Alkaline,140,70,135,6.0,1000,25,sugarcane,DAP
+Alkaline,145,70,135,6.0,1000,25,sugarcane,DAP
+Alkaline,150,70,135,6.0,1000,25,sugarcane,DAP
+Alkaline,120,75,140,6.5,900,30,sugarcane,DAP
+Alkaline,125,75,140,6.5,900,30,sugarcane,DAP
+Alkaline,130,75,140,6.5,900,30,sugarcane,DAP
+Alkaline,135,75,140,6.5,900,30,sugarcane,DAP
+Alkaline,140,75,140,6.5,900,30,sugarcane,DAP
+Alkaline,145,75,140,6.5,900,30,sugarcane,DAP
+Alkaline,150,75,140,6.5,900,30,sugarcane,DAP
+Alkaline,120,80,145,7.0,1000,35,sugarcane,DAP
+Alkaline,125,80,145,7.0,1000,35,sugarcane,DAP
+Alkaline,130,80,145,7.0,1000,35,sugarcane,DAP
+Alkaline,135,80,145,7.0,1000,35,sugarcane,DAP
+Alkaline,140,80,145,7.0,1000,35,sugarcane,DAP
+Alkaline,145,80,145,7.0,1000,35,sugarcane,DAP
+Alkaline,150,80,145,7.0,1000,35,sugarcane,DAP
+Alkaline,120,85,150,6.0,900,20,sugarcane,DAP
+Alkaline,125,85,150,6.0,900,20,sugarcane,DAP
+Alkaline,130,85,150,6.0,900,20,sugarcane,DAP
+Alkaline,135,85,150,6.0,900,20,sugarcane,DAP
+Alkaline,140,85,150,6.0,900,20,sugarcane,DAP
+Alkaline,145,85,150,6.0,900,20,sugarcane,DAP
+Alkaline,150,85,150,6.0,900,20,sugarcane,DAP
+Alkaline,120,90,120,6.5,1000,25,sugarcane,DAP
+Alkaline,125,90,120,6.5,1000,25,sugarcane,DAP
+Alkaline,130,90,120,6.5,1000,25,sugarcane,DAP
+Alkaline,135,90,120,6.5,1000,25,sugarcane,DAP
+Alkaline,140,90,120,6.5,1000,25,sugarcane,DAP
+Alkaline,145,90,120,6.5,1000,25,sugarcane,DAP
+Alkaline,150,90,120,6.5,1000,25,sugarcane,DAP
+Alkaline,120,60,130,7.0,900,30,sugarcane,MOP
+Alkaline,125,60,130,7.0,900,30,sugarcane,MOP
+Alkaline,130,60,130,7.0,900,30,sugarcane,MOP
+Alkaline,135,60,130,7.0,900,30,sugarcane,MOP
+Alkaline,140,60,130,7.0,900,30,sugarcane,MOP
+Alkaline,145,60,130,7.0,900,30,sugarcane,MOP
+Alkaline,150,60,130,7.0,900,30,sugarcane,MOP
+Alkaline,120,65,135,6.0,1000,35,sugarcane,MOP
+Alkaline,125,65,135,6.0,1000,35,sugarcane,MOP
+Alkaline,130,65,135,6.0,1000,35,sugarcane,MOP
+Alkaline,135,65,135,6.0,1000,35,sugarcane,MOP
+Alkaline,140,65,135,6.0,1000,35,sugarcane,MOP
+Alkaline,145,65,135,6.0,1000,35,sugarcane,MOP
+Alkaline,150,65,135,6.0,1000,35,sugarcane,MOP
+Alkaline,120,70,140,6.5,900,20,sugarcane,MOP
+Alkaline,125,70,140,6.5,900,20,sugarcane,MOP
+Alkaline,130,70,140,6.5,900,20,sugarcane,MOP
+Alkaline,135,70,140,6.5,900,20,sugarcane,MOP
+Alkaline,140,70,140,6.5,900,20,sugarcane,MOP
+Alkaline,145,70,140,6.5,900,20,sugarcane,MOP
+Alkaline,150,70,140,6.5,900,20,sugarcane,MOP
+Alkaline,120,75,145,7.0,1000,25,sugarcane,MOP
+Alkaline,125,75,145,7.0,1000,25,sugarcane,MOP
+Alkaline,130,75,145,7.0,1000,25,sugarcane,MOP
+Alkaline,135,75,145,7.0,1000,25,sugarcane,MOP
+Alkaline,140,75,145,7.0,1000,25,sugarcane,MOP
+Alkaline,145,75,145,7.0,1000,25,sugarcane,MOP
+Alkaline,150,75,145,7.0,1000,25,sugarcane,MOP
+Alkaline,120,80,150,6.0,900,30,sugarcane,MOP
+Alkaline,125,80,150,6.0,900,30,sugarcane,MOP
+Alkaline,130,80,150,6.0,900,30,sugarcane,MOP
+Alkaline,135,80,150,6.0,900,30,sugarcane,MOP
+Alkaline,140,80,150,6.0,900,30,sugarcane,MOP
+Alkaline,145,80,150,6.0,900,30,sugarcane,MOP
+Alkaline,150,80,150,6.0,900,30,sugarcane,MOP
+Alkaline,120,85,120,6.5,1000,35,sugarcane,MOP
+Alkaline,125,85,120,6.5,1000,35,sugarcane,MOP
+Alkaline,130,85,120,6.5,1000,35,sugarcane,MOP
+Alkaline,135,85,120,6.5,1000,35,sugarcane,MOP
+Alkaline,140,85,120,6.5,1000,35,sugarcane,MOP
+Alkaline,145,85,120,6.5,1000,35,sugarcane,MOP
+Alkaline,150,85,120,6.5,1000,35,sugarcane,MOP
+Alkaline,120,90,125,7.0,900,20,sugarcane,MOP
+Alkaline,125,90,125,7.0,900,20,sugarcane,MOP
+Alkaline,130,90,125,7.0,900,20,sugarcane,MOP
+Alkaline,135,90,125,7.0,900,20,sugarcane,MOP
+Alkaline,140,90,125,7.0,900,20,sugarcane,MOP
+Alkaline,145,90,125,7.0,900,20,sugarcane,MOP
+Alkaline,150,90,125,7.0,900,20,sugarcane,MOP
+Alkaline,120,60,135,6.0,1000,25,sugarcane,Urea
+Alkaline,125,60,135,6.0,1000,25,sugarcane,Urea
+Alkaline,130,60,135,6.0,1000,25,sugarcane,Urea
+Alkaline,135,60,135,6.0,1000,25,sugarcane,Urea
+Alkaline,140,60,135,6.0,1000,25,sugarcane,Urea
+Alkaline,145,60,135,6.0,1000,25,sugarcane,Urea
+Alkaline,150,60,135,6.0,1000,25,sugarcane,Urea
+Alkaline,120,65,140,6.5,900,30,sugarcane,Urea
+Alkaline,125,65,140,6.5,900,30,sugarcane,Urea
+Alkaline,130,65,140,6.5,900,30,sugarcane,Urea
+Alkaline,135,65,140,6.5,900,30,sugarcane,Urea
+Alkaline,140,65,140,6.5,900,30,sugarcane,Urea
+Alkaline,145,65,140,6.5,900,30,sugarcane,Urea
+Alkaline,150,65,140,6.5,900,30,sugarcane,Urea
+Alkaline,120,70,145,7.0,1000,35,sugarcane,Urea
+Alkaline,125,70,145,7.0,1000,35,sugarcane,Urea
+Alkaline,130,70,145,7.0,1000,35,sugarcane,Urea
+Alkaline,135,70,145,7.0,1000,35,sugarcane,Urea
+Alkaline,140,70,145,7.0,1000,35,sugarcane,Urea
+Alkaline,145,70,145,7.0,1000,35,sugarcane,Urea
+Alkaline,150,70,145,7.0,1000,35,sugarcane,Urea
+Alkaline,120,75,150,6.0,900,20,sugarcane,Urea
+Alkaline,125,75,150,6.0,900,20,sugarcane,Urea
+Alkaline,130,75,150,6.0,900,20,sugarcane,Urea
+Alkaline,135,75,150,6.0,900,20,sugarcane,Urea
+Alkaline,140,75,150,6.0,900,20,sugarcane,Urea
+Alkaline,145,75,150,6.0,900,20,sugarcane,Urea
+Alkaline,150,75,150,6.0,900,20,sugarcane,Urea
+Alkaline,120,80,120,6.5,1000,25,sugarcane,Urea
+Alkaline,125,80,120,6.5,1000,25,sugarcane,Urea
+Alkaline,130,80,120,6.5,1000,25,sugarcane,Urea
+Alkaline,135,80,120,6.5,1000,25,sugarcane,Urea
+Alkaline,140,80,120,6.5,1000,25,sugarcane,Urea
+Alkaline,145,80,120,6.5,1000,25,sugarcane,Urea
+Alkaline,150,80,120,6.5,1000,25,sugarcane,Urea
+Alkaline,120,85,125,7.0,900,30,sugarcane,Urea
+Alkaline,125,85,125,7.0,900,30,sugarcane,Urea
+Alkaline,130,85,125,7.0,900,30,sugarcane,Urea
+Alkaline,135,85,125,7.0,900,30,sugarcane,Urea
+Alkaline,140,85,125,7.0,900,30,sugarcane,Urea
+Alkaline,145,85,125,7.0,900,30,sugarcane,Urea
+Alkaline,150,85,125,7.0,900,30,sugarcane,Urea
+Alkaline,120,90,130,6.0,1000,35,sugarcane,Urea
+Alkaline,125,90,130,6.0,1000,35,sugarcane,Urea
+Alkaline,130,90,130,6.0,1000,35,sugarcane,Urea
+Alkaline,135,90,130,6.0,1000,35,sugarcane,Urea
+Alkaline,140,90,130,6.0,1000,35,sugarcane,Urea
+Alkaline,145,90,130,6.0,1000,35,sugarcane,Urea
+Alkaline,150,90,130,6.0,1000,35,sugarcane,Urea
+Alkaline,120,60,140,6.5,900,20,sugarcane,DAP
+Alkaline,125,60,140,6.5,900,20,sugarcane,DAP
+Alkaline,130,60,140,6.5,900,20,sugarcane,DAP
+Alkaline,135,60,140,6.5,900,20,sugarcane,DAP
+Alkaline,140,60,140,6.5,900,20,sugarcane,DAP
+Alkaline,145,60,140,6.5,900,20,sugarcane,DAP
+Alkaline,150,60,140,6.5,900,20,sugarcane,DAP
+Alkaline,120,65,145,7.0,1000,25,sugarcane,DAP
+Alkaline,125,65,145,7.0,1000,25,sugarcane,DAP
+Alkaline,130,65,145,7.0,1000,25,sugarcane,DAP
+Alkaline,135,65,145,7.0,1000,25,sugarcane,DAP
+Alkaline,140,65,145,7.0,1000,25,sugarcane,DAP
+Alkaline,145,65,145,7.0,1000,25,sugarcane,DAP
+Alkaline,150,65,145,7.0,1000,25,sugarcane,DAP
+Alkaline,120,70,150,6.0,900,30,sugarcane,DAP
+Alkaline,125,70,150,6.0,900,30,sugarcane,DAP
+Alkaline,130,70,150,6.0,900,30,sugarcane,DAP
+Alkaline,135,70,150,6.0,900,30,sugarcane,DAP
+Alkaline,140,70,150,6.0,900,30,sugarcane,DAP
+Alkaline,145,70,150,6.0,900,30,sugarcane,DAP
+Alkaline,150,70,150,6.0,900,30,sugarcane,DAP
+Alkaline,120,75,120,6.5,1000,35,sugarcane,DAP
+Alkaline,125,75,120,6.5,1000,35,sugarcane,DAP
+Alkaline,130,75,120,6.5,1000,35,sugarcane,DAP
+Alkaline,135,75,120,6.5,1000,35,sugarcane,DAP
+Alkaline,140,75,120,6.5,1000,35,sugarcane,DAP
+Alkaline,145,75,120,6.5,1000,35,sugarcane,DAP
+Alkaline,150,75,120,6.5,1000,35,sugarcane,DAP
+Alkaline,120,80,125,7.0,900,20,sugarcane,DAP
+Alkaline,125,80,125,7.0,900,20,sugarcane,DAP
+Alkaline,130,80,125,7.0,900,20,sugarcane,DAP
+Alkaline,135,80,125,7.0,900,20,sugarcane,DAP
+Alkaline,140,80,125,7.0,900,20,sugarcane,DAP
+Alkaline,145,80,125,7.0,900,20,sugarcane,DAP
+Alkaline,150,80,125,7.0,900,20,sugarcane,DAP
+Alkaline,120,85,130,6.0,1000,25,sugarcane,DAP
+Alkaline,125,85,130,6.0,1000,25,sugarcane,DAP
+Alkaline,130,85,130,6.0,1000,25,sugarcane,DAP
+Alkaline,135,85,130,6.0,1000,25,sugarcane,DAP
+Alkaline,140,85,130,6.0,1000,25,sugarcane,DAP
+Alkaline,145,85,130,6.0,1000,25,sugarcane,DAP
+Alkaline,150,85,130,6.0,1000,25,sugarcane,DAP
+Alkaline,120,90,135,6.5,900,30,sugarcane,DAP
+Alkaline,125,90,135,6.5,900,30,sugarcane,DAP
+Alkaline,130,90,135,6.5,900,30,sugarcane,DAP
+Alkaline,135,90,135,6.5,900,30,sugarcane,DAP
+Alkaline,140,90,135,6.5,900,30,sugarcane,DAP
+Alkaline,145,90,135,6.5,900,30,sugarcane,DAP
+Alkaline,150,90,135,6.5,900,30,sugarcane,DAP
+Alkaline,120,60,145,7.0,1000,35,sugarcane,MOP
+Alkaline,125,60,145,7.0,1000,35,sugarcane,MOP
+Alkaline,130,60,145,7.0,1000,35,sugarcane,MOP
+Alkaline,135,60,145,7.0,1000,35,sugarcane,MOP
+Alkaline,140,60,145,7.0,1000,35,sugarcane,MOP
+Alkaline,145,60,145,7.0,1000,35,sugarcane,MOP
+Alkaline,150,60,145,7.0,1000,35,sugarcane,MOP
+Alkaline,120,65,150,6.0,900,20,sugarcane,MOP
+Alkaline,125,65,150,6.0,900,20,sugarcane,MOP
+Alkaline,130,65,150,6.0,900,20,sugarcane,MOP
+Alkaline,135,65,150,6.0,900,20,sugarcane,MOP
+Alkaline,140,65,150,6.0,900,20,sugarcane,MOP
+Alkaline,145,65,150,6.0,900,20,sugarcane,MOP
+Alkaline,150,65,150,6.0,900,20,sugarcane,MOP
+Alkaline,120,70,120,6.5,1000,25,sugarcane,MOP
+Alkaline,125,70,120,6.5,1000,25,sugarcane,MOP
+Alkaline,130,70,120,6.5,1000,25,sugarcane,MOP
+Alkaline,135,70,120,6.5,1000,25,sugarcane,MOP
+Alkaline,140,70,120,6.5,1000,25,sugarcane,MOP
+Alkaline,145,70,120,6.5,1000,25,sugarcane,MOP
+Alkaline,150,70,120,6.5,1000,25,sugarcane,MOP
+Alkaline,120,75,125,7.0,900,30,sugarcane,MOP
+Alkaline,125,75,125,7.0,900,30,sugarcane,MOP
+Alkaline,130,75,125,7.0,900,30,sugarcane,MOP
+Alkaline,135,75,125,7.0,900,30,sugarcane,MOP
+Alkaline,140,75,125,7.0,900,30,sugarcane,MOP
+Alkaline,145,75,125,7.0,900,30,sugarcane,MOP
+Alkaline,150,75,125,7.0,900,30,sugarcane,MOP
+Alkaline,120,80,130,6.0,1000,35,sugarcane,MOP
+Alkaline,125,80,130,6.0,1000,35,sugarcane,MOP
+Alkaline,130,80,130,6.0,1000,35,sugarcane,MOP
+Alkaline,135,80,130,6.0,1000,35,sugarcane,MOP
+Alkaline,140,80,130,6.0,1000,35,sugarcane,MOP
+Alkaline,145,80,130,6.0,1000,35,sugarcane,MOP
+Alkaline,150,80,130,6.0,1000,35,sugarcane,MOP
+Alkaline,120,85,135,6.5,900,20,sugarcane,MOP
+Alkaline,125,85,135,6.5,900,20,sugarcane,MOP
+Alkaline,130,85,135,6.5,900,20,sugarcane,MOP
+Alkaline,135,85,135,6.5,900,20,sugarcane,MOP
+Alkaline,140,85,135,6.5,900,20,sugarcane,MOP
+Alkaline,145,85,135,6.5,900,20,sugarcane,MOP
+Alkaline,150,85,135,6.5,900,20,sugarcane,MOP
+Alkaline,120,90,140,7.0,1000,25,sugarcane,MOP
+Alkaline,125,90,140,7.0,1000,25,sugarcane,MOP
+Alkaline,130,90,140,7.0,1000,25,sugarcane,MOP
+Alkaline,135,90,140,7.0,1000,25,sugarcane,MOP
+Alkaline,140,90,140,7.0,1000,25,sugarcane,MOP
+Alkaline,145,90,140,7.0,1000,25,sugarcane,MOP
+Alkaline,150,90,140,7.0,1000,25,sugarcane,MOP
+Alkaline,120,60,150,6.0,900,30,sugarcane,Urea
+Alkaline,125,60,150,6.0,900,30,sugarcane,Urea
+Alkaline,130,60,150,6.0,900,30,sugarcane,Urea
+Alkaline,135,60,150,6.0,900,30,sugarcane,Urea
+Alkaline,140,60,150,6.0,900,30,sugarcane,Urea
+Alkaline,145,60,150,6.0,900,30,sugarcane,Urea
+Alkaline,150,60,150,6.0,900,30,sugarcane,Urea
+Alkaline,120,65,120,6.5,1000,35,sugarcane,Urea
+Alkaline,125,65,120,6.5,1000,35,sugarcane,Urea
+Alkaline,130,65,120,6.5,1000,35,sugarcane,Urea
+Alkaline,135,65,120,6.5,1000,35,sugarcane,Urea
+Alkaline,140,65,120,6.5,1000,35,sugarcane,Urea
+Alkaline,145,65,120,6.5,1000,35,sugarcane,Urea
+Alkaline,150,65,120,6.5,1000,35,sugarcane,Urea
+Alkaline,120,70,125,7.0,900,20,sugarcane,Urea
+Alkaline,125,70,125,7.0,900,20,sugarcane,Urea
+Alkaline,130,70,125,7.0,900,20,sugarcane,Urea
+Alkaline,135,70,125,7.0,900,20,sugarcane,Urea
+Alkaline,140,70,125,7.0,900,20,sugarcane,Urea
+Alkaline,145,70,125,7.0,900,20,sugarcane,Urea
+Alkaline,150,70,125,7.0,900,20,sugarcane,Urea
+Alkaline,120,75,130,6.0,1000,25,sugarcane,Urea
+Alkaline,125,75,130,6.0,1000,25,sugarcane,Urea
+Alkaline,130,75,130,6.0,1000,25,sugarcane,Urea
+Alkaline,135,75,130,6.0,1000,25,sugarcane,Urea
+Alkaline,140,75,130,6.0,1000,25,sugarcane,Urea
+Alkaline,145,75,130,6.0,1000,25,sugarcane,Urea
+Alkaline,150,75,130,6.0,1000,25,sugarcane,Urea
+Alkaline,120,80,135,6.5,900,30,sugarcane,Urea
+Alkaline,125,80,135,6.5,900,30,sugarcane,Urea
+Alkaline,130,80,135,6.5,900,30,sugarcane,Urea
+Alkaline,135,80,135,6.5,900,30,sugarcane,Urea
+Alkaline,140,80,135,6.5,900,30,sugarcane,Urea
+Alkaline,145,80,135,6.5,900,30,sugarcane,Urea
+Alkaline,150,80,135,6.5,900,30,sugarcane,Urea
+Alkaline,120,85,140,7.0,1000,35,sugarcane,Urea
+Alkaline,125,85,140,7.0,1000,35,sugarcane,Urea
+Alkaline,130,85,140,7.0,1000,35,sugarcane,Urea
+Alkaline,135,85,140,7.0,1000,35,sugarcane,Urea
+Alkaline,140,85,140,7.0,1000,35,sugarcane,Urea
+Alkaline,145,85,140,7.0,1000,35,sugarcane,Urea
+Alkaline,150,85,140,7.0,1000,35,sugarcane,Urea
+Alkaline,120,90,145,6.0,900,20,sugarcane,Urea
+Alkaline,125,90,145,6.0,900,20,sugarcane,Urea
+Alkaline,130,90,145,6.0,900,20,sugarcane,Urea
+Alkaline,135,90,145,6.0,900,20,sugarcane,Urea
+Alkaline,140,90,145,6.0,900,20,sugarcane,Urea
+Alkaline,145,90,145,6.0,900,20,sugarcane,Urea
+Alkaline,150,90,145,6.0,900,20,sugarcane,Urea
+Alkaline,60,40,40,6.0,500,15,wheat,19:19:19 NPK
+Alkaline,65,40,40,6.0,500,15,wheat,19:19:19 NPK
+Alkaline,70,40,40,6.0,500,15,wheat,19:19:19 NPK
+Alkaline,75,40,40,6.0,500,15,wheat,19:19:19 NPK
+Alkaline,80,40,40,6.0,500,15,wheat,19:19:19 NPK
+Alkaline,60,45,45,6.5,600,20,wheat,19:19:19 NPK
+Alkaline,65,45,45,6.5,600,20,wheat,19:19:19 NPK
+Alkaline,70,45,45,6.5,600,20,wheat,19:19:19 NPK
+Alkaline,75,45,45,6.5,600,20,wheat,19:19:19 NPK
+Alkaline,80,45,45,6.5,600,20,wheat,19:19:19 NPK
+Alkaline,60,50,50,7.0,700,25,wheat,19:19:19 NPK
+Alkaline,65,50,50,7.0,700,25,wheat,19:19:19 NPK
+Alkaline,70,50,50,7.0,700,25,wheat,19:19:19 NPK
+Alkaline,75,50,50,7.0,700,25,wheat,19:19:19 NPK
+Alkaline,80,50,50,7.0,700,25,wheat,19:19:19 NPK
+Alkaline,60,55,55,7.5,500,15,wheat,19:19:19 NPK
+Alkaline,65,55,55,7.5,500,15,wheat,19:19:19 NPK
+Alkaline,70,55,55,7.5,500,15,wheat,19:19:19 NPK
+Alkaline,75,55,55,7.5,500,15,wheat,19:19:19 NPK
+Alkaline,80,55,55,7.5,500,15,wheat,19:19:19 NPK
+Alkaline,60,60,60,6.0,600,20,wheat,19:19:19 NPK
+Alkaline,65,60,60,6.0,600,20,wheat,19:19:19 NPK
+Alkaline,70,60,60,6.0,600,20,wheat,19:19:19 NPK
+Alkaline,75,60,60,6.0,600,20,wheat,19:19:19 NPK
+Alkaline,80,60,60,6.0,600,20,wheat,19:19:19 NPK
+Alkaline,60,40,45,6.5,700,25,wheat,Urea
+Alkaline,65,40,45,6.5,700,25,wheat,Urea
+Alkaline,70,40,45,6.5,700,25,wheat,Urea
+Alkaline,75,40,45,6.5,700,25,wheat,Urea
+Alkaline,80,40,45,6.5,700,25,wheat,Urea
+Alkaline,60,45,50,7.0,500,15,wheat,Urea
+Alkaline,65,45,50,7.0,500,15,wheat,Urea
+Alkaline,70,45,50,7.0,500,15,wheat,Urea
+Alkaline,75,45,50,7.0,500,15,wheat,Urea
+Alkaline,80,45,50,7.0,500,15,wheat,Urea
+Alkaline,60,50,55,7.5,600,20,wheat,Urea
+Alkaline,65,50,55,7.5,600,20,wheat,Urea
+Alkaline,70,50,55,7.5,600,20,wheat,Urea
+Alkaline,75,50,55,7.5,600,20,wheat,Urea
+Alkaline,80,50,55,7.5,600,20,wheat,Urea
+Alkaline,60,55,60,6.0,700,25,wheat,Urea
+Alkaline,65,55,60,6.0,700,25,wheat,Urea
+Alkaline,70,55,60,6.0,700,25,wheat,Urea
+Alkaline,75,55,60,6.0,700,25,wheat,Urea
+Alkaline,80,55,60,6.0,700,25,wheat,Urea
+Alkaline,60,60,40,6.5,500,15,wheat,Urea
+Alkaline,65,60,40,6.5,500,15,wheat,Urea
+Alkaline,70,60,40,6.5,500,15,wheat,Urea
+Alkaline,75,60,40,6.5,500,15,wheat,Urea
+Alkaline,80,60,40,6.5,500,15,wheat,Urea
+Alkaline,60,40,50,7.0,600,20,wheat,19:19:19 NPK
+Alkaline,65,40,50,7.0,600,20,wheat,19:19:19 NPK
+Alkaline,70,40,50,7.0,600,20,wheat,19:19:19 NPK
+Alkaline,75,40,50,7.0,600,20,wheat,19:19:19 NPK
+Alkaline,80,40,50,7.0,600,20,wheat,19:19:19 NPK
+Alkaline,60,45,55,7.5,700,25,wheat,19:19:19 NPK
+Alkaline,65,45,55,7.5,700,25,wheat,19:19:19 NPK
+Alkaline,70,45,55,7.5,700,25,wheat,19:19:19 NPK
+Alkaline,75,45,55,7.5,700,25,wheat,19:19:19 NPK
+Alkaline,80,45,55,7.5,700,25,wheat,19:19:19 NPK
+Alkaline,60,50,60,6.0,500,15,wheat,19:19:19 NPK
+Alkaline,65,50,60,6.0,500,15,wheat,19:19:19 NPK
+Alkaline,70,50,60,6.0,500,15,wheat,19:19:19 NPK
+Alkaline,75,50,60,6.0,500,15,wheat,19:19:19 NPK
+Alkaline,80,50,60,6.0,500,15,wheat,19:19:19 NPK
+Alkaline,60,55,40,6.5,600,20,wheat,19:19:19 NPK
+Alkaline,65,55,40,6.5,600,20,wheat,19:19:19 NPK
+Alkaline,70,55,40,6.5,600,20,wheat,19:19:19 NPK
+Alkaline,75,55,40,6.5,600,20,wheat,19:19:19 NPK
+Alkaline,80,55,40,6.5,600,20,wheat,19:19:19 NPK
+Alkaline,60,60,45,7.0,700,25,wheat,19:19:19 NPK
+Alkaline,65,60,45,7.0,700,25,wheat,19:19:19 NPK
+Alkaline,70,60,45,7.0,700,25,wheat,19:19:19 NPK
+Alkaline,75,60,45,7.0,700,25,wheat,19:19:19 NPK
+Alkaline,80,60,45,7.0,700,25,wheat,19:19:19 NPK
+Alkaline,60,40,55,7.5,500,15,wheat,Urea
+Alkaline,65,40,55,7.5,500,15,wheat,Urea
+Alkaline,70,40,55,7.5,500,15,wheat,Urea
+Alkaline,75,40,55,7.5,500,15,wheat,Urea
+Alkaline,80,40,55,7.5,500,15,wheat,Urea
+Alkaline,60,45,60,6.0,600,20,wheat,Urea
+Alkaline,65,45,60,6.0,600,20,wheat,Urea
+Alkaline,70,45,60,6.0,600,20,wheat,Urea
+Alkaline,75,45,60,6.0,600,20,wheat,Urea
+Alkaline,80,45,60,6.0,600,20,wheat,Urea
+Alkaline,60,50,40,6.5,700,25,wheat,Urea
+Alkaline,65,50,40,6.5,700,25,wheat,Urea
+Alkaline,70,50,40,6.5,700,25,wheat,Urea
+Alkaline,75,50,40,6.5,700,25,wheat,Urea
+Alkaline,80,50,40,6.5,700,25,wheat,Urea
+Alkaline,60,55,45,7.0,500,15,wheat,Urea
+Alkaline,65,55,45,7.0,500,15,wheat,Urea
+Alkaline,70,55,45,7.0,500,15,wheat,Urea
+Alkaline,75,55,45,7.0,500,15,wheat,Urea
+Alkaline,80,55,45,7.0,500,15,wheat,Urea
+Alkaline,60,60,50,7.5,600,20,wheat,Urea
+Alkaline,65,60,50,7.5,600,20,wheat,Urea
+Alkaline,70,60,50,7.5,600,20,wheat,Urea
+Alkaline,75,60,50,7.5,600,20,wheat,Urea
+Alkaline,80,60,50,7.5,600,20,wheat,Urea
+Alkaline,60,40,60,6.0,700,25,wheat,19:19:19 NPK
+Alkaline,65,40,60,6.0,700,25,wheat,19:19:19 NPK
+Alkaline,70,40,60,6.0,700,25,wheat,19:19:19 NPK
+Alkaline,75,40,60,6.0,700,25,wheat,19:19:19 NPK
+Alkaline,80,40,60,6.0,700,25,wheat,19:19:19 NPK
+Alkaline,60,45,40,6.5,500,15,wheat,19:19:19 NPK
+Alkaline,65,45,40,6.5,500,15,wheat,19:19:19 NPK
+Alkaline,70,45,40,6.5,500,15,wheat,19:19:19 NPK
+Alkaline,75,45,40,6.5,500,15,wheat,19:19:19 NPK
+Alkaline,80,45,40,6.5,500,15,wheat,19:19:19 NPK
+Alkaline,60,50,45,7.0,600,20,wheat,19:19:19 NPK
+Alkaline,65,50,45,7.0,600,20,wheat,19:19:19 NPK
+Alkaline,70,50,45,7.0,600,20,wheat,19:19:19 NPK
+Alkaline,75,50,45,7.0,600,20,wheat,19:19:19 NPK
+Alkaline,80,50,45,7.0,600,20,wheat,19:19:19 NPK
+Alkaline,60,55,50,7.5,700,25,wheat,19:19:19 NPK
+Alkaline,65,55,50,7.5,700,25,wheat,19:19:19 NPK
+Alkaline,70,55,50,7.5,700,25,wheat,19:19:19 NPK
+Alkaline,75,55,50,7.5,700,25,wheat,19:19:19 NPK
+Alkaline,80,55,50,7.5,700,25,wheat,19:19:19 NPK
+Alkaline,60,60,55,6.0,500,15,wheat,19:19:19 NPK
+Alkaline,65,60,55,6.0,500,15,wheat,19:19:19 NPK
+Alkaline,70,60,55,6.0,500,15,wheat,19:19:19 NPK
+Alkaline,75,60,55,6.0,500,15,wheat,19:19:19 NPK
+Alkaline,80,60,55,6.0,500,15,wheat,19:19:19 NPK
+Acidic,120,60,80,6.5,700,20,sugarcane,DAP
+Acidic,125,60,80,6.5,700,20,sugarcane,DAP
+Acidic,130,60,80,6.5,700,20,sugarcane,DAP
+Acidic,135,60,80,6.5,700,20,sugarcane,DAP
+Acidic,140,60,80,6.5,700,20,sugarcane,DAP
+Acidic,145,60,80,6.5,700,20,sugarcane,DAP
+Acidic,150,60,80,6.5,700,20,sugarcane,DAP
+Acidic,120,65,85,7.0,800,25,sugarcane,DAP
+Acidic,125,65,85,7.0,800,25,sugarcane,DAP
+Acidic,130,65,85,7.0,800,25,sugarcane,DAP
+Acidic,135,65,85,7.0,800,25,sugarcane,DAP
+Acidic,140,65,85,7.0,800,25,sugarcane,DAP
+Acidic,145,65,85,7.0,800,25,sugarcane,DAP
+Acidic,150,65,85,7.0,800,25,sugarcane,DAP
+Acidic,120,70,90,6.5,700,30,sugarcane,DAP
+Acidic,125,70,90,6.5,700,30,sugarcane,DAP
+Acidic,130,70,90,6.5,700,30,sugarcane,DAP
+Acidic,135,70,90,6.5,700,30,sugarcane,DAP
+Acidic,140,70,90,6.5,700,30,sugarcane,DAP
+Acidic,145,70,90,6.5,700,30,sugarcane,DAP
+Acidic,150,70,90,6.5,700,30,sugarcane,DAP
+Acidic,120,75,95,7.0,800,20,sugarcane,DAP
+Acidic,125,75,95,7.0,800,20,sugarcane,DAP
+Acidic,130,75,95,7.0,800,20,sugarcane,DAP
+Acidic,135,75,95,7.0,800,20,sugarcane,DAP
+Acidic,140,75,95,7.0,800,20,sugarcane,DAP
+Acidic,145,75,95,7.0,800,20,sugarcane,DAP
+Acidic,150,75,95,7.0,800,20,sugarcane,DAP
+Acidic,120,80,100,6.5,700,25,sugarcane,DAP
+Acidic,125,80,100,6.5,700,25,sugarcane,DAP
+Acidic,130,80,100,6.5,700,25,sugarcane,DAP
+Acidic,135,80,100,6.5,700,25,sugarcane,DAP
+Acidic,140,80,100,6.5,700,25,sugarcane,DAP
+Acidic,145,80,100,6.5,700,25,sugarcane,DAP
+Acidic,150,80,100,6.5,700,25,sugarcane,DAP
+Acidic,120,60,85,7.0,800,30,sugarcane,Urea
+Acidic,125,60,85,7.0,800,30,sugarcane,Urea
+Acidic,130,60,85,7.0,800,30,sugarcane,Urea
+Acidic,135,60,85,7.0,800,30,sugarcane,Urea
+Acidic,140,60,85,7.0,800,30,sugarcane,Urea
+Acidic,145,60,85,7.0,800,30,sugarcane,Urea
+Acidic,150,60,85,7.0,800,30,sugarcane,Urea
+Acidic,120,65,90,6.5,700,20,sugarcane,Urea
+Acidic,125,65,90,6.5,700,20,sugarcane,Urea
+Acidic,130,65,90,6.5,700,20,sugarcane,Urea
+Acidic,135,65,90,6.5,700,20,sugarcane,Urea
+Acidic,140,65,90,6.5,700,20,sugarcane,Urea
+Acidic,145,65,90,6.5,700,20,sugarcane,Urea
+Acidic,150,65,90,6.5,700,20,sugarcane,Urea
+Acidic,120,70,95,7.0,800,25,sugarcane,Urea
+Acidic,125,70,95,7.0,800,25,sugarcane,Urea
+Acidic,130,70,95,7.0,800,25,sugarcane,Urea
+Acidic,135,70,95,7.0,800,25,sugarcane,Urea
+Acidic,140,70,95,7.0,800,25,sugarcane,Urea
+Acidic,145,70,95,7.0,800,25,sugarcane,Urea
+Acidic,150,70,95,7.0,800,25,sugarcane,Urea
+Acidic,120,75,100,6.5,700,30,sugarcane,Urea
+Acidic,125,75,100,6.5,700,30,sugarcane,Urea
+Acidic,130,75,100,6.5,700,30,sugarcane,Urea
+Acidic,135,75,100,6.5,700,30,sugarcane,Urea
+Acidic,140,75,100,6.5,700,30,sugarcane,Urea
+Acidic,145,75,100,6.5,700,30,sugarcane,Urea
+Acidic,150,75,100,6.5,700,30,sugarcane,Urea
+Acidic,120,80,80,7.0,800,20,sugarcane,Urea
+Acidic,125,80,80,7.0,800,20,sugarcane,Urea
+Acidic,130,80,80,7.0,800,20,sugarcane,Urea
+Acidic,135,80,80,7.0,800,20,sugarcane,Urea
+Acidic,140,80,80,7.0,800,20,sugarcane,Urea
+Acidic,145,80,80,7.0,800,20,sugarcane,Urea
+Acidic,150,80,80,7.0,800,20,sugarcane,Urea
+Acidic,120,60,90,6.5,700,25,sugarcane,MOP
+Acidic,125,60,90,6.5,700,25,sugarcane,MOP
+Acidic,130,60,90,6.5,700,25,sugarcane,MOP
+Acidic,135,60,90,6.5,700,25,sugarcane,MOP
+Acidic,140,60,90,6.5,700,25,sugarcane,MOP
+Acidic,145,60,90,6.5,700,25,sugarcane,MOP
+Acidic,150,60,90,6.5,700,25,sugarcane,MOP
+Acidic,120,65,95,7.0,800,30,sugarcane,MOP
+Acidic,125,65,95,7.0,800,30,sugarcane,MOP
+Acidic,130,65,95,7.0,800,30,sugarcane,MOP
+Acidic,135,65,95,7.0,800,30,sugarcane,MOP
+Acidic,140,65,95,7.0,800,30,sugarcane,MOP
+Acidic,145,65,95,7.0,800,30,sugarcane,MOP
+Acidic,150,65,95,7.0,800,30,sugarcane,MOP
+Acidic,120,70,100,6.5,700,20,sugarcane,MOP
+Acidic,125,70,100,6.5,700,20,sugarcane,MOP
+Acidic,130,70,100,6.5,700,20,sugarcane,MOP
+Acidic,135,70,100,6.5,700,20,sugarcane,MOP
+Acidic,140,70,100,6.5,700,20,sugarcane,MOP
+Acidic,145,70,100,6.5,700,20,sugarcane,MOP
+Acidic,150,70,100,6.5,700,20,sugarcane,MOP
+Acidic,120,75,80,7.0,800,25,sugarcane,MOP
+Acidic,125,75,80,7.0,800,25,sugarcane,MOP
+Acidic,130,75,80,7.0,800,25,sugarcane,MOP
+Acidic,135,75,80,7.0,800,25,sugarcane,MOP
+Acidic,140,75,80,7.0,800,25,sugarcane,MOP
+Acidic,145,75,80,7.0,800,25,sugarcane,MOP
+Acidic,150,75,80,7.0,800,25,sugarcane,MOP
+Acidic,120,80,85,6.5,700,30,sugarcane,MOP
+Acidic,125,80,85,6.5,700,30,sugarcane,MOP
+Acidic,130,80,85,6.5,700,30,sugarcane,MOP
+Acidic,135,80,85,6.5,700,30,sugarcane,MOP
+Acidic,140,80,85,6.5,700,30,sugarcane,MOP
+Acidic,145,80,85,6.5,700,30,sugarcane,MOP
+Acidic,150,80,85,6.5,700,30,sugarcane,MOP
+Acidic,120,60,95,7.0,800,20,sugarcane,DAP
+Acidic,125,60,95,7.0,800,20,sugarcane,DAP
+Acidic,130,60,95,7.0,800,20,sugarcane,DAP
+Acidic,135,60,95,7.0,800,20,sugarcane,DAP
+Acidic,140,60,95,7.0,800,20,sugarcane,DAP
+Acidic,145,60,95,7.0,800,20,sugarcane,DAP
+Acidic,150,60,95,7.0,800,20,sugarcane,DAP
+Acidic,120,65,100,6.5,700,25,sugarcane,DAP
+Acidic,125,65,100,6.5,700,25,sugarcane,DAP
+Acidic,130,65,100,6.5,700,25,sugarcane,DAP
+Acidic,135,65,100,6.5,700,25,sugarcane,DAP
+Acidic,140,65,100,6.5,700,25,sugarcane,DAP
+Acidic,145,65,100,6.5,700,25,sugarcane,DAP
+Acidic,150,65,100,6.5,700,25,sugarcane,DAP
+Acidic,120,70,80,7.0,800,30,sugarcane,DAP
+Acidic,125,70,80,7.0,800,30,sugarcane,DAP
+Acidic,130,70,80,7.0,800,30,sugarcane,DAP
+Acidic,135,70,80,7.0,800,30,sugarcane,DAP
+Acidic,140,70,80,7.0,800,30,sugarcane,DAP
+Acidic,145,70,80,7.0,800,30,sugarcane,DAP
+Acidic,150,70,80,7.0,800,30,sugarcane,DAP
+Acidic,120,75,85,6.5,700,20,sugarcane,DAP
+Acidic,125,75,85,6.5,700,20,sugarcane,DAP
+Acidic,130,75,85,6.5,700,20,sugarcane,DAP
+Acidic,135,75,85,6.5,700,20,sugarcane,DAP
+Acidic,140,75,85,6.5,700,20,sugarcane,DAP
+Acidic,145,75,85,6.5,700,20,sugarcane,DAP
+Acidic,150,75,85,6.5,700,20,sugarcane,DAP
+Acidic,120,80,90,7.0,800,25,sugarcane,DAP
+Acidic,125,80,90,7.0,800,25,sugarcane,DAP
+Acidic,130,80,90,7.0,800,25,sugarcane,DAP
+Acidic,135,80,90,7.0,800,25,sugarcane,DAP
+Acidic,140,80,90,7.0,800,25,sugarcane,DAP
+Acidic,145,80,90,7.0,800,25,sugarcane,DAP
+Acidic,150,80,90,7.0,800,25,sugarcane,DAP
+Acidic,120,60,100,6.5,700,30,sugarcane,Urea
+Acidic,125,60,100,6.5,700,30,sugarcane,Urea
+Acidic,130,60,100,6.5,700,30,sugarcane,Urea
+Acidic,135,60,100,6.5,700,30,sugarcane,Urea
+Acidic,140,60,100,6.5,700,30,sugarcane,Urea
+Acidic,145,60,100,6.5,700,30,sugarcane,Urea
+Acidic,150,60,100,6.5,700,30,sugarcane,Urea
+Acidic,120,65,80,7.0,800,20,sugarcane,Urea
+Acidic,125,65,80,7.0,800,20,sugarcane,Urea
+Acidic,130,65,80,7.0,800,20,sugarcane,Urea
+Acidic,135,65,80,7.0,800,20,sugarcane,Urea
+Acidic,140,65,80,7.0,800,20,sugarcane,Urea
+Acidic,145,65,80,7.0,800,20,sugarcane,Urea
+Acidic,150,65,80,7.0,800,20,sugarcane,Urea
+Acidic,120,70,85,6.5,700,25,sugarcane,Urea
+Acidic,125,70,85,6.5,700,25,sugarcane,Urea
+Acidic,130,70,85,6.5,700,25,sugarcane,Urea
+Acidic,135,70,85,6.5,700,25,sugarcane,Urea
+Acidic,140,70,85,6.5,700,25,sugarcane,Urea
+Acidic,145,70,85,6.5,700,25,sugarcane,Urea
+Acidic,150,70,85,6.5,700,25,sugarcane,Urea
+Acidic,120,75,90,7.0,800,30,sugarcane,Urea
+Acidic,125,75,90,7.0,800,30,sugarcane,Urea
+Acidic,130,75,90,7.0,800,30,sugarcane,Urea
+Acidic,135,75,90,7.0,800,30,sugarcane,Urea
+Acidic,140,75,90,7.0,800,30,sugarcane,Urea
+Acidic,145,75,90,7.0,800,30,sugarcane,Urea
+Acidic,150,75,90,7.0,800,30,sugarcane,Urea
+Acidic,120,80,95,6.5,700,20,sugarcane,Urea
+Acidic,125,80,95,6.5,700,20,sugarcane,Urea
+Acidic,130,80,95,6.5,700,20,sugarcane,Urea
+Acidic,135,80,95,6.5,700,20,sugarcane,Urea
+Acidic,140,80,95,6.5,700,20,sugarcane,Urea
+Acidic,145,80,95,6.5,700,20,sugarcane,Urea
+Acidic,150,80,95,6.5,700,20,sugarcane,Urea
+Acidic,80,40,120,6.0,700,20,grapes,Ferrous Sulphate
+Acidic,85,40,120,6.0,700,20,grapes,Ferrous Sulphate
+Acidic,90,40,120,6.0,700,20,grapes,Ferrous Sulphate
+Acidic,95,40,120,6.0,700,20,grapes,Ferrous Sulphate
+Acidic,100,40,120,6.0,700,20,grapes,Ferrous Sulphate
+Acidic,80,45,125,6.5,800,25,grapes,Ferrous Sulphate
+Acidic,85,45,125,6.5,800,25,grapes,Ferrous Sulphate
+Acidic,90,45,125,6.5,800,25,grapes,Ferrous Sulphate
+Acidic,95,45,125,6.5,800,25,grapes,Ferrous Sulphate
+Acidic,100,45,125,6.5,800,25,grapes,Ferrous Sulphate
+Acidic,80,50,130,7.0,700,30,grapes,Ferrous Sulphate
+Acidic,85,50,130,7.0,700,30,grapes,Ferrous Sulphate
+Acidic,90,50,130,7.0,700,30,grapes,Ferrous Sulphate
+Acidic,95,50,130,7.0,700,30,grapes,Ferrous Sulphate
+Acidic,100,50,130,7.0,700,30,grapes,Ferrous Sulphate
+Acidic,80,55,135,7.5,800,20,grapes,Ferrous Sulphate
+Acidic,85,55,135,7.5,800,20,grapes,Ferrous Sulphate
+Acidic,90,55,135,7.5,800,20,grapes,Ferrous Sulphate
+Acidic,95,55,135,7.5,800,20,grapes,Ferrous Sulphate
+Acidic,100,55,135,7.5,800,20,grapes,Ferrous Sulphate
+Acidic,80,60,140,6.0,700,25,grapes,Ferrous Sulphate
+Acidic,85,60,140,6.0,700,25,grapes,Ferrous Sulphate
+Acidic,90,60,140,6.0,700,25,grapes,Ferrous Sulphate
+Acidic,95,60,140,6.0,700,25,grapes,Ferrous Sulphate
+Acidic,100,60,140,6.0,700,25,grapes,Ferrous Sulphate
+Acidic,80,40,125,6.5,800,30,grapes,10:10:10 NPK
+Acidic,85,40,125,6.5,800,30,grapes,10:10:10 NPK
+Acidic,90,40,125,6.5,800,30,grapes,10:10:10 NPK
+Acidic,95,40,125,6.5,800,30,grapes,10:10:10 NPK
+Acidic,100,40,125,6.5,800,30,grapes,10:10:10 NPK
+Acidic,80,45,130,7.0,700,20,grapes,10:10:10 NPK
+Acidic,85,45,130,7.0,700,20,grapes,10:10:10 NPK
+Acidic,90,45,130,7.0,700,20,grapes,10:10:10 NPK
+Acidic,95,45,130,7.0,700,20,grapes,10:10:10 NPK
+Acidic,100,45,130,7.0,700,20,grapes,10:10:10 NPK
+Acidic,80,50,135,7.5,800,25,grapes,10:10:10 NPK
+Acidic,85,50,135,7.5,800,25,grapes,10:10:10 NPK
+Acidic,90,50,135,7.5,800,25,grapes,10:10:10 NPK
+Acidic,95,50,135,7.5,800,25,grapes,10:10:10 NPK
+Acidic,100,50,135,7.5,800,25,grapes,10:10:10 NPK
+Acidic,80,55,140,6.0,700,30,grapes,10:10:10 NPK
+Acidic,85,55,140,6.0,700,30,grapes,10:10:10 NPK
+Acidic,90,55,140,6.0,700,30,grapes,10:10:10 NPK
+Acidic,95,55,140,6.0,700,30,grapes,10:10:10 NPK
+Acidic,100,55,140,6.0,700,30,grapes,10:10:10 NPK
+Acidic,80,60,120,6.5,800,20,grapes,10:10:10 NPK
+Acidic,85,60,120,6.5,800,20,grapes,10:10:10 NPK
+Acidic,90,60,120,6.5,800,20,grapes,10:10:10 NPK
+Acidic,95,60,120,6.5,800,20,grapes,10:10:10 NPK
+Acidic,100,60,120,6.5,800,20,grapes,10:10:10 NPK
+Acidic,80,40,130,7.0,700,25,grapes,Hydrated Lime
+Acidic,85,40,130,7.0,700,25,grapes,Hydrated Lime
+Acidic,90,40,130,7.0,700,25,grapes,Hydrated Lime
+Acidic,95,40,130,7.0,700,25,grapes,Hydrated Lime
+Acidic,100,40,130,7.0,700,25,grapes,Hydrated Lime
+Acidic,80,45,135,7.5,800,30,grapes,Hydrated Lime
+Acidic,85,45,135,7.5,800,30,grapes,Hydrated Lime
+Acidic,90,45,135,7.5,800,30,grapes,Hydrated Lime
+Acidic,95,45,135,7.5,800,30,grapes,Hydrated Lime
+Acidic,100,45,135,7.5,800,30,grapes,Hydrated Lime
+Acidic,80,50,140,6.0,700,20,grapes,Hydrated Lime
+Acidic,85,50,140,6.0,700,20,grapes,Hydrated Lime
+Acidic,90,50,140,6.0,700,20,grapes,Hydrated Lime
+Acidic,95,50,140,6.0,700,20,grapes,Hydrated Lime
+Acidic,100,50,140,6.0,700,20,grapes,Hydrated Lime
+Acidic,80,55,120,6.5,800,25,grapes,Hydrated Lime
+Acidic,85,55,120,6.5,800,25,grapes,Hydrated Lime
+Acidic,90,55,120,6.5,800,25,grapes,Hydrated Lime
+Acidic,95,55,120,6.5,800,25,grapes,Hydrated Lime
+Acidic,100,55,120,6.5,800,25,grapes,Hydrated Lime
+Acidic,80,60,125,7.0,700,30,grapes,Hydrated Lime
+Acidic,85,60,125,7.0,700,30,grapes,Hydrated Lime
+Acidic,90,60,125,7.0,700,30,grapes,Hydrated Lime
+Acidic,95,60,125,7.0,700,30,grapes,Hydrated Lime
+Acidic,100,60,125,7.0,700,30,grapes,Hydrated Lime
+Acidic,80,40,135,7.5,800,20,grapes,Ferrous Sulphate
+Acidic,85,40,135,7.5,800,20,grapes,Ferrous Sulphate
+Acidic,90,40,135,7.5,800,20,grapes,Ferrous Sulphate
+Acidic,95,40,135,7.5,800,20,grapes,Ferrous Sulphate
+Acidic,100,40,135,7.5,800,20,grapes,Ferrous Sulphate
+Acidic,80,45,140,6.0,700,25,grapes,Ferrous Sulphate
+Acidic,85,45,140,6.0,700,25,grapes,Ferrous Sulphate
+Acidic,90,45,140,6.0,700,25,grapes,Ferrous Sulphate
+Acidic,95,45,140,6.0,700,25,grapes,Ferrous Sulphate
+Acidic,100,45,140,6.0,700,25,grapes,Ferrous Sulphate
+Acidic,80,50,120,6.5,800,30,grapes,Ferrous Sulphate
+Acidic,85,50,120,6.5,800,30,grapes,Ferrous Sulphate
+Acidic,90,50,120,6.5,800,30,grapes,Ferrous Sulphate
+Acidic,95,50,120,6.5,800,30,grapes,Ferrous Sulphate
+Acidic,100,50,120,6.5,800,30,grapes,Ferrous Sulphate
+Acidic,80,55,125,7.0,700,20,grapes,Ferrous Sulphate
+Acidic,85,55,125,7.0,700,20,grapes,Ferrous Sulphate
+Acidic,90,55,125,7.0,700,20,grapes,Ferrous Sulphate
+Acidic,95,55,125,7.0,700,20,grapes,Ferrous Sulphate
+Acidic,100,55,125,7.0,700,20,grapes,Ferrous Sulphate
+Acidic,80,60,130,7.5,800,25,grapes,Ferrous Sulphate
+Acidic,85,60,130,7.5,800,25,grapes,Ferrous Sulphate
+Acidic,90,60,130,7.5,800,25,grapes,Ferrous Sulphate
+Acidic,95,60,130,7.5,800,25,grapes,Ferrous Sulphate
+Acidic,100,60,130,7.5,800,25,grapes,Ferrous Sulphate
+Acidic,80,40,140,6.0,700,30,grapes,10:10:10 NPK
+Acidic,85,40,140,6.0,700,30,grapes,10:10:10 NPK
+Acidic,90,40,140,6.0,700,30,grapes,10:10:10 NPK
+Acidic,95,40,140,6.0,700,30,grapes,10:10:10 NPK
+Acidic,100,40,140,6.0,700,30,grapes,10:10:10 NPK
+Acidic,80,45,120,6.5,800,20,grapes,10:10:10 NPK
+Acidic,85,45,120,6.5,800,20,grapes,10:10:10 NPK
+Acidic,90,45,120,6.5,800,20,grapes,10:10:10 NPK
+Acidic,95,45,120,6.5,800,20,grapes,10:10:10 NPK
+Acidic,100,45,120,6.5,800,20,grapes,10:10:10 NPK
+Acidic,80,50,125,7.0,700,25,grapes,10:10:10 NPK
+Acidic,85,50,125,7.0,700,25,grapes,10:10:10 NPK
+Acidic,90,50,125,7.0,700,25,grapes,10:10:10 NPK
+Acidic,95,50,125,7.0,700,25,grapes,10:10:10 NPK
+Acidic,100,50,125,7.0,700,25,grapes,10:10:10 NPK
+Acidic,80,55,130,7.5,800,30,grapes,10:10:10 NPK
+Acidic,85,55,130,7.5,800,30,grapes,10:10:10 NPK
+Acidic,90,55,130,7.5,800,30,grapes,10:10:10 NPK
+Acidic,95,55,130,7.5,800,30,grapes,10:10:10 NPK
+Acidic,100,55,130,7.5,800,30,grapes,10:10:10 NPK
+Acidic,80,60,135,6.0,700,20,grapes,10:10:10 NPK
+Acidic,85,60,135,6.0,700,20,grapes,10:10:10 NPK
+Acidic,90,60,135,6.0,700,20,grapes,10:10:10 NPK
+Acidic,95,60,135,6.0,700,20,grapes,10:10:10 NPK
+Acidic,100,60,135,6.0,700,20,grapes,10:10:10 NPK
+Alkaline,120,60,40,5.5,500,20,maize,MOP
+Alkaline,125,60,40,5.5,500,20,maize,MOP
+Alkaline,130,60,40,5.5,500,20,maize,MOP
+Alkaline,135,60,40,5.5,500,20,maize,MOP
+Alkaline,140,60,40,5.5,500,20,maize,MOP
+Alkaline,145,60,40,5.5,500,20,maize,MOP
+Alkaline,150,60,40,5.5,500,20,maize,MOP
+Alkaline,120,65,45,6.0,600,25,maize,MOP
+Alkaline,125,65,45,6.0,600,25,maize,MOP
+Alkaline,130,65,45,6.0,600,25,maize,MOP
+Alkaline,135,65,45,6.0,600,25,maize,MOP
+Alkaline,140,65,45,6.0,600,25,maize,MOP
+Alkaline,145,65,45,6.0,600,25,maize,MOP
+Alkaline,150,65,45,6.0,600,25,maize,MOP
+Alkaline,120,70,50,6.5,500,30,maize,MOP
+Alkaline,125,70,50,6.5,500,30,maize,MOP
+Alkaline,130,70,50,6.5,500,30,maize,MOP
+Alkaline,135,70,50,6.5,500,30,maize,MOP
+Alkaline,140,70,50,6.5,500,30,maize,MOP
+Alkaline,145,70,50,6.5,500,30,maize,MOP
+Alkaline,150,70,50,6.5,500,30,maize,MOP
+Alkaline,120,75,55,7.0,600,20,maize,MOP
+Alkaline,125,75,55,7.0,600,20,maize,MOP
+Alkaline,130,75,55,7.0,600,20,maize,MOP
+Alkaline,135,75,55,7.0,600,20,maize,MOP
+Alkaline,140,75,55,7.0,600,20,maize,MOP
+Alkaline,145,75,55,7.0,600,20,maize,MOP
+Alkaline,150,75,55,7.0,600,20,maize,MOP
+Alkaline,120,80,60,7.5,500,25,maize,MOP
+Alkaline,125,80,60,7.5,500,25,maize,MOP
+Alkaline,130,80,60,7.5,500,25,maize,MOP
+Alkaline,135,80,60,7.5,500,25,maize,MOP
+Alkaline,140,80,60,7.5,500,25,maize,MOP
+Alkaline,145,80,60,7.5,500,25,maize,MOP
+Alkaline,150,80,60,7.5,500,25,maize,MOP
+Alkaline,120,60,45,5.5,600,30,maize,SSP
+Alkaline,125,60,45,5.5,600,30,maize,SSP
+Alkaline,130,60,45,5.5,600,30,maize,SSP
+Alkaline,135,60,45,5.5,600,30,maize,SSP
+Alkaline,140,60,45,5.5,600,30,maize,SSP
+Alkaline,145,60,45,5.5,600,30,maize,SSP
+Alkaline,150,60,45,5.5,600,30,maize,SSP
+Alkaline,120,65,50,6.0,500,20,maize,SSP
+Alkaline,125,65,50,6.0,500,20,maize,SSP
+Alkaline,130,65,50,6.0,500,20,maize,SSP
+Alkaline,135,65,50,6.0,500,20,maize,SSP
+Alkaline,140,65,50,6.0,500,20,maize,SSP
+Alkaline,145,65,50,6.0,500,20,maize,SSP
+Alkaline,150,65,50,6.0,500,20,maize,SSP
+Alkaline,120,70,55,6.5,600,25,maize,SSP
+Alkaline,125,70,55,6.5,600,25,maize,SSP
+Alkaline,130,70,55,6.5,600,25,maize,SSP
+Alkaline,135,70,55,6.5,600,25,maize,SSP
+Alkaline,140,70,55,6.5,600,25,maize,SSP
+Alkaline,145,70,55,6.5,600,25,maize,SSP
+Alkaline,150,70,55,6.5,600,25,maize,SSP
+Alkaline,120,75,60,7.0,500,30,maize,SSP
+Alkaline,125,75,60,7.0,500,30,maize,SSP
+Alkaline,130,75,60,7.0,500,30,maize,SSP
+Alkaline,135,75,60,7.0,500,30,maize,SSP
+Alkaline,140,75,60,7.0,500,30,maize,SSP
+Alkaline,145,75,60,7.0,500,30,maize,SSP
+Alkaline,150,75,60,7.0,500,30,maize,SSP
+Alkaline,120,80,40,7.5,600,20,maize,SSP
+Alkaline,125,80,40,7.5,600,20,maize,SSP
+Alkaline,130,80,40,7.5,600,20,maize,SSP
+Alkaline,135,80,40,7.5,600,20,maize,SSP
+Alkaline,140,80,40,7.5,600,20,maize,SSP
+Alkaline,145,80,40,7.5,600,20,maize,SSP
+Alkaline,150,80,40,7.5,600,20,maize,SSP
+Alkaline,120,60,50,5.5,500,25,maize,Urea
+Alkaline,125,60,50,5.5,500,25,maize,Urea
+Alkaline,130,60,50,5.5,500,25,maize,Urea
+Alkaline,135,60,50,5.5,500,25,maize,Urea
+Alkaline,140,60,50,5.5,500,25,maize,Urea
+Alkaline,145,60,50,5.5,500,25,maize,Urea
+Alkaline,150,60,50,5.5,500,25,maize,Urea
+Alkaline,120,65,55,6.0,600,30,maize,Urea
+Alkaline,125,65,55,6.0,600,30,maize,Urea
+Alkaline,130,65,55,6.0,600,30,maize,Urea
+Alkaline,135,65,55,6.0,600,30,maize,Urea
+Alkaline,140,65,55,6.0,600,30,maize,Urea
+Alkaline,145,65,55,6.0,600,30,maize,Urea
+Alkaline,150,65,55,6.0,600,30,maize,Urea
+Alkaline,120,70,60,6.5,500,20,maize,Urea
+Alkaline,125,70,60,6.5,500,20,maize,Urea
+Alkaline,130,70,60,6.5,500,20,maize,Urea
+Alkaline,135,70,60,6.5,500,20,maize,Urea
+Alkaline,140,70,60,6.5,500,20,maize,Urea
+Alkaline,145,70,60,6.5,500,20,maize,Urea
+Alkaline,150,70,60,6.5,500,20,maize,Urea
+Alkaline,120,75,40,7.0,600,25,maize,Urea
+Alkaline,125,75,40,7.0,600,25,maize,Urea
+Alkaline,130,75,40,7.0,600,25,maize,Urea
+Alkaline,135,75,40,7.0,600,25,maize,Urea
+Alkaline,140,75,40,7.0,600,25,maize,Urea
+Alkaline,145,75,40,7.0,600,25,maize,Urea
+Alkaline,150,75,40,7.0,600,25,maize,Urea
+Alkaline,120,80,45,7.5,500,30,maize,Urea
+Alkaline,125,80,45,7.5,500,30,maize,Urea
+Alkaline,130,80,45,7.5,500,30,maize,Urea
+Alkaline,135,80,45,7.5,500,30,maize,Urea
+Alkaline,140,80,45,7.5,500,30,maize,Urea
+Alkaline,145,80,45,7.5,500,30,maize,Urea
+Alkaline,150,80,45,7.5,500,30,maize,Urea
+Alkaline,120,60,55,5.5,600,20,maize,MOP
+Alkaline,125,60,55,5.5,600,20,maize,MOP
+Alkaline,130,60,55,5.5,600,20,maize,MOP
+Alkaline,135,60,55,5.5,600,20,maize,MOP
+Alkaline,140,60,55,5.5,600,20,maize,MOP
+Alkaline,145,60,55,5.5,600,20,maize,MOP
+Alkaline,150,60,55,5.5,600,20,maize,MOP
+Alkaline,120,65,60,6.0,500,25,maize,MOP
+Alkaline,125,65,60,6.0,500,25,maize,MOP
+Alkaline,130,65,60,6.0,500,25,maize,MOP
+Alkaline,135,65,60,6.0,500,25,maize,MOP
+Alkaline,140,65,60,6.0,500,25,maize,MOP
+Alkaline,145,65,60,6.0,500,25,maize,MOP
+Alkaline,150,65,60,6.0,500,25,maize,MOP
+Alkaline,120,70,40,6.5,600,30,maize,MOP
+Alkaline,125,70,40,6.5,600,30,maize,MOP
+Alkaline,130,70,40,6.5,600,30,maize,MOP
+Alkaline,135,70,40,6.5,600,30,maize,MOP
+Alkaline,140,70,40,6.5,600,30,maize,MOP
+Alkaline,145,70,40,6.5,600,30,maize,MOP
+Alkaline,150,70,40,6.5,600,30,maize,MOP
+Alkaline,120,75,45,7.0,500,20,maize,MOP
+Alkaline,125,75,45,7.0,500,20,maize,MOP
+Alkaline,130,75,45,7.0,500,20,maize,MOP
+Alkaline,135,75,45,7.0,500,20,maize,MOP
+Alkaline,140,75,45,7.0,500,20,maize,MOP
+Alkaline,145,75,45,7.0,500,20,maize,MOP
+Alkaline,150,75,45,7.0,500,20,maize,MOP
+Alkaline,120,80,50,7.5,600,25,maize,MOP
+Alkaline,125,80,50,7.5,600,25,maize,MOP
+Alkaline,130,80,50,7.5,600,25,maize,MOP
+Alkaline,135,80,50,7.5,600,25,maize,MOP
+Alkaline,140,80,50,7.5,600,25,maize,MOP
+Alkaline,145,80,50,7.5,600,25,maize,MOP
+Alkaline,150,80,50,7.5,600,25,maize,MOP
+Alkaline,120,60,60,5.5,500,30,maize,SSP
+Alkaline,125,60,60,5.5,500,30,maize,SSP
+Alkaline,130,60,60,5.5,500,30,maize,SSP
+Alkaline,135,60,60,5.5,500,30,maize,SSP
+Alkaline,140,60,60,5.5,500,30,maize,SSP
+Alkaline,145,60,60,5.5,500,30,maize,SSP
+Alkaline,150,60,60,5.5,500,30,maize,SSP
+Alkaline,120,65,40,6.0,600,20,maize,SSP
+Alkaline,125,65,40,6.0,600,20,maize,SSP
+Alkaline,130,65,40,6.0,600,20,maize,SSP
+Alkaline,135,65,40,6.0,600,20,maize,SSP
+Alkaline,140,65,40,6.0,600,20,maize,SSP
+Alkaline,145,65,40,6.0,600,20,maize,SSP
+Alkaline,150,65,40,6.0,600,20,maize,SSP
+Alkaline,120,70,45,6.5,500,25,maize,SSP
+Alkaline,125,70,45,6.5,500,25,maize,SSP
+Alkaline,130,70,45,6.5,500,25,maize,SSP
+Alkaline,135,70,45,6.5,500,25,maize,SSP
+Alkaline,140,70,45,6.5,500,25,maize,SSP
+Alkaline,145,70,45,6.5,500,25,maize,SSP
+Alkaline,150,70,45,6.5,500,25,maize,SSP
+Alkaline,120,75,50,7.0,600,30,maize,SSP
+Alkaline,125,75,50,7.0,600,30,maize,SSP
+Alkaline,130,75,50,7.0,600,30,maize,SSP
+Alkaline,135,75,50,7.0,600,30,maize,SSP
+Alkaline,140,75,50,7.0,600,30,maize,SSP
+Alkaline,145,75,50,7.0,600,30,maize,SSP
+Alkaline,150,75,50,7.0,600,30,maize,SSP
+Alkaline,120,80,55,7.5,500,20,maize,SSP
+Alkaline,125,80,30,7.5,500,20,maize,SSP
+Alkaline,130,80,30,7.5,500,20,maize,SSP
+Alkaline,135,80,30,7.5,500,20,maize,SSP
+Alkaline,140,80,40,7.5,500,20,maize,SSP
+Alkaline,145,80,40,7.5,500,20,maize,SSP
+Alkaline,150,80,40,7.5,500,20,maize,SSP
+Alkaline,100,40,40,6.0,800,15,wheat,19:19:19 NPK
+Alkaline,105,40,40,6.0,800,15,wheat,19:19:19 NPK
+Alkaline,110,40,40,6.0,800,15,wheat,19:19:19 NPK
+Alkaline,115,40,40,6.0,800,15,wheat,19:19:19 NPK
+Alkaline,120,40,40,6.0,800,15,wheat,19:19:19 NPK
+Alkaline,100,45,45,6.5,900,20,wheat,19:19:19 NPK
+Alkaline,105,45,45,6.5,900,20,wheat,19:19:19 NPK
+Alkaline,110,45,45,6.5,900,20,wheat,19:19:19 NPK
+Alkaline,115,45,45,6.5,900,20,wheat,19:19:19 NPK
+Alkaline,120,45,45,6.5,900,20,wheat,19:19:19 NPK
+Alkaline,100,50,50,7.0,800,25,wheat,19:19:19 NPK
+Alkaline,105,50,50,7.0,800,25,wheat,19:19:19 NPK
+Alkaline,110,50,50,7.0,800,25,wheat,19:19:19 NPK
+Alkaline,115,50,50,7.0,800,25,wheat,19:19:19 NPK
+Alkaline,120,50,50,7.0,800,25,wheat,19:19:19 NPK
+Alkaline,100,55,55,7.5,900,15,wheat,19:19:19 NPK
+Alkaline,105,55,55,7.5,900,15,wheat,19:19:19 NPK
+Alkaline,110,55,55,7.5,900,15,wheat,19:19:19 NPK
+Alkaline,115,55,55,7.5,900,15,wheat,19:19:19 NPK
+Alkaline,120,55,55,7.5,900,15,wheat,19:19:19 NPK
+Alkaline,100,60,60,6.0,800,20,wheat,19:19:19 NPK
+Alkaline,105,60,60,6.0,800,20,wheat,19:19:19 NPK
+Alkaline,110,60,60,6.0,800,20,wheat,19:19:19 NPK
+Alkaline,115,60,60,6.0,800,20,wheat,19:19:19 NPK
+Alkaline,120,60,60,6.0,800,20,wheat,19:19:19 NPK
+Alkaline,100,40,45,6.5,900,25,wheat,Urea
+Alkaline,105,40,45,6.5,900,25,wheat,Urea
+Alkaline,110,40,45,6.5,900,25,wheat,Urea
+Alkaline,115,40,45,6.5,900,25,wheat,Urea
+Alkaline,120,40,45,6.5,900,25,wheat,Urea
+Alkaline,100,45,50,7.0,800,15,wheat,Urea
+Alkaline,105,45,50,7.0,800,15,wheat,Urea
+Alkaline,110,45,50,7.0,800,15,wheat,Urea
+Alkaline,115,45,50,7.0,800,15,wheat,Urea
+Alkaline,120,45,50,7.0,800,15,wheat,Urea
+Alkaline,100,50,55,7.5,900,20,wheat,Urea
+Alkaline,105,50,55,7.5,900,20,wheat,Urea
+Alkaline,110,50,55,7.5,900,20,wheat,Urea
+Alkaline,115,50,55,7.5,900,20,wheat,Urea
+Alkaline,120,50,55,7.5,900,20,wheat,Urea
+Alkaline,100,55,60,6.0,800,25,wheat,Urea
+Alkaline,105,55,60,6.0,800,25,wheat,Urea
+Alkaline,110,55,60,6.0,800,25,wheat,Urea
+Alkaline,115,55,60,6.0,800,25,wheat,Urea
+Alkaline,120,55,60,6.0,800,25,wheat,Urea
+Alkaline,100,60,40,6.5,900,15,wheat,Urea
+Alkaline,105,60,40,6.5,900,15,wheat,Urea
+Alkaline,110,60,40,6.5,900,15,wheat,Urea
+Alkaline,115,60,40,6.5,900,15,wheat,Urea
+Alkaline,120,60,40,6.5,900,15,wheat,Urea
+Alkaline,100,40,50,7.0,800,15,wheat,19:19:19 NPK
+Alkaline,105,40,50,7.0,800,15,wheat,19:19:19 NPK
+Alkaline,110,40,50,7.0,800,15,wheat,19:19:19 NPK
+Alkaline,115,40,50,7.0,800,15,wheat,19:19:19 NPK
+Alkaline,120,40,50,7.0,800,15,wheat,19:19:19 NPK
+Alkaline,100,45,55,7.5,900,20,wheat,19:19:19 NPK
+Alkaline,105,45,55,7.5,900,20,wheat,19:19:19 NPK
+Alkaline,110,45,55,7.5,900,20,wheat,19:19:19 NPK
+Alkaline,115,45,55,7.5,900,20,wheat,19:19:19 NPK
+Alkaline,120,45,55,7.5,900,20,wheat,19:19:19 NPK
+Alkaline,100,50,60,6.0,800,25,wheat,19:19:19 NPK
+Alkaline,105,50,60,6.0,800,25,wheat,19:19:19 NPK
+Alkaline,110,50,60,6.0,800,25,wheat,19:19:19 NPK
+Alkaline,115,50,60,6.0,800,25,wheat,19:19:19 NPK
+Alkaline,120,50,60,6.0,800,25,wheat,19:19:19 NPK
+Alkaline,100,55,40,6.5,900,15,wheat,19:19:19 NPK
+Alkaline,105,55,40,6.5,900,15,wheat,19:19:19 NPK
+Alkaline,110,55,40,6.5,900,15,wheat,19:19:19 NPK
+Alkaline,115,55,40,6.5,900,15,wheat,19:19:19 NPK
+Alkaline,120,55,40,6.5,900,15,wheat,19:19:19 NPK
+Alkaline,100,60,45,7.0,800,20,wheat,19:19:19 NPK
+Alkaline,105,60,45,7.0,800,20,wheat,19:19:19 NPK
+Alkaline,110,60,45,7.0,800,20,wheat,19:19:19 NPK
+Alkaline,115,60,45,7.0,800,20,wheat,19:19:19 NPK
+Alkaline,120,60,45,7.0,800,20,wheat,19:19:19 NPK
+Alkaline,100,40,55,7.5,900,25,wheat,Urea
+Alkaline,105,40,55,7.5,900,25,wheat,Urea
+Alkaline,110,40,55,7.5,900,25,wheat,Urea
+Alkaline,115,40,55,7.5,900,25,wheat,Urea
+Alkaline,120,40,55,7.5,900,25,wheat,Urea
+Alkaline,100,45,60,6.0,800,15,wheat,Urea
+Alkaline,105,45,60,6.0,800,15,wheat,Urea
+Alkaline,110,45,60,6.0,800,15,wheat,Urea
+Alkaline,115,45,60,6.0,800,15,wheat,Urea
+Alkaline,120,45,60,6.0,800,15,wheat,Urea
+Alkaline,100,50,40,6.5,900,20,wheat,Urea
+Alkaline,105,50,40,6.5,900,20,wheat,Urea
+Alkaline,110,50,40,6.5,900,20,wheat,Urea
+Alkaline,115,50,40,6.5,900,20,wheat,Urea
+Alkaline,120,50,40,6.5,900,20,wheat,Urea
+Alkaline,100,55,45,7.0,800,25,wheat,Urea
+Alkaline,105,55,45,7.0,800,25,wheat,Urea
+Alkaline,110,55,45,7.0,800,25,wheat,Urea
+Alkaline,115,55,45,7.0,800,25,wheat,Urea
+Alkaline,120,55,45,7.0,800,25,wheat,Urea
+Alkaline,100,60,50,7.5,900,15,wheat,Urea
+Alkaline,105,60,50,7.5,900,15,wheat,Urea
+Alkaline,110,60,50,7.5,900,15,wheat,Urea
+Alkaline,115,60,50,7.5,900,15,wheat,Urea
+Alkaline,120,60,50,7.5,900,15,wheat,Urea
+Alkaline,100,40,60,6.0,800,15,wheat,19:19:19 NPK
+Alkaline,105,40,60,6.0,800,15,wheat,19:19:19 NPK
+Alkaline,110,40,60,6.0,800,15,wheat,19:19:19 NPK
+Alkaline,115,40,60,6.0,800,15,wheat,19:19:19 NPK
+Alkaline,120,40,60,6.0,800,15,wheat,19:19:19 NPK
+Alkaline,100,45,40,6.5,900,20,wheat,19:19:19 NPK
+Alkaline,105,45,40,6.5,900,20,wheat,19:19:19 NPK
+Alkaline,110,45,40,6.5,900,20,wheat,19:19:19 NPK
+Alkaline,115,45,40,6.5,900,20,wheat,19:19:19 NPK
+Alkaline,120,45,40,6.5,900,20,wheat,19:19:19 NPK
+Alkaline,100,50,45,7.0,800,25,wheat,19:19:19 NPK
+Alkaline,105,50,45,7.0,800,25,wheat,19:19:19 NPK
+Alkaline,110,50,45,7.0,800,25,wheat,19:19:19 NPK
+Alkaline,115,50,45,7.0,800,25,wheat,19:19:19 NPK
+Alkaline,120,50,45,7.0,800,25,wheat,19:19:19 NPK
+Alkaline,100,55,50,7.5,900,15,wheat,19:19:19 NPK
+Alkaline,105,55,50,7.5,900,15,wheat,19:19:19 NPK
+Alkaline,110,55,50,7.5,900,15,wheat,19:19:19 NPK
+Alkaline,115,55,50,7.5,900,15,wheat,19:19:19 NPK
+Alkaline,120,55,50,7.5,900,15,wheat,19:19:19 NPK
+Alkaline,100,60,55,6.0,800,20,wheat,19:19:19 NPK
+Alkaline,105,60,55,6.0,800,20,wheat,19:19:19 NPK
+Alkaline,110,60,55,6.0,800,20,wheat,19:19:19 NPK
+Alkaline,115,60,55,6.0,800,20,wheat,19:19:19 NPK
+Alkaline,120,60,55,6.0,800,20,wheat,19:19:19 NPK
+Acidic,60,40,40,6.0,800,25,millet,10:26:26 NPK
+Acidic,65,40,40,6.0,800,25,millet,10:26:26 NPK
+Acidic,70,40,40,6.0,800,25,millet,10:26:26 NPK
+Acidic,75,40,40,6.0,800,25,millet,10:26:26 NPK
+Acidic,80,40,40,6.0,800,25,millet,10:26:26 NPK
+Acidic,60,45,45,6.5,900,30,millet,10:26:26 NPK
+Acidic,65,45,45,6.5,900,30,millet,10:26:26 NPK
+Acidic,70,45,45,6.5,900,30,millet,10:26:26 NPK
+Acidic,75,45,45,6.5,900,30,millet,10:26:26 NPK
+Acidic,80,45,45,6.5,900,30,millet,10:26:26 NPK
+Acidic,60,50,50,7.0,800,25,millet,10:26:26 NPK
+Acidic,65,50,50,7.0,800,25,millet,10:26:26 NPK
+Acidic,70,50,50,7.0,800,25,millet,10:26:26 NPK
+Acidic,75,50,50,7.0,800,25,millet,10:26:26 NPK
+Acidic,80,50,50,7.0,800,25,millet,10:26:26 NPK
+Acidic,60,55,55,7.5,900,30,millet,10:26:26 NPK
+Acidic,65,55,55,7.5,900,30,millet,10:26:26 NPK
+Acidic,70,55,55,7.5,900,30,millet,10:26:26 NPK
+Acidic,75,55,55,7.5,900,30,millet,10:26:26 NPK
+Acidic,80,55,55,7.5,900,30,millet,10:26:26 NPK
+Acidic,60,60,60,6.0,800,25,millet,10:26:26 NPK
+Acidic,65,60,60,6.0,800,25,millet,10:26:26 NPK
+Acidic,70,60,60,6.0,800,25,millet,10:26:26 NPK
+Acidic,75,60,60,6.0,800,25,millet,10:26:26 NPK
+Acidic,80,60,60,6.0,800,25,millet,10:26:26 NPK
+Acidic,60,40,45,6.5,900,30,millet,Urea
+Acidic,65,40,45,6.5,900,30,millet,Urea
+Acidic,70,40,45,6.5,900,30,millet,Urea
+Acidic,75,40,45,6.5,900,30,millet,Urea
+Acidic,80,40,45,6.5,900,30,millet,Urea
+Acidic,60,45,50,7.0,800,25,millet,Urea
+Acidic,65,45,50,7.0,800,25,millet,Urea
+Acidic,70,45,50,7.0,800,25,millet,Urea
+Acidic,75,45,50,7.0,800,25,millet,Urea
+Acidic,80,45,50,7.0,800,25,millet,Urea
+Acidic,60,50,55,7.5,900,30,millet,Urea
+Acidic,65,50,55,7.5,900,30,millet,Urea
+Acidic,70,50,55,7.5,900,30,millet,Urea
+Acidic,75,50,55,7.5,900,30,millet,Urea
+Acidic,80,50,55,7.5,900,30,millet,Urea
+Acidic,60,55,60,6.0,800,25,millet,Urea
+Acidic,65,55,60,6.0,800,25,millet,Urea
+Acidic,70,55,60,6.0,800,25,millet,Urea
+Acidic,75,55,60,6.0,800,25,millet,Urea
+Acidic,80,55,60,6.0,800,25,millet,Urea
+Acidic,60,60,40,6.5,900,30,millet,Urea
+Acidic,65,60,40,6.5,900,30,millet,Urea
+Acidic,70,60,40,6.5,900,30,millet,Urea
+Acidic,75,60,40,6.5,900,30,millet,Urea
+Acidic,80,60,40,6.5,900,30,millet,Urea
+Acidic,60,40,50,7.0,800,25,millet,SSP
+Acidic,65,40,50,7.0,800,25,millet,SSP
+Acidic,70,40,50,7.0,800,25,millet,SSP
+Acidic,75,40,50,7.0,800,25,millet,SSP
+Acidic,80,40,50,7.0,800,25,millet,SSP
+Acidic,60,45,55,7.5,900,30,millet,SSP
+Acidic,65,45,55,7.5,900,30,millet,SSP
+Acidic,70,45,55,7.5,900,30,millet,SSP
+Acidic,75,45,55,7.5,900,30,millet,SSP
+Acidic,80,45,55,7.5,900,30,millet,SSP
+Acidic,60,50,60,6.0,800,25,millet,SSP
+Acidic,65,50,60,6.0,800,25,millet,SSP
+Acidic,70,50,60,6.0,800,25,millet,SSP
+Acidic,75,50,60,6.0,800,25,millet,SSP
+Acidic,80,50,60,6.0,800,25,millet,SSP
+Acidic,60,55,40,6.5,900,30,millet,SSP
+Acidic,65,55,40,6.5,900,30,millet,SSP
+Acidic,70,55,40,6.5,900,30,millet,SSP
+Acidic,75,55,40,6.5,900,30,millet,SSP
+Acidic,80,55,40,6.5,900,30,millet,SSP
+Acidic,60,60,45,7.0,800,25,millet,SSP
+Acidic,65,60,45,7.0,800,25,millet,SSP
+Acidic,70,60,45,7.0,800,25,millet,SSP
+Acidic,75,60,45,7.0,800,25,millet,SSP
+Acidic,80,60,45,7.0,800,25,millet,SSP
+Acidic,60,40,55,7.5,900,30,millet,10:26:26 NPK
+Acidic,65,40,55,7.5,900,30,millet,10:26:26 NPK
+Acidic,70,40,55,7.5,900,30,millet,10:26:26 NPK
+Acidic,75,40,55,7.5,900,30,millet,10:26:26 NPK
+Acidic,80,40,55,7.5,900,30,millet,10:26:26 NPK
+Acidic,60,45,60,6.0,800,25,millet,10:26:26 NPK
+Acidic,65,45,60,6.0,800,25,millet,10:26:26 NPK
+Acidic,70,45,60,6.0,800,25,millet,10:26:26 NPK
+Acidic,75,45,60,6.0,800,25,millet,10:26:26 NPK
+Acidic,80,45,60,6.0,800,25,millet,10:26:26 NPK
+Acidic,60,50,40,6.5,900,30,millet,10:26:26 NPK
+Acidic,65,50,40,6.5,900,30,millet,10:26:26 NPK
+Acidic,70,50,40,6.5,900,30,millet,10:26:26 NPK
+Acidic,75,50,40,6.5,900,30,millet,10:26:26 NPK
+Acidic,80,50,40,6.5,900,30,millet,10:26:26 NPK
+Acidic,60,55,45,7.0,800,25,millet,10:26:26 NPK
+Acidic,65,55,45,7.0,800,25,millet,10:26:26 NPK
+Acidic,70,55,45,7.0,800,25,millet,10:26:26 NPK
+Acidic,75,55,45,7.0,800,25,millet,10:26:26 NPK
+Acidic,80,55,45,7.0,800,25,millet,10:26:26 NPK
+Acidic,60,60,50,7.5,900,30,millet,10:26:26 NPK
+Acidic,65,60,50,7.5,900,30,millet,10:26:26 NPK
+Acidic,70,60,50,7.5,900,30,millet,10:26:26 NPK
+Acidic,75,60,50,7.5,900,30,millet,10:26:26 NPK
+Acidic,80,60,50,7.5,900,30,millet,10:26:26 NPK
+Acidic,60,40,60,6.0,800,25,millet,Urea
+Acidic,65,40,60,6.0,800,25,millet,Urea
+Acidic,70,40,60,6.0,800,25,millet,Urea
+Acidic,75,40,60,6.0,800,25,millet,Urea
+Acidic,80,40,60,6.0,800,25,millet,Urea
+Acidic,60,45,40,6.5,900,30,millet,Urea
+Acidic,65,45,40,6.5,900,30,millet,Urea
+Acidic,70,45,40,6.5,900,30,millet,Urea
+Acidic,75,45,40,6.5,900,30,millet,Urea
+Acidic,80,45,40,6.5,900,30,millet,Urea
+Acidic,60,50,45,7.0,800,25,millet,Urea
+Acidic,65,50,45,7.0,800,25,millet,Urea
+Acidic,70,50,45,7.0,800,25,millet,Urea
+Acidic,75,50,45,7.0,800,25,millet,Urea
+Acidic,80,50,45,7.0,800,25,millet,Urea
+Acidic,60,55,50,7.5,900,30,millet,Urea
+Acidic,65,55,50,7.5,900,30,millet,Urea
+Acidic,70,55,50,7.5,900,30,millet,Urea
+Acidic,75,55,50,7.5,900,30,millet,Urea
+Acidic,80,55,50,7.5,900,30,millet,Urea
+Acidic,60,60,45,6.0,800,25,millet,Urea
+Acidic,65,60,45,6.0,800,25,millet,Urea
+Acidic,70,60,45,6.0,800,25,millet,Urea
+Acidic,75,60,45,6.0,800,25,millet,Urea
+Acidic,80,60,45,6.0,800,25,millet,Urea
+Neutral,20,40,20,6.0,800,25,groundnut,Chilated Micronutrient
+Neutral,25,40,20,6.0,800,25,groundnut,Chilated Micronutrient
+Neutral,30,40,20,6.0,800,25,groundnut,Chilated Micronutrient
+Neutral,20,45,25,6.5,900,30,groundnut,Chilated Micronutrient
+Neutral,25,45,25,6.5,900,30,groundnut,Chilated Micronutrient
+Neutral,30,45,25,6.5,900,30,groundnut,Chilated Micronutrient
+Neutral,20,50,30,7.0,800,25,groundnut,Chilated Micronutrient
+Neutral,25,50,30,7.0,800,25,groundnut,Chilated Micronutrient
+Neutral,30,50,30,7.0,800,25,groundnut,Chilated Micronutrient
+Neutral,20,40,25,6.0,900,30,groundnut,SSP
+Neutral,25,40,25,6.0,900,30,groundnut,SSP
+Neutral,30,40,25,6.0,900,30,groundnut,SSP
+Neutral,20,45,30,6.5,800,25,groundnut,SSP
+Neutral,25,45,30,6.5,800,25,groundnut,SSP
+Neutral,30,45,30,6.5,800,25,groundnut,SSP
+Neutral,20,50,20,7.0,900,30,groundnut,SSP
+Neutral,25,50,20,7.0,900,30,groundnut,SSP
+Neutral,30,50,20,7.0,900,30,groundnut,SSP
+Neutral,20,40,30,6.0,800,25,groundnut,Chilated Micronutrient
+Neutral,25,40,30,6.0,800,25,groundnut,Chilated Micronutrient
+Neutral,30,40,30,6.0,800,25,groundnut,Chilated Micronutrient
+Neutral,20,45,20,6.5,900,30,groundnut,Chilated Micronutrient
+Neutral,25,45,20,6.5,900,30,groundnut,Chilated Micronutrient
+Neutral,30,45,20,6.5,900,30,groundnut,Chilated Micronutrient
+Neutral,20,50,25,7.0,800,25,groundnut,Chilated Micronutrient
+Neutral,25,50,25,7.0,800,25,groundnut,Chilated Micronutrient
+Neutral,30,50,25,7.0,800,25,groundnut,Chilated Micronutrient
+Alkaline,100,20,45,6.0,700,25,cotton,Magnesium Sulphate
+Alkaline,105,20,45,6.0,700,25,cotton,Magnesium Sulphate
+Alkaline,110,20,45,6.0,700,25,cotton,Magnesium Sulphate
+Alkaline,115,20,45,6.0,700,25,cotton,Magnesium Sulphate
+Alkaline,120,20,45,6.0,700,25,cotton,Magnesium Sulphate
+Alkaline,100,25,50,6.5,800,30,cotton,Magnesium Sulphate
+Alkaline,105,25,50,6.5,800,30,cotton,Magnesium Sulphate
+Alkaline,110,25,50,6.5,800,30,cotton,Magnesium Sulphate
+Alkaline,115,25,50,6.5,800,30,cotton,Magnesium Sulphate
+Alkaline,120,25,50,6.5,800,30,cotton,Magnesium Sulphate
+Alkaline,100,30,55,7.0,900,35,cotton,Magnesium Sulphate
+Alkaline,105,30,55,7.0,900,35,cotton,Magnesium Sulphate
+Alkaline,110,30,55,7.0,900,35,cotton,Magnesium Sulphate
+Alkaline,115,30,55,7.0,900,35,cotton,Magnesium Sulphate
+Alkaline,120,30,55,7.0,900,35,cotton,Magnesium Sulphate
+Alkaline,100,20,50,7.5,1000,25,cotton,12:32:16 NPK
+Alkaline,105,20,50,7.5,1000,25,cotton,12:32:16 NPK
+Alkaline,110,20,50,7.5,1000,25,cotton,12:32:16 NPK
+Alkaline,115,20,50,7.5,1000,25,cotton,12:32:16 NPK
+Alkaline,120,20,50,7.5,1000,25,cotton,12:32:16 NPK
+Alkaline,100,25,55,6.0,700,30,cotton,12:32:16 NPK
+Alkaline,105,25,55,6.0,700,30,cotton,12:32:16 NPK
+Alkaline,110,25,55,6.0,700,30,cotton,12:32:16 NPK
+Alkaline,115,25,55,6.0,700,30,cotton,12:32:16 NPK
+Alkaline,120,25,55,6.0,700,30,cotton,12:32:16 NPK
+Alkaline,100,30,45,6.5,800,35,cotton,12:32:16 NPK
+Alkaline,105,30,45,6.5,800,35,cotton,12:32:16 NPK
+Alkaline,110,30,45,6.5,800,35,cotton,12:32:16 NPK
+Alkaline,115,30,45,6.5,800,35,cotton,12:32:16 NPK
+Alkaline,120,30,45,6.5,800,35,cotton,12:32:16 NPK
+Alkaline,100,20,55,7.0,900,25,cotton,DAP
+Alkaline,105,20,55,7.0,900,25,cotton,DAP
+Alkaline,110,20,55,7.0,900,25,cotton,DAP
+Alkaline,115,20,55,7.0,900,25,cotton,DAP
+Alkaline,120,20,55,7.0,900,25,cotton,DAP
+Alkaline,100,25,45,7.5,1000,30,cotton,DAP
+Alkaline,105,25,45,7.5,1000,30,cotton,DAP
+Alkaline,110,25,45,7.5,1000,30,cotton,DAP
+Alkaline,115,25,45,7.5,1000,30,cotton,DAP
+Alkaline,120,25,45,7.5,1000,30,cotton,DAP
+Alkaline,100,30,50,6.0,700,35,cotton,DAP
+Alkaline,105,30,50,6.0,700,35,cotton,DAP
+Alkaline,110,30,50,6.0,700,35,cotton,DAP
+Alkaline,115,30,50,6.0,700,35,cotton,DAP
+Alkaline,120,30,50,6.0,700,35,cotton,DAP
+Acidic,30,40,20,6.0,600,25,pigeonpeas,Urea
+Acidic,35,40,20,6.0,600,25,pigeonpeas,Urea
+Acidic,40,40,20,6.0,600,25,pigeonpeas,Urea
+Acidic,30,45,25,6.5,700,30,pigeonpeas,Urea
+Acidic,35,45,25,6.5,700,30,pigeonpeas,Urea
+Acidic,40,45,25,6.5,700,30,pigeonpeas,Urea
+Acidic,30,50,30,7.0,800,35,pigeonpeas,Urea
+Acidic,35,50,30,7.0,800,35,pigeonpeas,Urea
+Acidic,40,50,30,7.0,800,35,pigeonpeas,Urea
+Acidic,30,55,20,6.0,600,25,pigeonpeas,Urea
+Acidic,35,55,20,6.0,600,25,pigeonpeas,Urea
+Acidic,40,55,20,6.0,600,25,pigeonpeas,Urea
+Acidic,30,60,25,6.5,700,30,pigeonpeas,Urea
+Acidic,35,60,25,6.5,700,30,pigeonpeas,Urea
+Acidic,40,60,25,6.5,700,30,pigeonpeas,Urea
+Acidic,30,40,30,7.0,800,35,pigeonpeas,MOP
+Acidic,35,40,30,7.0,800,35,pigeonpeas,MOP
+Acidic,40,40,30,7.0,800,35,pigeonpeas,MOP
+Acidic,30,45,20,6.0,600,25,pigeonpeas,MOP
+Acidic,35,45,20,6.0,600,25,pigeonpeas,MOP
+Acidic,40,45,20,6.0,600,25,pigeonpeas,MOP
+Acidic,30,50,25,6.5,700,30,pigeonpeas,MOP
+Acidic,35,50,25,6.5,700,30,pigeonpeas,MOP
+Acidic,40,50,25,6.5,700,30,pigeonpeas,MOP
+Acidic,30,55,30,7.0,800,35,pigeonpeas,MOP
+Acidic,35,55,30,7.0,800,35,pigeonpeas,MOP
+Acidic,40,55,30,7.0,800,35,pigeonpeas,MOP
+Acidic,30,60,20,6.0,600,25,pigeonpeas,MOP
+Acidic,35,60,20,6.0,600,25,pigeonpeas,MOP
+Acidic,40,60,20,6.0,600,25,pigeonpeas,MOP
+Acidic,30,40,25,6.5,700,30,pigeonpeas,SSP
+Acidic,35,40,25,6.5,700,30,pigeonpeas,SSP
+Acidic,40,40,25,6.5,700,30,pigeonpeas,SSP
+Acidic,30,45,30,7.0,800,35,pigeonpeas,SSP
+Acidic,35,45,30,7.0,800,35,pigeonpeas,SSP
+Acidic,40,45,30,7.0,800,35,pigeonpeas,SSP
+Acidic,30,50,20,6.0,600,25,pigeonpeas,SSP
+Acidic,35,50,20,6.0,600,25,pigeonpeas,SSP
+Acidic,40,50,20,6.0,600,25,pigeonpeas,SSP
+Acidic,30,55,25,6.5,700,30,pigeonpeas,SSP
+Acidic,35,55,25,6.5,700,30,pigeonpeas,SSP
+Acidic,40,55,25,6.5,700,30,pigeonpeas,SSP
+Acidic,30,60,30,7.0,800,35,pigeonpeas,SSP
+Acidic,35,60,30,7.0,800,35,pigeonpeas,SSP
+Acidic,40,60,30,7.0,800,35,pigeonpeas,SSP
+Alkaline,40,20,20,6.5,400,25,mungbean,MOP
+Alkaline,45,20,20,6.5,400,25,mungbean,MOP
+Alkaline,50,20,20,6.5,400,25,mungbean,MOP
+Alkaline,40,25,25,7.0,500,30,mungbean,MOP
+Alkaline,45,25,25,7.0,500,30,mungbean,MOP
+Alkaline,50,25,25,7.0,500,30,mungbean,MOP
+Alkaline,40,30,30,7.5,600,35,mungbean,MOP
+Alkaline,45,30,30,7.5,600,35,mungbean,MOP
+Alkaline,50,30,30,7.5,600,35,mungbean,MOP
+Alkaline,40,20,25,6.5,400,25,mungbean,Urea
+Alkaline,45,20,25,6.5,400,25,mungbean,Urea
+Alkaline,50,20,25,6.5,400,25,mungbean,Urea
+Alkaline,40,25,30,7.0,500,30,mungbean,Urea
+Alkaline,45,25,30,7.0,500,30,mungbean,Urea
+Alkaline,50,25,30,7.0,500,30,mungbean,Urea
+Alkaline,40,30,20,7.5,600,35,mungbean,Urea
+Alkaline,45,30,20,7.5,600,35,mungbean,Urea
+Alkaline,50,30,20,7.5,600,35,mungbean,Urea
+Alkaline,40,20,30,6.5,400,25,mungbean,SSP
+Alkaline,45,20,30,6.5,400,25,mungbean,SSP
+Alkaline,50,20,30,6.5,400,25,mungbean,SSP
+Alkaline,40,25,20,7.0,500,30,mungbean,SSP
+Alkaline,45,25,20,7.0,500,30,mungbean,SSP
+Alkaline,50,25,20,7.0,500,30,mungbean,SSP
+Alkaline,40,30,25,7.5,600,35,mungbean,SSP
+Alkaline,45,30,25,7.5,600,35,mungbean,SSP
+Alkaline,50,30,25,7.5,600,35,mungbean,SSP
+Alkaline,100,50,50,5.5,700,35,paddy,Urea
+Alkaline,105,50,50,5.5,700,35,paddy,Urea
+Alkaline,110,50,50,5.5,700,35,paddy,Urea
+Alkaline,115,50,50,5.5,700,35,paddy,Urea
+Alkaline,120,50,50,5.5,700,35,paddy,Urea
+Alkaline,100,55,55,6.0,800,40,paddy,Urea
+Alkaline,105,55,55,6.0,800,40,paddy,Urea
+Alkaline,110,55,55,6.0,800,40,paddy,Urea
+Alkaline,115,55,55,6.0,800,40,paddy,Urea
+Alkaline,120,55,55,6.0,800,40,paddy,Urea
+Alkaline,100,60,60,6.5,900,35,paddy,Urea
+Alkaline,105,60,60,6.5,900,35,paddy,Urea
+Alkaline,110,60,60,6.5,900,35,paddy,Urea
+Alkaline,115,60,60,6.5,900,35,paddy,Urea
+Alkaline,120,60,60,6.5,900,35,paddy,Urea
+Alkaline,100,50,55,5.5,700,40,paddy,50:26:26 NPK
+Alkaline,105,50,55,5.5,700,40,paddy,50:26:26 NPK
+Alkaline,110,50,55,5.5,700,40,paddy,50:26:26 NPK
+Alkaline,115,50,55,5.5,700,40,paddy,50:26:26 NPK
+Alkaline,120,50,55,5.5,700,40,paddy,50:26:26 NPK
+Alkaline,100,55,60,6.0,800,35,paddy,50:26:26 NPK
+Alkaline,105,55,60,6.0,800,35,paddy,50:26:26 NPK
+Alkaline,110,55,60,6.0,800,35,paddy,50:26:26 NPK
+Alkaline,115,55,60,6.0,800,35,paddy,50:26:26 NPK
+Alkaline,120,55,60,6.0,800,35,paddy,50:26:26 NPK
+Alkaline,100,60,50,6.5,900,40,paddy,50:26:26 NPK
+Alkaline,105,60,50,6.5,900,40,paddy,50:26:26 NPK
+Alkaline,110,60,50,6.5,900,40,paddy,50:26:26 NPK
+Alkaline,115,60,50,6.5,900,40,paddy,50:26:26 NPK
+Alkaline,120,60,50,6.5,900,40,paddy,50:26:26 NPK
+Alkaline,100,50,60,5.5,700,35,paddy,Urea
+Alkaline,105,50,60,5.5,700,35,paddy,Urea
+Alkaline,110,50,60,5.5,700,35,paddy,Urea
+Alkaline,115,50,60,5.5,700,35,paddy,Urea
+Alkaline,120,50,60,5.5,700,35,paddy,Urea
+Alkaline,100,55,50,6.0,800,40,paddy,Urea
+Alkaline,105,55,50,6.0,800,40,paddy,Urea
+Alkaline,110,55,50,6.0,800,40,paddy,Urea
+Alkaline,115,55,50,6.0,800,40,paddy,Urea
+Alkaline,120,55,50,6.0,800,40,paddy,Urea
+Alkaline,100,60,55,6.5,900,35,paddy,Urea
+Alkaline,105,60,55,6.5,900,35,paddy,Urea
+Alkaline,110,60,55,6.5,900,35,paddy,Urea
+Alkaline,115,60,55,6.5,900,35,paddy,Urea
+Alkaline,120,60,55,6.5,900,35,paddy,Urea
+Alkaline,50,30,30,6.0,700,25,millet,10:26:26 NPK
+Alkaline,55,30,30,6.0,700,25,millet,10:26:26 NPK
+Alkaline,60,30,30,6.0,700,25,millet,10:26:26 NPK
+Alkaline,65,30,30,6.0,700,25,millet,10:26:26 NPK
+Alkaline,70,30,30,6.0,700,25,millet,10:26:26 NPK
+Alkaline,50,35,35,6.5,800,30,millet,10:26:26 NPK
+Alkaline,55,35,35,6.5,800,30,millet,10:26:26 NPK
+Alkaline,60,35,35,6.5,800,30,millet,10:26:26 NPK
+Alkaline,65,35,35,6.5,800,30,millet,10:26:26 NPK
+Alkaline,70,35,35,6.5,800,30,millet,10:26:26 NPK
+Alkaline,50,40,40,7.0,900,35,millet,10:26:26 NPK
+Alkaline,55,40,40,7.0,900,35,millet,10:26:26 NPK
+Alkaline,60,40,40,7.0,900,35,millet,10:26:26 NPK
+Alkaline,65,40,40,7.0,900,35,millet,10:26:26 NPK
+Alkaline,70,40,40,7.0,900,35,millet,10:26:26 NPK
+Alkaline,50,30,35,6.0,700,25,millet,Urea
+Alkaline,55,30,35,6.0,700,25,millet,Urea
+Alkaline,60,30,35,6.0,700,25,millet,Urea
+Alkaline,65,30,35,6.0,700,25,millet,Urea
+Alkaline,70,30,35,6.0,700,25,millet,Urea
+Alkaline,50,35,40,6.5,800,30,millet,Urea
+Alkaline,55,35,40,6.5,800,30,millet,Urea
+Alkaline,60,35,40,6.5,800,30,millet,Urea
+Alkaline,65,35,40,6.5,800,30,millet,Urea
+Alkaline,70,35,40,6.5,800,30,millet,Urea
+Alkaline,50,40,30,7.0,900,35,millet,Urea
+Alkaline,55,40,30,7.0,900,35,millet,Urea
+Alkaline,60,40,30,7.0,900,35,millet,Urea
+Alkaline,65,40,30,7.0,900,35,millet,Urea
+Alkaline,70,40,30,7.0,900,35,millet,Urea
+Alkaline,50,30,40,6.0,700,25,millet,SSP
+Alkaline,55,30,40,6.0,700,25,millet,SSP
+Alkaline,60,30,40,6.0,700,25,millet,SSP
+Alkaline,65,30,40,6.0,700,25,millet,SSP
+Alkaline,70,30,40,6.0,700,25,millet,SSP
+Alkaline,50,35,30,6.5,800,30,millet,SSP
+Alkaline,55,35,30,6.5,800,30,millet,SSP
+Alkaline,60,35,30,6.5,800,30,millet,SSP
+Alkaline,65,35,30,6.5,800,30,millet,SSP
+Alkaline,70,35,30,6.5,800,30,millet,SSP
+Alkaline,50,40,35,7.0,900,35,millet,SSP
+Alkaline,55,40,35,7.0,900,35,millet,SSP
+Alkaline,60,40,35,7.0,900,35,millet,SSP
+Alkaline,65,40,35,7.0,900,35,millet,SSP
+Alkaline,70,40,35,7.0,900,35,millet,SSP
+Peaty,20,30,15,6.0,700,20,pigeonpeas,Urea
+Peaty,25,30,15,6.0,700,20,pigeonpeas,Urea
+Peaty,30,30,15,6.0,700,20,pigeonpeas,Urea
+Peaty,20,35,20,6.5,800,25,pigeonpeas,Urea
+Peaty,25,35,20,6.5,800,25,pigeonpeas,Urea
+Peaty,30,35,20,6.5,800,25,pigeonpeas,Urea
+Peaty,20,40,15,7.0,900,30,pigeonpeas,Urea
+Peaty,25,40,15,7.0,900,30,pigeonpeas,Urea
+Peaty,30,40,15,7.0,900,30,pigeonpeas,Urea
+Peaty,20,30,20,6.0,700,20,pigeonpeas,MOP
+Peaty,25,30,20,6.0,700,20,pigeonpeas,MOP
+Peaty,30,30,20,6.0,700,20,pigeonpeas,MOP
+Peaty,20,35,15,6.5,800,25,pigeonpeas,MOP
+Peaty,25,35,15,6.5,800,25,pigeonpeas,MOP
+Peaty,30,35,15,6.5,800,25,pigeonpeas,MOP
+Peaty,20,40,20,7.0,900,30,pigeonpeas,MOP
+Peaty,25,40,20,7.0,900,30,pigeonpeas,MOP
+Peaty,30,40,20,7.0,900,30,pigeonpeas,MOP
+Acidic,100,50,40,6.5,700,15,wheat,19:19:19 NPK
+Acidic,105,50,40,6.5,700,15,wheat,19:19:19 NPK
+Acidic,110,50,40,6.5,700,15,wheat,19:19:19 NPK
+Acidic,115,50,40,6.5,700,15,wheat,19:19:19 NPK
+Acidic,120,50,40,6.5,700,15,wheat,19:19:19 NPK
+Acidic,100,55,45,7.0,800,20,wheat,19:19:19 NPK
+Acidic,105,55,45,7.0,800,20,wheat,19:19:19 NPK
+Acidic,110,55,45,7.0,800,20,wheat,19:19:19 NPK
+Acidic,115,55,45,7.0,800,20,wheat,19:19:19 NPK
+Acidic,120,55,45,7.0,800,20,wheat,19:19:19 NPK
+Acidic,100,60,50,7.5,900,15,wheat,19:19:19 NPK
+Acidic,105,60,50,7.5,900,15,wheat,19:19:19 NPK
+Acidic,110,60,50,7.5,900,15,wheat,19:19:19 NPK
+Acidic,115,60,50,7.5,900,15,wheat,19:19:19 NPK
+Acidic,120,60,50,7.5,900,15,wheat,19:19:19 NPK
+Acidic,100,50,45,6.5,700,20,wheat,Urea
+Acidic,105,50,45,6.5,700,20,wheat,Urea
+Acidic,110,50,45,6.5,700,20,wheat,Urea
+Acidic,115,50,45,6.5,700,20,wheat,Urea
+Acidic,120,50,45,6.5,700,20,wheat,Urea
+Acidic,100,55,50,7.0,800,15,wheat,Urea
+Acidic,105,55,50,7.0,800,15,wheat,Urea
+Acidic,110,55,50,7.0,800,15,wheat,Urea
+Acidic,115,55,50,7.0,800,15,wheat,Urea
+Acidic,120,55,50,7.0,800,15,wheat,Urea
+Acidic,100,60,40,7.5,900,20,wheat,Urea
+Acidic,105,60,40,7.5,900,20,wheat,Urea
+Acidic,110,60,40,7.5,900,20,wheat,Urea
+Acidic,115,60,40,7.5,900,20,wheat,Urea
+Acidic,120,60,40,7.5,900,20,wheat,Urea
+Acidic,100,50,50,6.5,700,15,wheat,19:19:19 NPK
+Acidic,105,50,50,6.5,700,15,wheat,19:19:19 NPK
+Acidic,110,50,50,6.5,700,15,wheat,19:19:19 NPK
+Acidic,115,50,50,6.5,700,15,wheat,19:19:19 NPK
+Acidic,120,50,50,6.5,700,15,wheat,19:19:19 NPK
+Acidic,100,55,40,7.0,800,20,wheat,19:19:19 NPK
+Acidic,105,55,40,7.0,800,20,wheat,19:19:19 NPK
+Acidic,110,55,40,7.0,800,20,wheat,19:19:19 NPK
+Acidic,115,55,40,7.0,800,20,wheat,19:19:19 NPK
+Acidic,120,55,40,7.0,800,20,wheat,19:19:19 NPK
+Acidic,100,60,45,7.5,900,15,wheat,19:19:19 NPK
+Acidic,105,60,45,7.5,900,15,wheat,19:19:19 NPK
+Acidic,110,60,45,7.5,900,15,wheat,19:19:19 NPK
+Acidic,115,60,45,7.5,900,15,wheat,19:19:19 NPK
+Acidic,120,60,45,7.5,900,15,wheat,19:19:19 NPK
+Acidic,20,30,20,5.5,700,25,groundnut,Chilated Micronutrient
+Acidic,25,30,20,5.5,700,25,groundnut,Chilated Micronutrient
+Acidic,30,30,20,5.5,700,25,groundnut,Chilated Micronutrient
+Acidic,20,35,25,6.0,800,30,groundnut,Chilated Micronutrient
+Acidic,25,35,25,6.0,800,30,groundnut,Chilated Micronutrient
+Acidic,30,35,25,6.0,800,30,groundnut,Chilated Micronutrient
+Acidic,20,40,30,6.5,900,35,groundnut,Chilated Micronutrient
+Acidic,25,40,30,6.5,900,35,groundnut,Chilated Micronutrient
+Acidic,30,40,30,6.5,900,35,groundnut,Chilated Micronutrient
+Acidic,20,30,25,5.5,700,25,groundnut,SSP
+Acidic,25,30,25,5.5,700,25,groundnut,SSP
+Acidic,30,30,25,5.5,700,25,groundnut,SSP
+Acidic,20,35,30,6.0,800,30,groundnut,SSP
+Acidic,25,35,30,6.0,800,30,groundnut,SSP
+Acidic,30,35,30,6.0,800,30,groundnut,SSP
+Acidic,20,40,20,6.5,900,35,groundnut,SSP
+Acidic,25,40,20,6.5,900,35,groundnut,SSP
+Acidic,30,40,20,6.5,900,35,groundnut,SSP
+Acidic,20,30,30,5.5,700,25,groundnut,Chilated Micronutrient
+Acidic,25,30,30,5.5,700,25,groundnut,Chilated Micronutrient
+Acidic,30,30,30,5.5,700,25,groundnut,Chilated Micronutrient
+Acidic,20,35,20,6.0,800,30,groundnut,Chilated Micronutrient
+Acidic,25,35,20,6.0,800,30,groundnut,Chilated Micronutrient
+Acidic,30,35,20,6.0,800,30,groundnut,Chilated Micronutrient
+Acidic,20,40,25,6.5,900,35,groundnut,Chilated Micronutrient
+Acidic,25,40,25,6.5,900,35,groundnut,Chilated Micronutrient
+Acidic,30,40,25,6.5,900,35,groundnut,Chilated Micronutrient
+Alkaline,30,30,20,6.0,700,25,blackgram,Urea
+Alkaline,35,30,20,6.0,700,25,blackgram,Urea
+Alkaline,40,30,20,6.0,700,25,blackgram,Urea
+Alkaline,30,35,25,6.5,800,30,blackgram,Urea
+Alkaline,35,35,25,6.5,800,30,blackgram,Urea
+Alkaline,40,35,25,6.5,800,30,blackgram,Urea
+Alkaline,30,40,30,7.0,900,35,blackgram,Urea
+Alkaline,35,40,30,7.0,900,35,blackgram,Urea
+Alkaline,40,40,30,7.0,900,35,blackgram,Urea
+Alkaline,30,30,25,6.0,700,25,blackgram,SSP
+Alkaline,35,30,25,6.0,700,25,blackgram,SSP
+Alkaline,40,30,25,6.0,700,25,blackgram,SSP
+Alkaline,30,35,30,6.5,800,30,blackgram,SSP
+Alkaline,35,35,30,6.5,800,30,blackgram,SSP
+Alkaline,40,35,30,6.5,800,30,blackgram,SSP
+Alkaline,30,40,20,7.0,900,35,blackgram,SSP
+Alkaline,35,40,20,7.0,900,35,blackgram,SSP
+Alkaline,40,40,20,7.0,900,35,blackgram,SSP
+Alkaline,30,30,30,6.0,700,25,blackgram,DAP
+Alkaline,35,30,30,6.0,700,25,blackgram,DAP
+Alkaline,40,30,30,6.0,700,25,blackgram,DAP
+Alkaline,30,35,20,6.5,800,30,blackgram,DAP
+Alkaline,35,35,20,6.5,800,30,blackgram,DAP
+Alkaline,40,35,20,6.5,800,30,blackgram,DAP
+Alkaline,30,40,25,7.0,900,35,blackgram,DAP
+Alkaline,35,40,25,7.0,900,35,blackgram,DAP
+Alkaline,40,40,25,7.0,900,35,blackgram,DAP
+Alkaline,30,40,20,6.0,700,15,chickpea,DAP
+Alkaline,35,40,20,6.0,700,15,chickpea,DAP
+Alkaline,40,40,20,6.0,700,15,chickpea,DAP
+Alkaline,30,45,25,6.5,800,20,chickpea,DAP
+Alkaline,35,45,25,6.5,800,20,chickpea,DAP
+Alkaline,40,45,25,6.5,800,20,chickpea,DAP
+Alkaline,30,50,30,7.0,900,15,chickpea,DAP
+Alkaline,35,50,30,7.0,900,15,chickpea,DAP
+Alkaline,40,50,30,7.0,900,15,chickpea,DAP
+Alkaline,30,40,25,7.5,700,20,chickpea,MOP
+Alkaline,35,40,25,7.5,700,20,chickpea,MOP
+Alkaline,40,40,25,7.5,700,20,chickpea,MOP
+Alkaline,30,45,30,6.0,800,15,chickpea,MOP
+Alkaline,35,45,30,6.0,800,15,chickpea,MOP
+Alkaline,40,45,30,6.0,800,15,chickpea,MOP
+Alkaline,30,50,20,6.5,900,20,chickpea,MOP
+Alkaline,35,50,20,6.5,900,20,chickpea,MOP
+Alkaline,40,50,20,6.5,900,20,chickpea,MOP
+Alkaline,30,40,30,7.0,700,15,chickpea,DAP
+Alkaline,35,40,30,7.0,700,15,chickpea,DAP
+Alkaline,40,40,30,7.0,700,15,chickpea,DAP
+Alkaline,30,45,20,7.5,800,20,chickpea,DAP
+Alkaline,35,45,20,7.5,800,20,chickpea,DAP
+Alkaline,40,45,20,7.5,800,20,chickpea,DAP
+Alkaline,30,50,25,6.0,900,15,chickpea,DAP
+Alkaline,35,50,25,6.0,900,15,chickpea,DAP
+Alkaline,40,50,25,6.0,900,15,chickpea,DAP
+Alkaline,120,60,120,6.5,1000,20,sugarcane,MOP
+Alkaline,125,60,120,6.5,1000,20,sugarcane,MOP
+Alkaline,130,60,120,6.5,1000,20,sugarcane,MOP
+Alkaline,135,60,120,6.5,1000,20,sugarcane,MOP
+Alkaline,140,60,120,6.5,1000,20,sugarcane,MOP
+Alkaline,145,60,120,6.5,1000,20,sugarcane,MOP
+Alkaline,150,60,120,6.5,1000,20,sugarcane,MOP
+Alkaline,120,65,125,7.0,1100,25,sugarcane,MOP
+Alkaline,125,65,125,7.0,1100,25,sugarcane,MOP
+Alkaline,130,65,125,7.0,1100,25,sugarcane,MOP
+Alkaline,135,65,125,7.0,1100,25,sugarcane,MOP
+Alkaline,140,65,125,7.0,1100,25,sugarcane,MOP
+Alkaline,145,65,125,7.0,1100,25,sugarcane,MOP
+Alkaline,150,65,125,7.0,1100,25,sugarcane,MOP
+Alkaline,120,70,130,7.5,1200,30,sugarcane,MOP
+Alkaline,125,70,130,7.5,1200,30,sugarcane,MOP
+Alkaline,130,70,130,7.5,1200,30,sugarcane,MOP
+Alkaline,135,70,130,7.5,1200,30,sugarcane,MOP
+Alkaline,140,70,130,7.5,1200,30,sugarcane,MOP
+Alkaline,145,70,130,7.5,1200,30,sugarcane,MOP
+Alkaline,150,70,130,7.5,1200,30,sugarcane,MOP
+Alkaline,120,75,135,6.5,1300,35,sugarcane,MOP
+Alkaline,125,75,135,6.5,1300,35,sugarcane,MOP
+Alkaline,130,75,135,6.5,1300,35,sugarcane,MOP
+Alkaline,135,75,135,6.5,1300,35,sugarcane,MOP
+Alkaline,140,75,135,6.5,1300,35,sugarcane,MOP
+Alkaline,145,75,135,6.5,1300,35,sugarcane,MOP
+Alkaline,150,75,135,6.5,1300,35,sugarcane,MOP
+Alkaline,120,80,140,7.0,1400,20,sugarcane,MOP
+Alkaline,125,80,140,7.0,1400,20,sugarcane,MOP
+Alkaline,130,80,140,7.0,1400,20,sugarcane,MOP
+Alkaline,135,80,140,7.0,1400,20,sugarcane,MOP
+Alkaline,140,80,140,7.0,1400,20,sugarcane,MOP
+Alkaline,145,80,140,7.0,1400,20,sugarcane,MOP
+Alkaline,150,80,140,7.0,1400,20,sugarcane,MOP
+Alkaline,120,60,145,7.5,1500,25,sugarcane,Urea
+Alkaline,125,60,145,7.5,1500,25,sugarcane,Urea
+Alkaline,130,60,145,7.5,1500,25,sugarcane,Urea
+Alkaline,135,60,145,7.5,1500,25,sugarcane,Urea
+Alkaline,140,60,145,7.5,1500,25,sugarcane,Urea
+Alkaline,145,60,145,7.5,1500,25,sugarcane,Urea
+Alkaline,150,60,145,7.5,1500,25,sugarcane,Urea
+Alkaline,120,65,150,6.5,1000,30,sugarcane,Urea
+Alkaline,125,65,150,6.5,1000,30,sugarcane,Urea
+Alkaline,130,65,150,6.5,1000,30,sugarcane,Urea
+Alkaline,135,65,150,6.5,1000,30,sugarcane,Urea
+Alkaline,140,65,150,6.5,1000,30,sugarcane,Urea
+Alkaline,145,65,150,6.5,1000,30,sugarcane,Urea
+Alkaline,150,65,150,6.5,1000,30,sugarcane,Urea
+Alkaline,120,70,120,7.0,1100,35,sugarcane,Urea
+Alkaline,125,70,120,7.0,1100,35,sugarcane,Urea
+Alkaline,130,70,120,7.0,1100,35,sugarcane,Urea
+Alkaline,135,70,120,7.0,1100,35,sugarcane,Urea
+Alkaline,140,70,120,7.0,1100,35,sugarcane,Urea
+Alkaline,145,70,120,7.0,1100,35,sugarcane,Urea
+Alkaline,150,70,120,7.0,1100,35,sugarcane,Urea
+Alkaline,120,75,125,7.5,1200,20,sugarcane,Urea
+Alkaline,125,75,125,7.5,1200,20,sugarcane,Urea
+Alkaline,130,75,125,7.5,1200,20,sugarcane,Urea
+Alkaline,135,75,125,7.5,1200,20,sugarcane,Urea
+Alkaline,140,75,125,7.5,1200,20,sugarcane,Urea
+Alkaline,145,75,125,7.5,1200,20,sugarcane,Urea
+Alkaline,150,75,125,7.5,1200,20,sugarcane,Urea
+Alkaline,120,80,130,6.5,1300,25,sugarcane,Urea
+Alkaline,125,80,130,6.5,1300,25,sugarcane,Urea
+Alkaline,130,80,130,6.5,1300,25,sugarcane,Urea
+Alkaline,135,80,130,6.5,1300,25,sugarcane,Urea
+Alkaline,140,80,130,6.5,1300,25,sugarcane,Urea
+Alkaline,145,80,130,6.5,1300,25,sugarcane,Urea
+Alkaline,150,80,130,6.5,1300,25,sugarcane,Urea
+Alkaline,120,60,135,7.0,1400,30,sugarcane,DAP
+Alkaline,125,60,135,7.0,1400,30,sugarcane,DAP
+Alkaline,130,60,135,7.0,1400,30,sugarcane,DAP
+Alkaline,135,60,135,7.0,1400,30,sugarcane,DAP
+Alkaline,140,60,135,7.0,1400,30,sugarcane,DAP
+Alkaline,145,60,135,7.0,1400,30,sugarcane,DAP
+Alkaline,150,60,135,7.0,1400,30,sugarcane,DAP
+Alkaline,120,65,140,7.5,1500,35,sugarcane,DAP
+Alkaline,125,65,140,7.5,1500,35,sugarcane,DAP
+Alkaline,130,65,140,7.5,1500,35,sugarcane,DAP
+Alkaline,135,65,140,7.5,1500,35,sugarcane,DAP
+Alkaline,140,65,140,7.5,1500,35,sugarcane,DAP
+Alkaline,145,65,140,7.5,1500,35,sugarcane,DAP
+Alkaline,150,65,140,7.5,1500,35,sugarcane,DAP
+Alkaline,120,70,145,6.5,1000,20,sugarcane,DAP
+Alkaline,125,70,145,6.5,1000,20,sugarcane,DAP
+Alkaline,130,70,145,6.5,1000,20,sugarcane,DAP
+Alkaline,135,70,145,6.5,1000,20,sugarcane,DAP
+Alkaline,140,70,145,6.5,1000,20,sugarcane,DAP
+Alkaline,145,70,145,6.5,1000,20,sugarcane,DAP
+Alkaline,150,70,145,6.5,1000,20,sugarcane,DAP
+Alkaline,120,75,150,7.0,1100,25,sugarcane,DAP
+Alkaline,125,75,150,7.0,1100,25,sugarcane,DAP
+Alkaline,130,75,150,7.0,1100,25,sugarcane,DAP
+Alkaline,135,75,150,7.0,1100,25,sugarcane,DAP
+Alkaline,140,75,150,7.0,1100,25,sugarcane,DAP
+Alkaline,145,75,150,7.0,1100,25,sugarcane,DAP
+Alkaline,150,75,150,7.0,1100,25,sugarcane,DAP
+Alkaline,120,80,120,7.5,1200,30,sugarcane,DAP
+Alkaline,125,80,120,7.5,1200,30,sugarcane,DAP
+Alkaline,130,80,120,7.5,1200,30,sugarcane,DAP
+Alkaline,135,80,120,7.5,1200,30,sugarcane,DAP
+Alkaline,140,80,120,7.5,1200,30,sugarcane,DAP
+Alkaline,145,80,120,7.5,1200,30,sugarcane,DAP
+Alkaline,150,80,120,7.5,1200,30,sugarcane,DAP
+Alkaline,120,60,125,6.5,1300,35,sugarcane,MOP
+Alkaline,125,60,125,6.5,1300,35,sugarcane,MOP
+Alkaline,130,60,125,6.5,1300,35,sugarcane,MOP
+Alkaline,135,60,125,6.5,1300,35,sugarcane,MOP
+Alkaline,140,60,125,6.5,1300,35,sugarcane,MOP
+Alkaline,145,60,125,6.5,1300,35,sugarcane,MOP
+Alkaline,150,60,125,6.5,1300,35,sugarcane,MOP
+Alkaline,120,65,130,7.0,1400,20,sugarcane,MOP
+Alkaline,125,65,130,7.0,1400,20,sugarcane,MOP
+Alkaline,130,65,130,7.0,1400,20,sugarcane,MOP
+Alkaline,135,65,130,7.0,1400,20,sugarcane,MOP
+Alkaline,140,65,130,7.0,1400,20,sugarcane,MOP
+Alkaline,145,65,130,7.0,1400,20,sugarcane,MOP
+Alkaline,150,65,130,7.0,1400,20,sugarcane,MOP
+Alkaline,120,70,135,7.5,1500,25,sugarcane,MOP
+Alkaline,125,70,135,7.5,1500,25,sugarcane,MOP
+Alkaline,130,70,135,7.5,1500,25,sugarcane,MOP
+Alkaline,135,70,135,7.5,1500,25,sugarcane,MOP
+Alkaline,140,70,135,7.5,1500,25,sugarcane,MOP
+Alkaline,145,70,135,7.5,1500,25,sugarcane,MOP
+Alkaline,150,70,135,7.5,1500,25,sugarcane,MOP
+Alkaline,120,75,140,6.5,1000,30,sugarcane,MOP
+Alkaline,125,75,140,6.5,1000,30,sugarcane,MOP
+Alkaline,130,75,140,6.5,1000,30,sugarcane,MOP
+Alkaline,135,75,140,6.5,1000,30,sugarcane,MOP
+Alkaline,140,75,140,6.5,1000,30,sugarcane,MOP
+Alkaline,145,75,140,6.5,1000,30,sugarcane,MOP
+Alkaline,150,75,140,6.5,1000,30,sugarcane,MOP
+Alkaline,120,80,145,7.0,1100,35,sugarcane,MOP
+Alkaline,125,80,145,7.0,1100,35,sugarcane,MOP
+Alkaline,130,80,145,7.0,1100,35,sugarcane,MOP
+Alkaline,135,80,145,7.0,1100,35,sugarcane,MOP
+Alkaline,140,80,145,7.0,1100,35,sugarcane,MOP
+Alkaline,145,80,145,7.0,1100,35,sugarcane,MOP
+Alkaline,150,80,145,7.0,1100,35,sugarcane,MOP
+Alkaline,120,60,150,7.5,1200,20,sugarcane,Urea
+Alkaline,125,60,150,7.5,1200,20,sugarcane,Urea
+Alkaline,130,60,150,7.5,1200,20,sugarcane,Urea
+Alkaline,135,60,150,7.5,1200,20,sugarcane,Urea
+Alkaline,140,60,150,7.5,1200,20,sugarcane,Urea
+Alkaline,145,60,150,7.5,1200,20,sugarcane,Urea
+Alkaline,150,60,150,7.5,1200,20,sugarcane,Urea
+Alkaline,120,65,120,6.5,1300,25,sugarcane,Urea
+Alkaline,125,65,120,6.5,1300,25,sugarcane,Urea
+Alkaline,130,65,120,6.5,1300,25,sugarcane,Urea
+Alkaline,135,65,120,6.5,1300,25,sugarcane,Urea
+Alkaline,140,65,120,6.5,1300,25,sugarcane,Urea
+Alkaline,145,65,120,6.5,1300,25,sugarcane,Urea
+Alkaline,150,65,120,6.5,1300,25,sugarcane,Urea
+Alkaline,120,70,125,7.0,1400,30,sugarcane,Urea
+Alkaline,125,70,125,7.0,1400,30,sugarcane,Urea
+Alkaline,130,70,125,7.0,1400,30,sugarcane,Urea
+Alkaline,135,70,125,7.0,1400,30,sugarcane,Urea
+Alkaline,140,70,125,7.0,1400,30,sugarcane,Urea
+Alkaline,145,70,125,7.0,1400,30,sugarcane,Urea
+Alkaline,150,70,125,7.0,1400,30,sugarcane,Urea
+Alkaline,120,75,130,7.5,1500,35,sugarcane,Urea
+Alkaline,125,75,130,7.5,1500,35,sugarcane,Urea
+Alkaline,130,75,130,7.5,1500,35,sugarcane,Urea
+Alkaline,135,75,130,7.5,1500,35,sugarcane,Urea
+Alkaline,140,75,130,7.5,1500,35,sugarcane,Urea
+Alkaline,145,75,130,7.5,1500,35,sugarcane,Urea
+Alkaline,150,75,130,7.5,1500,35,sugarcane,Urea
+Alkaline,120,80,135,6.5,1000,20,sugarcane,Urea
+Alkaline,125,80,135,6.5,1000,20,sugarcane,Urea
+Alkaline,130,80,135,6.5,1000,20,sugarcane,Urea
+Alkaline,135,80,135,6.5,1000,20,sugarcane,Urea
+Alkaline,140,80,135,6.5,1000,20,sugarcane,Urea
+Alkaline,145,80,135,6.5,1000,20,sugarcane,Urea
+Alkaline,150,80,135,6.5,1000,20,sugarcane,Urea
+Alkaline,120,60,140,7.0,1100,25,sugarcane,DAP
+Alkaline,125,60,140,7.0,1100,25,sugarcane,DAP
+Alkaline,130,60,140,7.0,1100,25,sugarcane,DAP
+Alkaline,135,60,140,7.0,1100,25,sugarcane,DAP
+Alkaline,140,60,140,7.0,1100,25,sugarcane,DAP
+Alkaline,145,60,140,7.0,1100,25,sugarcane,DAP
+Alkaline,150,60,140,7.0,1100,25,sugarcane,DAP
+Alkaline,120,65,145,7.5,1200,30,sugarcane,DAP
+Alkaline,125,65,145,7.5,1200,30,sugarcane,DAP
+Alkaline,130,65,145,7.5,1200,30,sugarcane,DAP
+Alkaline,135,65,145,7.5,1200,30,sugarcane,DAP
+Alkaline,140,65,145,7.5,1200,30,sugarcane,DAP
+Alkaline,145,65,145,7.5,1200,30,sugarcane,DAP
+Alkaline,150,65,145,7.5,1200,30,sugarcane,DAP
+Alkaline,120,70,150,6.5,1300,35,sugarcane,DAP
+Alkaline,125,70,150,6.5,1300,35,sugarcane,DAP
+Alkaline,130,70,150,6.5,1300,35,sugarcane,DAP
+Alkaline,135,70,150,6.5,1300,35,sugarcane,DAP
+Alkaline,140,70,150,6.5,1300,35,sugarcane,DAP
+Alkaline,145,70,150,6.5,1300,35,sugarcane,DAP
+Alkaline,150,70,150,6.5,1300,35,sugarcane,DAP
+Alkaline,120,75,120,7.0,1400,20,sugarcane,DAP
+Alkaline,125,75,120,7.0,1400,20,sugarcane,DAP
+Alkaline,130,75,120,7.0,1400,20,sugarcane,DAP
+Alkaline,135,75,120,7.0,1400,20,sugarcane,DAP
+Alkaline,140,75,120,7.0,1400,20,sugarcane,DAP
+Alkaline,145,75,120,7.0,1400,20,sugarcane,DAP
+Alkaline,150,75,120,7.0,1400,20,sugarcane,DAP
+Alkaline,120,80,125,7.5,1500,25,sugarcane,DAP
+Alkaline,125,80,125,7.5,1500,25,sugarcane,DAP
+Alkaline,130,80,125,7.5,1500,25,sugarcane,DAP
+Alkaline,135,80,125,7.5,1500,25,sugarcane,DAP
+Alkaline,140,80,125,7.5,1500,25,sugarcane,DAP
+Alkaline,145,80,125,7.5,1500,25,sugarcane,DAP
+Alkaline,150,80,125,7.5,1500,25,sugarcane,DAP
+Alkaline,120,60,130,6.5,1000,30,sugarcane,MOP
+Alkaline,125,60,130,6.5,1000,30,sugarcane,MOP
+Alkaline,130,60,130,6.5,1000,30,sugarcane,MOP
+Alkaline,135,60,130,6.5,1000,30,sugarcane,MOP
+Alkaline,140,60,130,6.5,1000,30,sugarcane,MOP
+Alkaline,145,60,130,6.5,1000,30,sugarcane,MOP
+Alkaline,150,60,130,6.5,1000,30,sugarcane,MOP
+Alkaline,120,65,135,7.0,1100,35,sugarcane,MOP
+Alkaline,125,65,135,7.0,1100,35,sugarcane,MOP
+Alkaline,130,65,135,7.0,1100,35,sugarcane,MOP
+Alkaline,135,65,135,7.0,1100,35,sugarcane,MOP
+Alkaline,140,65,135,7.0,1100,35,sugarcane,MOP
+Alkaline,145,65,135,7.0,1100,35,sugarcane,MOP
+Alkaline,150,65,135,7.0,1100,35,sugarcane,MOP
+Alkaline,120,70,140,7.5,1200,20,sugarcane,MOP
+Alkaline,125,70,140,7.5,1200,20,sugarcane,MOP
+Alkaline,130,70,140,7.5,1200,20,sugarcane,MOP
+Alkaline,135,70,140,7.5,1200,20,sugarcane,MOP
+Alkaline,140,70,140,7.5,1200,20,sugarcane,MOP
+Alkaline,145,70,140,7.5,1200,20,sugarcane,MOP
+Alkaline,150,70,140,7.5,1200,20,sugarcane,MOP
+Alkaline,120,75,145,6.5,1300,25,sugarcane,MOP
+Alkaline,125,75,145,6.5,1300,25,sugarcane,MOP
+Alkaline,130,75,145,6.5,1300,25,sugarcane,MOP
+Alkaline,135,75,145,6.5,1300,25,sugarcane,MOP
+Alkaline,140,75,145,6.5,1300,25,sugarcane,MOP
+Alkaline,145,75,145,6.5,1300,25,sugarcane,MOP
+Alkaline,150,75,145,6.5,1300,25,sugarcane,MOP
+Alkaline,120,80,150,7.0,1400,30,sugarcane,MOP
+Alkaline,125,80,150,7.0,1400,30,sugarcane,MOP
+Alkaline,130,80,150,7.0,1400,30,sugarcane,MOP
+Alkaline,135,80,150,7.0,1400,30,sugarcane,MOP
+Alkaline,140,80,150,7.0,1400,30,sugarcane,MOP
+Alkaline,145,80,150,7.0,1400,30,sugarcane,MOP
+Alkaline,150,80,150,7.0,1400,30,sugarcane,MOP
