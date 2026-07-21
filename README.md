@@ -53,6 +53,8 @@ The application is deployed using Streamlit Cloud and can be accessed through a 
 
 Predictions are based on trained models and should be used as supportive guidance alongside expert agricultural advice.
 
+**Live App**: https://your-app-name.streamlit.app
+
 ---
 
 ✨ Empowering smart farming with AI
